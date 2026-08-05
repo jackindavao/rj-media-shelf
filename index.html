@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RJ's Media Shelf</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #f4f1e8;
+      color: #263238;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+      line-height: 1.5;
+    }
+    .top {
+      background: #174f4a;
+      color: #fff;
+      padding: 30px 18px 26px;
+      text-align: center;
+    }
+    .top h1 { margin: 0 0 8px; font-size: 34px; }
+    .top p { max-width: 720px; margin: 0 auto; color: #e6f2ef; }
+    .rule {
+      max-width: 900px;
+      margin: 18px auto 0;
+      padding: 12px 15px;
+      background: #fff8d9;
+      border-left: 6px solid #e09f3e;
+      color: #3d382b;
+      text-align: left;
+      border-radius: 5px;
+    }
+    main { max-width: 1040px; margin: 0 auto; padding: 16px; }
+    nav {
+      margin: 8px 0 22px;
+      text-align: center;
+    }
+    nav a {
+      display: inline-block;
+      margin: 5px 3px;
+      padding: 9px 12px;
+      border-radius: 20px;
+      color: #174f4a;
+      background: #fff;
+      border: 1px solid #b8c9c4;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section { margin: 30px 0 38px; }
+    section h2 {
+      margin: 0 0 5px;
+      color: #174f4a;
+      font-size: 28px;
+    }
+    .section-note { margin: 0 0 16px; color: #52615e; }
+    .cards { display: flex; flex-wrap: wrap; margin: -8px; }
+    .card {
+      width: calc(50% - 16px);
+      margin: 8px;
+      background: #fff;
+      border: 1px solid #d8d4c8;
+      border-radius: 9px;
+      overflow: hidden;
+      box-shadow: 0 2px 7px rgba(20, 43, 39, .09);
+    }
+    .thumb {
+      display: block;
+      position: relative;
+      background: #dfe8e5;
+    }
+    .thumb img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+    }
+    .duration {
+      position: absolute;
+      right: 8px;
+      bottom: 8px;
+      padding: 3px 7px;
+      color: #fff;
+      background: rgba(0,0,0,.78);
+      border-radius: 4px;
+      font-size: 14px;
+      font-weight: bold;
+    }
+    .body { padding: 15px; }
+    .number { color: #7a4e00; font-weight: bold; font-size: 15px; }
+    .body h3 { margin: 3px 0 8px; font-size: 22px; line-height: 1.25; }
+    .description { margin: 0 0 12px; }
+    .meta { color: #5b6765; font-size: 15px; margin: 0 0 12px; }
+    .tag {
+      display: inline-block;
+      margin: 0 4px 4px 0;
+      padding: 3px 7px;
+      border-radius: 4px;
+      background: #e7f1ee;
+      color: #174f4a;
+      font-size: 14px;
+      font-weight: bold;
+    }
+    .tag.dessert { background: #fff0c2; color: #754d00; }
+    .watch {
+      display: block;
+      margin-top: 10px;
+      padding: 11px 14px;
+      border-radius: 6px;
+      background: #bd3b2e;
+      color: #fff;
+      text-align: center;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    details { margin-top: 12px; font-size: 15px; color: #4b5654; }
+    summary { cursor: pointer; color: #174f4a; font-weight: bold; }
+    footer {
+      padding: 22px 16px 34px;
+      color: #56615f;
+      text-align: center;
+      font-size: 15px;
+    }
+    @media (max-width: 680px) {
+      body { font-size: 17px; }
+      .top h1 { font-size: 29px; }
+      .card { width: calc(100% - 16px); }
+      section h2 { font-size: 25px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="top">
+    <h1>RJ's Media Shelf</h1>
+    <p>Twenty-five good things to watch, wonder about, and try.</p>
+    <div class="rule"><strong>Choose before you press play.</strong> Watch the agreed number of selections, then stop when the video ends. Autoplay should stay off.</div>
+  </header>
+
+  <main>
+    <nav aria-label="Catalog sections">
+      <a href="#philippines">Philippines</a>
+      <a href="#nature">Nature</a>
+      <a href="#science">Science</a>
+      <a href="#arts">Art &amp; music</a>
+      <a href="#stories">Stories</a>
+    </nav>
+
+    <section id="philippines">
+      <h2>Philippines &amp; Filipino</h2>
+      <p class="section-note">Meet people from Philippine history and practice listening to Filipino.</p>
+      <div class="cards">
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=BYAw6XokH3E"><img src="https://i.ytimg.com/vi/BYAw6XokH3E/hqdefault.jpg" alt="Young Andres Bonifacio"><span class="duration">7:29</span></a>
+          <div class="body"><span class="number">1 of 25</span><h3>Young Andres Bonifacio</h3><p class="description">What was Andres Bonifacio like before he became a hero? Meet the hardworking boy behind the famous name.</p><p class="meta">Knowledge Channel · Filipino · No captions verified</p><span class="tag">History</span><span class="tag">Filipino</span><a class="watch" href="https://www.youtube.com/watch?v=BYAw6XokH3E">Watch video</a><details><summary>Why an adult chose this</summary>Knowledge Channel presents Bonifacio at a child-accessible length and emphasizes his early life, work, and development rather than treating him only as an icon.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=gTmmITQx0KY"><img src="https://i.ytimg.com/vi/gTmmITQx0KY/hqdefault.jpg" alt="Melchora Aquino in Bayani"><span class="duration">14:17</span></a>
+          <div class="body"><span class="number">2 of 25</span><h3>Melchora Aquino</h3><p class="description">Discover how “Tandang Sora” helped people with courage, care, food, and shelter.</p><p class="meta">Knowledge Channel · Filipino · Filipino captions</p><span class="tag">History</span><span class="tag">Filipino</span><span class="tag">Empathy</span><a class="watch" href="https://www.youtube.com/watch?v=gTmmITQx0KY">Watch video</a><details><summary>Why an adult chose this</summary>A woman hero whose contribution was brave, practical service to others. The dramatized program was made for young Philippine learners.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=q5_NfhjmZiI"><img src="https://i.ytimg.com/vi/q5_NfhjmZiI/hqdefault.jpg" alt="Gabriela Silang in Bayani"><span class="duration">10:25</span></a>
+          <div class="body"><span class="number">3 of 25</span><h3>Gabriela Silang, Part 1</h3><p class="description">Meet Gabriela Silang and learn about the experiences that helped shape her courage.</p><p class="meta">Knowledge Channel · Filipino · Useful captions not verified</p><span class="tag">History</span><span class="tag">Filipino</span><a class="watch" href="https://www.youtube.com/watch?v=q5_NfhjmZiI">Watch video</a><details><summary>Why an adult chose this</summary>A child-oriented dramatization about a major Filipina historical figure. This first part supplies biographical context at a manageable length.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=01G2ypqnxMA"><img src="https://i.ytimg.com/vi/01G2ypqnxMA/hqdefault.jpg" alt="Illustrated Jose Rizal biography"><span class="duration">2:57</span></a>
+          <div class="body"><span class="number">4 of 25</span><h3>Jose Rizal: A Short Introduction</h3><p class="description">A quick illustrated introduction to Jose Rizal as a doctor, writer, reformer, and hero.</p><p class="meta">Pinoy History Videos · Filipino · No captions verified</p><span class="tag">History</span><span class="tag">Filipino</span><span class="tag">Books</span><a class="watch" href="https://www.youtube.com/watch?v=01G2ypqnxMA">Watch video</a><details><summary>Why an adult chose this</summary>A concise starting point likely to prompt questions about Rizal's many kinds of work. Adults can explain that “national hero” is customary recognition, not a title established by one law.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=NjrpBHEUS4g"><img src="https://i.ytimg.com/vi/NjrpBHEUS4g/hqdefault.jpg" alt="DepEd lesson about Philippine regions"><span class="duration">20:01</span></a>
+          <div class="body"><span class="number">5 of 25</span><h3>Finding Provinces on a Map</h3><p class="description">Use maps, directions, and clues to locate provinces within a Philippine region.</p><p class="meta">DepEd TV · Filipino · Useful captions not verified</p><span class="tag">Geography</span><span class="tag">Filipino</span><span class="tag">Grade 3</span><a class="watch" href="https://www.youtube.com/watch?v=NjrpBHEUS4g">Watch video</a><details><summary>Why an adult chose this</summary>An official Grade 3 DepEd lesson that combines beginner Filipino listening with concrete map skills. It is one of the catalog's deliberately longer items.</details></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="nature">
+      <h2>Nature &amp; animals</h2>
+      <p class="section-note">Look closely at living things and the places they inhabit.</p>
+      <div class="cards">
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=rKQfJFAHW8Q"><img src="https://i.ytimg.com/vi/rKQfJFAHW8Q/hqdefault.jpg" alt="Several kinds of insects"><span class="duration">5:45</span></a>
+          <div class="body"><span class="number">6 of 25</span><h3>All About Insects</h3><p class="description">How can you tell whether a tiny creature is an insect? Compare bees, butterflies, ladybugs, ants, and flies.</p><p class="meta">Free School · English · English captions</p><span class="tag">Insects</span><span class="tag">Classification</span><a class="watch" href="https://www.youtube.com/watch?v=rKQfJFAHW8Q">Watch video</a><details><summary>Why an adult chose this</summary>A clear overview that gives RJ useful features to look for outdoors, including six legs and insect body structure.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=5Rmv3nliwCs"><img src="https://i.ytimg.com/vi/5Rmv3nliwCs/hqdefault.jpg" alt="Sea turtle swimming"><span class="duration">3:45</span></a>
+          <div class="body"><span class="number">7 of 25</span><h3>Sea Turtles 101</h3><p class="description">Travel with ancient ocean reptiles and learn how their bodies help them live at sea.</p><p class="meta">National Geographic · English · English captions</p><span class="tag">Ocean</span><span class="tag">Reptiles</span><a class="watch" href="https://www.youtube.com/watch?v=5Rmv3nliwCs">Watch video</a><details><summary>Why an adult chose this</summary>Excellent wildlife footage supports a compact explanation of adaptation and conservation without a frantic presentation.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=Scy9DATVpB0"><img src="https://i.ytimg.com/vi/Scy9DATVpB0/hqdefault.jpg" alt="Nature Cat characters making a garden"><span class="duration">3:26</span></a>
+          <div class="body"><span class="number">8 of 25</span><h3>The Urban Gardening Club</h3><p class="description">Can you make a garden without a big yard? Daisy uses containers, soil, seeds, and planning.</p><p class="meta">PBS KIDS · English · English captions</p><span class="tag">Plants</span><span class="tag">Gardening</span><span class="tag dessert">Dessert</span><a class="watch" href="https://www.youtube.com/watch?v=Scy9DATVpB0">Watch video</a><details><summary>Why an adult chose this</summary>A light fictional story tied to a realistic, achievable project. It may prompt RJ to plant something in a reused container.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=mZm7mdcBqgQ"><img src="https://i.ytimg.com/vi/mZm7mdcBqgQ/hqdefault.jpg" alt="Jelly, Ben, Pogo and a lizard"><span class="duration">3:10</span></a>
+          <div class="body"><span class="number">9 of 25</span><h3>Best Lizard</h3><p class="description">Jelly, Ben, and Pogo find an overheated lizard and work out what their new friend needs.</p><p class="meta">PBS KIDS · English with Filipino words · English captions</p><span class="tag">Animals</span><span class="tag">Problem solving</span><span class="tag dessert">Dessert</span><a class="watch" href="https://www.youtube.com/watch?v=mZm7mdcBqgQ">Watch video</a><details><summary>Why an adult chose this</summary>A Filipino-American series that combines gentle humor, animal care, empathy, and collaborative problem solving in three minutes.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=83zcCB5zI5M"><img src="https://i.ytimg.com/vi/83zcCB5zI5M/hqdefault.jpg" alt="Cat being examined"><span class="duration">4:55</span></a>
+          <div class="body"><span class="number">10 of 25</span><h3>Why Do Cats Purr?</h3><p class="description">Cats purr when they are cozy—but not only then. Investigate the clues scientists use.</p><p class="meta">Mystery Science · English · English captions</p><span class="tag">Cats</span><span class="tag">Questions</span><a class="watch" href="https://www.youtube.com/watch?v=83zcCB5zI5M">Watch video</a><details><summary>Why an adult chose this</summary>Begins with a child's question and models honest scientific uncertainty: some good questions do not yet have one complete answer.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=3Rf0dIk_Eec"><img src="https://i.ytimg.com/vi/3Rf0dIk_Eec/hqdefault.jpg" alt="Baby animals"><span class="duration">8:28</span></a>
+          <div class="body"><span class="number">11 of 25</span><h3>Eight Minutes of Baby Animals</h3><p class="description">Relax with bear cubs, a young octopus, and other baby animals being curious and playful.</p><p class="meta">Nat Geo Animals · English · English captions</p><span class="tag">Wildlife</span><span class="tag dessert">Dessert</span><a class="watch" href="https://www.youtube.com/watch?v=3Rf0dIk_Eec">Watch video</a><details><summary>Why an adult chose this</summary>This is intentionally pleasure-first viewing, but it uses high-quality natural-history footage rather than toy, celebrity, or fandom content. The description contains brief promotion of other Nat Geo programs.</details></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="science">
+      <h2>Science &amp; how things work</h2>
+      <p class="section-note">Follow evidence, mechanisms, and questions from the everyday world.</p>
+      <div class="cards">
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=cDlHHCGbMc4"><img src="https://i.ytimg.com/vi/cDlHHCGbMc4/hqdefault.jpg" alt="Honeybee and honeycomb"><span class="duration">5:50</span></a>
+          <div class="body"><span class="number">12 of 25</span><h3>How Do Bees Make Honey?</h3><p class="description">Follow nectar from a flower into a hive and discover how bees turn it into thick, sweet honey.</p><p class="meta">Mystery Science · English · English captions</p><span class="tag">Bees</span><span class="tag">Food science</span><a class="watch" href="https://www.youtube.com/watch?v=cDlHHCGbMc4">Watch video</a><details><summary>Why an adult chose this</summary>A familiar food becomes a chain of observable biological and physical processes, presented in response to a fourth-grader's question.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=V5RSpMQQOpw"><img src="https://i.ytimg.com/vi/V5RSpMQQOpw/hqdefault.jpg" alt="Caterpillar and butterfly life cycle"><span class="duration">3:58</span></a>
+          <div class="body"><span class="number">13 of 25</span><h3>How a Caterpillar Becomes a Butterfly</h3><p class="description">See the stages of metamorphosis from egg to caterpillar, pupa, and butterfly.</p><p class="meta">SciShow Kids · English · No captions verified</p><span class="tag">Life cycles</span><span class="tag">Butterflies</span><a class="watch" href="https://www.youtube.com/watch?v=V5RSpMQQOpw">Watch video</a><details><summary>Why an adult chose this</summary>A concise, age-matched introduction that supplies vocabulary RJ can use when observing insects.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=SZrTndD1H10"><img src="https://i.ytimg.com/vi/SZrTndD1H10/hqdefault.jpg" alt="Bumblebee collecting pollen from a flower"><span class="duration">3:49</span></a>
+          <div class="body"><span class="number">14 of 25</span><h3>A Bumblebee's Secret Buzz</h3><p class="description">Watch a bumblebee vibrate a flower to unlock hidden pollen—and learn why tomatoes need this trick.</p><p class="meta">Deep Look / KQED · English · English captions</p><span class="tag">Pollination</span><span class="tag">Slow motion</span><a class="watch" href="https://www.youtube.com/watch?v=SZrTndD1H10">Watch video</a><details><summary>Why an adult chose this</summary>Remarkable close-up footage reveals a mechanism invisible at ordinary speed. It includes a brief, neutral explanation of flower reproduction.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=SNF8b7KKJ2I"><img src="https://i.ytimg.com/vi/SNF8b7KKJ2I/hqdefault.jpg" alt="Plants and animals in an ecosystem"><span class="duration">9:16</span></a>
+          <div class="body"><span class="number">15 of 25</span><h3>How Ecosystems Fit Together</h3><p class="description">Explore how plants, animals, water, soil, and sunlight depend on one another.</p><p class="meta">Homeschool Pop · English · English captions</p><span class="tag">Ecology</span><span class="tag">Systems</span><a class="watch" href="https://www.youtube.com/watch?v=SNF8b7KKJ2I">Watch video</a><details><summary>Why an adult chose this</summary>Moves beyond isolated animal facts to relationships and systems—an important idea that can be applied to a nearby garden or pond.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=LSfNYpCprw4"><img src="https://i.ytimg.com/vi/LSfNYpCprw4/hqdefault.jpg" alt="Six simple machines"><span class="duration">7:02</span></a>
+          <div class="body"><span class="number">16 of 25</span><h3>The Six Simple Machines</h3><p class="description">Find levers, pulleys, wheels, wedges, screws, and inclined planes hiding in everyday objects.</p><p class="meta">Learn Bright · English · English captions</p><span class="tag">Engineering</span><span class="tag">Machines</span><a class="watch" href="https://www.youtube.com/watch?v=LSfNYpCprw4">Watch video</a><details><summary>Why an adult chose this</summary>Introduces reusable engineering ideas and invites an immediate offline scavenger hunt for examples around the home.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=7KPaxKUDj6I"><img src="https://i.ytimg.com/vi/7KPaxKUDj6I/hqdefault.jpg" alt="Folding a paper airplane"><span class="duration">4:17</span></a>
+          <div class="body"><span class="number">17 of 25</span><h3>Make a Paper Airplane</h3><p class="description">Fold a paper airplane, fly it, and think about what helps it stay in the air.</p><p class="meta">SciShow Kids · English · English captions</p><span class="tag">Make it</span><span class="tag">Flight</span><a class="watch" href="https://www.youtube.com/watch?v=7KPaxKUDj6I">Watch video</a><details><summary>Why an adult chose this</summary>Viewing leads directly to making, testing, comparing, and revising a design. Paper and a safe open area are all that is needed.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=hyf5JF_VxwM"><img src="https://i.ytimg.com/vi/hyf5JF_VxwM/hqdefault.jpg" alt="Diagram of a solar eclipse"><span class="duration">2:06</span></a>
+          <div class="body"><span class="number">18 of 25</span><h3>What Is a Solar Eclipse?</h3><p class="description">Line up the Sun, Moon, and Earth to see why daytime can suddenly become dark.</p><p class="meta">NASA Space Place · English · English captions</p><span class="tag">Space</span><span class="tag">Astronomy</span><a class="watch" href="https://www.youtube.com/watch?v=hyf5JF_VxwM">Watch video</a><details><summary>Why an adult chose this</summary>A short, authoritative NASA explanation with a clear physical model and no unnecessary suspense.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=kPPIqkiPvJA"><img src="https://i.ytimg.com/vi/kPPIqkiPvJA/hqdefault.jpg" alt="Child wondering about hiccups"><span class="duration">6:02</span></a>
+          <div class="body"><span class="number">19 of 25</span><h3>Why Do We Get Hiccups?</h3><p class="description">Investigate the diaphragm, the “hic” sound, and why scientists still have questions about hiccups.</p><p class="meta">Mystery Science · English · English captions</p><span class="tag">Human body</span><span class="tag">Questions</span><a class="watch" href="https://www.youtube.com/watch?v=kPPIqkiPvJA">Watch video</a><details><summary>Why an adult chose this</summary>An everyday annoyance becomes anatomy and evidence. It also distinguishes what is known from ideas scientists are still testing.</details></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="arts">
+      <h2>Art, making &amp; music</h2>
+      <p class="section-note">Keep paper and a pencil nearby—these are invitations to do something.</p>
+      <div class="cards">
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=TxU8msKBqAw"><img src="https://i.ytimg.com/vi/TxU8msKBqAw/hqdefault.jpg" alt="Step-by-step butterfly drawing"><span class="duration">5:06</span></a>
+          <div class="body"><span class="number">20 of 25</span><h3>Draw a Butterfly</h3><p class="description">Follow a few simple shapes to draw a butterfly, then invent your own wing patterns.</p><p class="meta">Art for Kids Hub · English · English captions</p><span class="tag">Drawing</span><span class="tag">Make it</span><a class="watch" href="https://www.youtube.com/watch?v=TxU8msKBqAw">Watch video</a><details><summary>Why an adult chose this</summary>A calm, achievable activity connected to RJ's interest in insects. The suggested extension—observing and inventing patterns—keeps it creative.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=RmzjCPQv3y8"><img src="https://i.ytimg.com/vi/RmzjCPQv3y8/hqdefault.jpg" alt="Author Mo Willems doodling"><span class="duration">22:05</span></a>
+          <div class="body"><span class="number">21 of 25</span><h3>Lunch Doodles with Mo Willems</h3><p class="description">Visit an author's studio and doodle alongside Mo Willems. Bring paper and anything that makes a mark.</p><p class="meta">The Kennedy Center · English · English captions</p><span class="tag">Drawing</span><span class="tag">Writing</span><span class="tag dessert">Dessert</span><a class="watch" href="https://www.youtube.com/watch?v=RmzjCPQv3y8">Watch video</a><details><summary>Why an adult chose this</summary>A warm, unhurried invitation to create rather than passively consume. It is longer because the child is expected to draw during the program.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.youtube.com/watch?v=zgaQFLUdUL0"><img src="https://i.ytimg.com/vi/zgaQFLUdUL0/hqdefault.jpg" alt="Orchestra musician demonstrating a violin"><span class="duration">8:40</span></a>
+          <div class="body"><span class="number">22 of 25</span><h3>Meet the Violin</h3><p class="description">A professional musician introduces the violin, shows how it makes sound, and demonstrates what it can do.</p><p class="meta">Philharmonia Orchestra · English · English captions</p><span class="tag">Music knowledge</span><span class="tag">Instruments</span><a class="watch" href="https://www.youtube.com/watch?v=zgaQFLUdUL0">Watch video</a><details><summary>Why an adult chose this</summary>Music is treated as craft and skilled practice rather than celebrity performance. The source is a professional orchestra.</details></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="stories">
+      <h2>Stories about character</h2>
+      <p class="section-note">Three illustrated stories about honesty, persistence, and small acts that matter.</p>
+      <div class="cards">
+        <article class="card">
+          <a class="thumb" href="https://storylineonline.net/books/the-empty-pot/"><img src="https://storylineonline.net/wp-content/uploads/2019/02/EmptyPotThumbnail_Web.jpg" alt="The Empty Pot illustrated story"><span class="duration">8 min</span></a>
+          <div class="body"><span class="number">23 of 25</span><h3>The Empty Pot</h3><p class="description">Ping tries his very best to grow a seed. When nothing sprouts, what should he show the Emperor?</p><p class="meta">Storyline Online · English · Grade 1–2 · Captions not confirmed</p><span class="tag">Honesty</span><span class="tag">Diligence</span><a class="watch" href="https://storylineonline.net/books/the-empty-pot/">Watch story</a><details><summary>Why an adult chose this</summary>A beautifully illustrated test of honesty in which effort does not produce the expected visible result. Storyline Online is a SAG-AFTRA Foundation literacy program.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://storylineonline.net/books/the-most-magnificent-thing/"><img src="https://storylineonline.net/wp-content/uploads/2026/03/MagnificentThingSOWebsiteRollerOverImage-1024x576.png" alt="The Most Magnificent Thing illustrated story"><span class="duration">8 min</span></a>
+          <div class="body"><span class="number">24 of 25</span><h3>The Most Magnificent Thing</h3><p class="description">A girl has a brilliant idea—but building it takes mistakes, frustration, a break, and another try.</p><p class="meta">Storyline Online · English · Grade K–2 · Captions not confirmed</p><span class="tag">Perseverance</span><span class="tag">Making</span><span class="tag dessert">Dessert</span><a class="watch" href="https://storylineonline.net/books/the-most-magnificent-thing/">Watch story</a><details><summary>Why an adult chose this</summary>A girl maker experiences a realistic creative process: repeated failure, anger, perspective, revision, and eventual progress.</details></div>
+        </article>
+
+        <article class="card">
+          <a class="thumb" href="https://www.pbs.org/video/read-aloud-little-things-a-story-about-kindness-tbxujm/"><img src="https://image.pbs.org/video-assets/1QOGr4O-asset-mezzanine-16x9-00gGVtM.jpg?focalcrop=1200x630x50x10&amp;format=auto" alt="Little Things story about kindness"><span class="duration">4:44</span></a>
+          <div class="body"><span class="number">25 of 25</span><h3>Little Things: A Story About Kindness</h3><p class="description">One girl cannot save every sea star on the beach. Can saving just one still matter?</p><p class="meta">PBS Camp TV · English · Closed captions · TV-Y</p><span class="tag">Kindness</span><span class="tag">Empathy</span><a class="watch" href="https://www.pbs.org/video/read-aloud-little-things-a-story-about-kindness-tbxujm/">Watch story</a><details><summary>Why an adult chose this</summary>A brief story about achievable action: being unable to solve an entire problem does not make a helpful act meaningless.</details></div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Curated and link-checked August 5, 2026. Availability, advertising, captions, and surrounding platform content can change. An adult should test every link on the Huawei tablet before first use and keep autoplay off.
+  </footer>
+</body>
+</html>
