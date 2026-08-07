@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7c948">
+  <title>RJ's Filipino Reading Room</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="shelf-link" href="../">← Media Shelf</a>
+    <div class="sun" aria-hidden="true">☀</div>
+    <p class="eyebrow">RJ’S FILIPINO READING ROOM</p>
+    <h1>Basahin natin!</h1>
+    <p class="intro">Short Filipino readings for growing readers. Tap a highlighted word when you need a little help.</p>
+  </header>
+
+  <nav class="tabs" aria-label="Reading room sections">
+    <button class="tab active" type="button" data-view="stories" aria-selected="true">📖 Read</button>
+    <button class="tab" type="button" data-view="sentences" aria-selected="false">💬 Sentences</button>
+    <button class="tab" type="button" data-view="words" aria-selected="false">🔎 Words</button>
+  </nav>
+
+  <main>
+    <section id="stories" class="view active" aria-labelledby="stories-title">
+      <div class="section-heading">
+        <div>
+          <p class="kicker">MGA MUNTING KUWENTO</p>
+          <h2 id="stories-title">Choose a short reading</h2>
+        </div>
+        <p class="tip">Tip: Read aloud once before opening the English.</p>
+      </div>
+      <div id="story-list" class="story-list"></div>
+    </section>
+
+    <section id="sentences" class="view" aria-labelledby="sentences-title" hidden>
+      <div class="section-heading">
+        <div>
+          <p class="kicker">ISANG PANGUNGUSAP</p>
+          <h2 id="sentences-title">Sentence practice</h2>
+        </div>
+        <p class="tip"><span id="sentence-count">0</span> examples from RJ’s vocabulary reference.</p>
+      </div>
+      <div class="practice-card">
+        <p class="practice-label">READ THIS</p>
+        <p id="practice-sentence" class="practice-sentence">Loading…</p>
+        <button id="show-sentence" class="soft-button" type="button">Show English</button>
+        <p id="practice-english" class="practice-english" hidden></p>
+        <div class="practice-wordline">
+          <span id="practice-word" class="word-pill"></span>
+          <span id="practice-meaning"></span>
+        </div>
+        <div class="card-actions">
+          <button id="speak-sentence" class="round-button" type="button" aria-label="Listen to the Filipino sentence">🔊 Listen</button>
+          <button id="next-sentence" class="primary-button" type="button">Next sentence →</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="words" class="view" aria-labelledby="words-title" hidden>
+      <div class="section-heading">
+        <div>
+          <p class="kicker">HANAPIN ANG SALITA</p>
+          <h2 id="words-title">Word shelf</h2>
+        </div>
+        <p class="tip">Search in Filipino or English.</p>
+      </div>
+      <label class="search-box">
+        <span aria-hidden="true">⌕</span>
+        <span class="sr-only">Search words</span>
+        <input id="word-search" type="search" placeholder="Try tubig or water…" autocomplete="off">
+      </label>
+      <p id="word-result-count" class="result-count"></p>
+      <div id="word-list" class="word-list"></div>
+      <button id="more-words" class="soft-button more-button" type="button">Show more</button>
+    </section>
+  </main>
+
+  <div id="word-popover" class="word-popover" role="dialog" aria-live="polite" hidden>
+    <button id="close-popover" type="button" aria-label="Close word help">×</button>
+    <strong id="popover-word"></strong>
+    <span id="popover-meaning"></span>
+  </div>
+
+  <footer>
+    <p>Kaunti-kaunti, araw-araw. <span>Little by little, every day.</span></p>
+  </footer>
+  <script src="app.js"></script>
+</body>
+</html>
