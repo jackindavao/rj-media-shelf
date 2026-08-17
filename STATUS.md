@@ -6,15 +6,15 @@ Last updated: 2026-08-17
 
 - Branch: `main`
 - Remote: `origin` → `https://github.com/jackindavao/rj-media-shelf.git`
-- Current published commit before the Module 2 work: `7a45737`
+- Module 2 publication commit: `e2fc5b1`
 - Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 - Live Module 0: <https://jackindavao.github.io/rj-media-shelf/filipino/module-00/>
 - Live Module 1: <https://jackindavao.github.io/rj-media-shelf/filipino/module-01/>
 - Live Module 1 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-01/guide.html>
-- Module 2 will be live at:
+- Live Module 2:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-02/>
-- Module 2 guide will be live at:
+- Live Module 2 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-02/guide.html>
 
 ## Completed
@@ -33,11 +33,13 @@ Last updated: 2026-08-17
   reader, adult guide, and seven optimized illustrations.
 - Module 2's adult guide adds concise Filipino stress guidance and a story-word
   pronunciation key in response to the adult reader's question.
+- The live library, Module 2 reader, Module 2 guide, and representative image were
+  verified with HTTP 200 after publication commit `e2fc5b1`.
 
 ## Immediate next step
 
-Complete the verification and publishing checklist, record the resulting commit
-here, and then wait for the user's observations after RJ reads Module 2.
+Wait for the user's observations after RJ reads Module 2. Do not create Module 3
+until the user asks to proceed or supplies feedback that clearly implies it.
 
 Useful Module 2 observations are listed in its guide: whether RJ understands the
 rejected solutions, construction sequence, and safety test; connects
