@@ -1,6 +1,6 @@
 # RJ Filipino shared-reading project context
 
-Last updated: 2026-08-14
+Last updated: 2026-08-17
 
 ## Goal and audience
 
@@ -24,8 +24,10 @@ The project is a static GitHub Pages library:
 - Module 0 adult guide: `filipino/module-00/guide.html`
 - Module 1 child reader: `filipino/module-01/index.html`
 - Module 1 adult guide: `filipino/module-01/guide.html`
-- Illustrations: `filipino/assets/module-00/` and
-  `filipino/assets/module-01/`
+- Module 2 child reader: `filipino/module-02/index.html`
+- Module 2 adult guide: `filipino/module-02/guide.html`
+- Illustrations: `filipino/assets/module-00/`, `filipino/assets/module-01/`,
+  and `filipino/assets/module-02/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -88,7 +90,7 @@ The user's report after repeated readings is crucial calibration evidence:
 Interpretation: Module 0 validated contextual, “surreptitious” grammar learning.
 Success is a reason to preserve the level and method, not to accelerate abruptly.
 
-## Module 1: current module
+## Module 1: observed result
 
 Title: *Dorothy at ang Munting Binhi*
 
@@ -103,12 +105,43 @@ Title: *Dorothy at ang Munting Binhi*
 - Contextual new forms include `nakita`, `itatanim`, `naghukay`, `inilagay`,
   `tinakpan`, `diniligan`, `naghintay`, `inalagaan`, `tumubo`, and `lumaki`
 
-Module 1 intentionally matches Module 0's level and four-day routine. Its visual
-sequence makes each new action inferable from the illustration. The adult guide
-contains the full translation, vocabulary table, grammar notes, sample answers,
-and observation prompts for calibrating Module 2.
+Module 1 intentionally matched Module 0's level and four-day routine. The user's
+report confirmed that this was again the right choice:
 
-No family reading report for Module 1 has been received yet as of 2026-08-14.
+- RJ explained why the first two planting places were rejected and why the third
+  was chosen.
+- She connected `itatanim` with the later planting and `tumubo` with the sprout in
+  story context. The user correctly did not assume that this proves explicit
+  knowledge of the `i-`/`-um-` contrast.
+- The rejection of the place under the tree became the most predictable frame.
+- She retold the planting sequence from the pictures.
+- The two causal questions felt just right and did not interrupt the story.
+- The three-new-pages-plus-rereading rhythm continued to hold attention.
+- She loved all the art, with the final flower-and-bird illustration probably her
+  favorite.
+- Difficulty and the approximately 10–15 new words remained exactly right.
+- She continued to infer inflected forms naturally from context.
+
+The only new support request was occasional uncertainty about word stress for the
+adult reader. A Filipino-speaking nephew records the stories, which remains the
+best pronunciation model. Module 2's guide adds a concise adult-only stress key.
+
+## Module 2: current module
+
+Title: *Dorothy at ang Munting Tulay*
+
+- 12 pages
+- 258 running Filipino words
+- 7 illustrations
+- Six discussion questions
+- Cooperative bridge-building plot: find a stranded turtle, reject a short branch
+  and slippery stones, build a wood-and-rope bridge, test it, and cross safely
+- Contextual transfer includes familiar `inilagay` plus `tatawid`/`tumawid`
+- Adult guide includes the usual translation, vocabulary, grammar, and answers,
+  plus practical stress guidance and a marked key for important story words
+
+Module 2 preserves the established level and four-day routine. Its illustrations
+make the construction order, rejected solutions, and safety test visually clear.
 
 ## Creative continuity
 
@@ -118,10 +151,9 @@ are original and avoid film-specific likenesses. Each guide includes a productio
 note to that effect.
 
 The visual style is lush, warm, detailed watercolor and colored pencil on
-textured paper in 3:2 landscape format. Module 1 used Module 0 art, and then its
-own approved images, as identity/style references during generation. Final web
-assets were resized to 1200×800 JPEG at quality 88, resulting in roughly
-350–405 KB per image.
+textured paper in 3:2 landscape format. Later modules use approved earlier art as
+identity/style references during generation. Final web assets are resized to
+1200×800 JPEG at quality 88, generally around 350–430 KB per image.
 
 The illustrations are not decorative extras: they must clearly communicate plot,
 actions, spatial relationships, emotional tone, and the meaning of new words.

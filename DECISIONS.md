@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-08-14
+Last updated: 2026-08-17
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -105,3 +105,24 @@ selected, inspected images resized to 1200×800 JPEG (currently quality 88).
 
 **Why:** This preserves visual quality while keeping module downloads practical on
 an older tablet and a potentially limited connection.
+
+## D-012 — Add adult-only pronunciation support
+
+**Decision:** Adult guides may mark stress on a short set of important story words
+and briefly explain the four KWF pronunciation patterns. Keep those diacritics out
+of the child story unless normal spelling requires them, and continue to prefer a
+fluent speaker's recording as the model for natural rhythm.
+
+**Why:** The adult reader reported occasional uncertainty about stress while RJ,
+who hears Filipino at school, has a good ear and sometimes corrects pronunciation.
+Filipino spelling does not provide a fully reliable Spanish-style stress rule;
+targeted adult support solves the practical problem without cluttering RJ's text.
+
+## D-013 — Reuse causal reasoning in new domains
+
+**Decision:** Module 2 transfers the successful compare-and-choose structure from
+planting to cooperative bridge building, including a final safety test.
+
+**Why:** RJ found the planting choices logical and the “why” questions satisfying.
+Changing the domain while preserving the reasoning load tests transfer without
+raising the decoding level.
