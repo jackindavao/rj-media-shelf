@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-08-17
+Last updated: 2026-08-19
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -126,3 +126,59 @@ planting to cooperative bridge building, including a final safety test.
 **Why:** RJ found the planting choices logical and the “why” questions satisfying.
 Changing the domain while preserving the reasoning load tests transfer without
 raising the decoding level.
+
+## D-014 — Rotate rather than accumulate video choices
+
+**Decision:** Keep exactly 25 selections on the active root shelf and archive each
+retired catalog under `videos/edition-NN/`.
+
+**Why:** The project exists to replace an infinite recommendation feed with a
+finite set. An ever-growing active archive would recreate the choice problem.
+
+## D-015 — Permit a narrow melodic vocal-music category
+
+**Decision:** Include a small number of carefully reviewed Filipino, school,
+folk, choral, traditional, hymn, or educational performances when the words are
+age-appropriate and the musical value lies chiefly in melody, harmony, and
+singing together.
+
+**Why:** RJ enjoys and performs this music, and Filipino songs add meaningful
+language exposure. The exception does not authorize general commercial music
+browsing or recommendation trails.
+
+## D-016 — Treat the first Roblox shelf as a play-test bench
+
+**Decision:** Begin with 10–12 exact promising experiences, all labeled for an
+adult-child first visit. Promote an experience to the family's approved list only
+after checking its current social systems, monetization, maturity, controls,
+stopping points, and actual play loop.
+
+**Why:** Roblox experiences are live services and can change independently of the
+catalog page. Honest curation requires current gameplay, not just page research.
+
+## D-017 — Use Roblox through finite entry points
+
+**Decision:** Return to the catalog to choose another experience rather than using
+search or recommendations. Keep communication off, spending at zero, and prefer
+single-player or private-server play with natural 10–25 minute stopping points.
+
+**Why:** This preserves the successful Media Shelf solution while accommodating
+Roblox's social, commercial, and endlessly browsable design.
+
+## D-018 — Separate typing instruction from game practice
+
+**Decision:** Teach home-row position, assigned fingers, and accuracy with a
+structured tutor. Use falling-letter, timed, or Roblox typing games only as short
+practice after technique is introduced. Never use Roblox chat as practice.
+
+**Why:** Speed games can motivate repetition but can also reinforce hunt-and-peck.
+Open chat adds social pressure and unnecessary exposure without sound instruction.
+
+## D-019 — Start Roblox creation tiny and explainable
+
+**Decision:** Begin on the Windows 11 laptop with a private one-room Studio project
+and one scripted behavior. AI may explain or help change one small element at a
+time, but RJ and the adult must be able to explain retained code.
+
+**Why:** At age eight, environment design and iterative testing are accessible.
+A tiny finished game builds agency better than an opaque generated project.

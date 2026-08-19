@@ -1,7 +1,7 @@
 # MediaDog project instructions
 
 These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
-`DECISIONS.md`, and `STATUS.md` before continuing the Filipino reading project.
+`DECISIONS.md`, and `STATUS.md` before continuing any project work.
 
 ## Repository roles
 
@@ -44,6 +44,26 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
   inspection is necessary, use a per-command safe-directory option instead of
   changing global Git configuration without authorization.
 
+## Video and Roblox shelves
+
+- The root `index.html` is the current 25-item video shelf. Preserve each retired
+  shelf under `videos/edition-NN/` and link it from the current shelf.
+- Keep the adult research records in the ignored local `Sources/` directory.
+  `Sources/selection_criteria.md` governs videos and
+  `Sources/roblox_selection_criteria.md` governs Roblox experiences.
+- Publish the Roblox pilot under `roblox/`. Roblox experiences are mutable: do
+  not call one fully approved until an adult has played its current version and
+  checked content maturity, social features, monetization, stopping points, and
+  behavior on RJ's Windows 11 laptop.
+- RJ uses Roblox and Roblox Studio on a Windows 11 laptop with keyboard and mouse.
+  The older Huawei tablet remains relevant to the video and reading sites only.
+- Distinguish typing instruction from speed practice. A timer or falling-letter
+  game is a supplement to explicit home-row and finger-placement instruction,
+  and Roblox chat is never a typing exercise.
+- Favor experiences with legible mechanics that invite a creator's-eye question.
+  Early Studio projects remain tiny, private, adult-supported, and explainable;
+  never paste opaque AI code, complete games, or arbitrary free models.
+
 ## Calibration rules for future modules
 
 - Do not raise the reading level merely because the preceding module succeeded.
@@ -63,9 +83,10 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
 
 ## Verification and publishing
 
-Before committing a new module:
+Before publishing a material site update:
 
-1. Confirm the intended page, word, illustration, and question counts.
+1. For a reading module, confirm the intended page, word, illustration, and
+   question counts. For catalogs, confirm item counts and exact destinations.
 2. Check all local `href` and `src` references.
 3. Serve the site locally and confirm HTTP 200 for the library, reader, guide,
    and representative image assets.

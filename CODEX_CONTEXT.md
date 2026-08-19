@@ -1,6 +1,50 @@
-# RJ Filipino shared-reading project context
+# RJ's Media Shelf project context
 
-Last updated: 2026-08-17
+Last updated: 2026-08-19
+
+## Project family
+
+MediaDog now publishes three related finite, adult-curated resources from one
+plain-HTML GitHub Pages repository:
+
+- the current 25-item video shelf at the site root;
+- the calibrated Filipino shared-reading library under `filipino/`; and
+- an 11-experience Roblox play-test shelf plus a creator path under `roblox/`.
+
+The common design principle is a small human-chosen front door in place of an
+infinite algorithmic feed. The video and reading sites must remain usable on an
+older Huawei MediaPad T3. RJ plays Roblox and uses Roblox Studio on the adult's
+Windows 11 laptop with keyboard and mouse.
+
+## Video shelf status and interests
+
+Video Edition 1 is preserved at `videos/edition-01/`. Video Edition 2 replaces
+the root shelf with 25 new selections. It responds to RJ's interest in anatomy
+and physiology (beginning with how fingernails grow), her enjoyment of
+Filipino-language hero programs, and her enjoyment of melodic vocal music.
+
+The narrow music allowance favors familiar school, folk, choral, traditional,
+or educational songs chosen for singable melody, harmony, language, and age-
+appropriate words. It is not a general opening to commercial music feeds.
+
+## Roblox status and device
+
+The first Roblox shelf is deliberately a pilot bench, not a list of permanent
+approvals. Its 11 exact experiences cover exploration, puzzles, planning,
+building, pleasure-first platforming, coding trials, and typing practice. Every
+one begins as “play together first” because live content, chat, monetization,
+ownership, and mechanics can change.
+
+The family's Windows 11 keyboard-and-mouse setup is a positive fit for touch
+typing and Roblox Studio. The Typing Game is labeled practice rather than
+instruction. A structured tutor should teach home row, assigned fingers, and
+accuracy first; short falling-letter or timed rounds can then supply enjoyable
+practice. Never use open chat as a typing drill.
+
+The creator path begins with a private one-room garden game: build an environment,
+test after tiny changes, add one seed-collection behavior, and use AI only for
+small explainable steps. At age eight, the adult handles setup, account safety,
+publishing, and code review while RJ owns design and testing decisions.
 
 ## Goal and audience
 

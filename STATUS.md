@@ -1,12 +1,19 @@
 # Current project status
 
-Last updated: 2026-08-17
+Last updated: 2026-08-19
 
 ## Restart point
 
 - Branch: `main`
 - Remote: `origin` → `https://github.com/jackindavao/rj-media-shelf.git`
-- Module 2 publication commit: `e2fc5b1`
+- Last published commit before the shelf expansion: `2a1bdaf`
+- Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
+- Archived Video Edition 1 (after deployment):
+  <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
+- Roblox pilot (after deployment):
+  <https://jackindavao.github.io/rj-media-shelf/roblox/>
+- Roblox creator path (after deployment):
+  <https://jackindavao.github.io/rj-media-shelf/roblox/create/>
 - Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 - Live Module 0: <https://jackindavao.github.io/rj-media-shelf/filipino/module-00/>
 - Live Module 1: <https://jackindavao.github.io/rj-media-shelf/filipino/module-01/>
@@ -35,11 +42,18 @@ Last updated: 2026-08-17
   pronunciation key in response to the adult reader's question.
 - The live library, Module 2 reader, Module 2 guide, and representative image were
   verified with HTTP 200 after publication commit `e2fc5b1`.
+- Video Edition 1 has been preserved under `videos/edition-01/`.
+- A complete 25-selection Video Edition 2 has been built at the site root with
+  strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
+- An 11-experience Roblox pilot, selection criteria, first-visit checklist,
+  touch-typing route, and small Roblox Studio creator pathway have been built.
 
 ## Immediate next step
 
-Wait for the user's observations after RJ reads Module 2. Do not create Module 3
-until the user asks to proceed or supplies feedback that clearly implies it.
+Validate the expanded site locally, commit and push it, verify GitHub Pages, then
+record the deployment commit here. After deployment, the next substantive inputs
+are (a) RJ's response to Video Edition 2, (b) the family's actual first-visit
+Roblox checks, and (c) RJ's observations after reading Filipino Module 2.
 
 Useful Module 2 observations are listed in its guide: whether RJ understands the
 rejected solutions, construction sequence, and safety test; connects
