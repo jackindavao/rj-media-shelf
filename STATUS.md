@@ -6,13 +6,13 @@ Last updated: 2026-08-19
 
 - Branch: `main`
 - Remote: `origin` → `https://github.com/jackindavao/rj-media-shelf.git`
-- Last published commit before the shelf expansion: `2a1bdaf`
+- Shelf expansion publication commit: `077b012`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
-- Archived Video Edition 1 (after deployment):
+- Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
-- Roblox pilot (after deployment):
+- Roblox pilot:
   <https://jackindavao.github.io/rj-media-shelf/roblox/>
-- Roblox creator path (after deployment):
+- Roblox creator path:
   <https://jackindavao.github.io/rj-media-shelf/roblox/create/>
 - Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 - Live Module 0: <https://jackindavao.github.io/rj-media-shelf/filipino/module-00/>
@@ -47,13 +47,16 @@ Last updated: 2026-08-19
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
 - An 11-experience Roblox pilot, selection criteria, first-visit checklist,
   touch-typing route, and small Roblox Studio creator pathway have been built.
+- The root Edition 2 shelf, Edition 1 archive, Roblox pilot, Roblox creator path,
+  and existing Filipino library were verified live with HTTP 200 on August 19,
+  2026 after publication commit `077b012`.
 
 ## Immediate next step
 
-Validate the expanded site locally, commit and push it, verify GitHub Pages, then
-record the deployment commit here. After deployment, the next substantive inputs
-are (a) RJ's response to Video Edition 2, (b) the family's actual first-visit
-Roblox checks, and (c) RJ's observations after reading Filipino Module 2.
+The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
+family's actual first-visit Roblox checks, and (c) RJ's observations after reading
+Filipino Module 2. Do not describe a Roblox experience as fully approved until
+the adult-child current-version play-test has been completed.
 
 Useful Module 2 observations are listed in its guide: whether RJ understands the
 rejected solutions, construction sequence, and safety test; connects
