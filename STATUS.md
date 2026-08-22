@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-08-19
+Last updated: 2026-08-22
 
 ## Restart point
 
@@ -23,6 +23,10 @@ Last updated: 2026-08-19
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-02/>
 - Live Module 2 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-02/guide.html>
+- Live Module 3:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-03/>
+- Live Module 3 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-03/guide.html>
 
 ## Completed
 
@@ -42,6 +46,17 @@ Last updated: 2026-08-19
   pronunciation key in response to the adult reader's question.
 - The live library, Module 2 reader, Module 2 guide, and representative image were
   verified with HTTP 200 after publication commit `e2fc5b1`.
+- Detailed Module 2 feedback has been incorporated. It confirms the established
+  difficulty, vocabulary load, four-day rhythm, causal reasoning, construction
+  retelling, `tatawid`/`tumawid` and `inilagay` transfer, usefulness of the
+  pronunciation aid and fluent recordings, and sustained high enjoyment.
+- Module 3, *Dorothy at ang Munting Awit*, has been published with a 263-word
+  child reader, adult guide, six discussion questions, and seven optimized
+  illustrations. It moves into attentive listening and melody without raising
+  the calibrated reading level.
+- The live library, Module 3 reader, Module 3 guide, cover, and final illustration
+  were verified with HTTP 200 on August 22, 2026 after publication commit
+  `8935c8d`.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -55,13 +70,14 @@ Last updated: 2026-08-19
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 2. Do not describe a Roblox experience as fully approved until
+Filipino Module 3. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 2 observations are listed in its guide: whether RJ understands the
-rejected solutions, construction sequence, and safety test; connects
-`tatawid`/`tumawid`; transfers `inilagay`; benefits from the pronunciation key;
-and sustains attention and enjoyment through the same four-day rhythm.
+Useful Module 3 observations are listed in its guide: whether RJ understands why
+the waterfall is rejected and why the friends wait quietly; can retell the sound
+sequence; connects `aawit`/`umawit`, `makikinig`/`nakinig`, and
+`nakalimutan`/`naalala`; benefits from the expanded pronunciation key; and
+sustains attention and enjoyment through the same four-day rhythm.
 
 ## Known non-blocking details
 
