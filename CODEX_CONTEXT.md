@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-08-19
+Last updated: 2026-08-22
 
 ## Project family
 
@@ -70,8 +70,10 @@ The project is a static GitHub Pages library:
 - Module 1 adult guide: `filipino/module-01/guide.html`
 - Module 2 child reader: `filipino/module-02/index.html`
 - Module 2 adult guide: `filipino/module-02/guide.html`
+- Module 3 child reader: `filipino/module-03/index.html`
+- Module 3 adult guide: `filipino/module-03/guide.html`
 - Illustrations: `filipino/assets/module-00/`, `filipino/assets/module-01/`,
-  and `filipino/assets/module-02/`
+  `filipino/assets/module-02/`, and `filipino/assets/module-03/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -170,7 +172,7 @@ The only new support request was occasional uncertainty about word stress for th
 adult reader. A Filipino-speaking nephew records the stories, which remains the
 best pronunciation model. Module 2's guide adds a concise adult-only stress key.
 
-## Module 2: current module
+## Module 2: observed result
 
 Title: *Dorothy at ang Munting Tulay*
 
@@ -184,8 +186,46 @@ Title: *Dorothy at ang Munting Tulay*
 - Adult guide includes the usual translation, vocabulary, grammar, and answers,
   plus practical stress guidance and a marked key for important story words
 
-Module 2 preserves the established level and four-day routine. Its illustrations
-make the construction order, rejected solutions, and safety test visually clear.
+The user's report again confirmed the calibration:
+
+- RJ explained why the branch and stones were rejected and why the finished
+  bridge was safer.
+- She connected `tatawid` with `tumawid` and transferred familiar `inilagay`
+  into the construction sequence.
+- She retold the construction order from both the pictures and the story and
+  understood why Toto tested the bridge before the turtle crossed.
+- The pronunciation key was useful. Recordings by the Filipino-speaking nephew
+  were particularly valuable to the adult reader, who noticed that final stress
+  is more common in Filipino than his Spanish-based expectation had suggested.
+- The four-day cumulative rhythm still held attention. Difficulty and the roughly
+  10–15 new words again felt exactly right, and enjoyment remained very high.
+- The illustration of Toto testing the bridge was probably the favorite.
+- RJ noticed that the two long branches in the preceding construction image
+  initially seemed to run perpendicular to the wood pieces rather than beneath
+  them. A closer look prompted a useful discussion of the ropes as support, but
+  future construction art should make intended spatial relationships immediately
+  unambiguous.
+
+## Module 3: current module
+
+Title: *Dorothy at ang Munting Awit*
+
+- 12 pages
+- 263 running Filipino words
+- 7 illustrations
+- Six discussion questions
+- Music-and-listening plot: a little bird forgets its song; a loud waterfall is
+  rejected; leaves, river water, Tik-Tok's ticking, quiet waiting, and patient
+  friends help the melody return
+- Contextual transfer includes `aawit`/`umawit`, `makikinig`/`nakinig`, and
+  `nakalimutan`/`naalala`
+- The adult pronunciation support is retained and expanded in response to the
+  successful use of the Module 2 key and the nephew's fluent recordings
+
+Module 3 deliberately changes the sensory domain while preserving the established
+length, sentence load, causal structure, new-word target, and four-day routine.
+Its illustrations make each source of sound, the overwhelming waterfall, the
+patient pause, and the joyful solution visually clear.
 
 ## Creative continuity
 

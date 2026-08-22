@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-08-19
+Last updated: 2026-08-22
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -182,3 +182,33 @@ time, but RJ and the adult must be able to explain retained code.
 
 **Why:** At age eight, environment design and iterative testing are accessible.
 A tiny finished game builds agency better than an opaque generated project.
+
+## D-020 — Retain pronunciation aids and fluent recordings
+
+**Decision:** Continue the short adult-only stress key in each guide and expand it
+when a story introduces several potentially uncertain words. Treat recordings by
+a fluent Filipino speaker as the preferred model for connected rhythm and stress.
+
+**Why:** The Module 2 key helped, and the nephew's recordings were especially
+useful. The adult correctly observed that final stress is substantially more
+common than a Spanish-derived spelling rule would predict.
+
+## D-021 — Transfer the pattern into a sound-and-music story
+
+**Decision:** Module 3 moves from physical construction to listening and melody
+while preserving the calibrated length, vocabulary load, causal reasoning, and
+four-day reading routine.
+
+**Why:** Three modules at the same level have produced strong comprehension,
+morphological transfer, and enjoyment. A new sensory domain adds richness without
+mistaking success for evidence that decoding difficulty should increase.
+
+## D-022 — Make spatial relationships immediately legible in art
+
+**Decision:** When an illustration depicts construction or another ordered
+physical process, require the position and support role of each important part to
+be evident at first glance.
+
+**Why:** RJ thoughtfully noticed an apparent ambiguity in Module 2's branch
+orientation. The resulting discussion was useful, but instructional art should
+not depend on repairing an unintended spatial reading.
