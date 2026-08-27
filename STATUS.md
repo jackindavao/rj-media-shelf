@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-08-22
+Last updated: 2026-08-27
 
 ## Restart point
 
@@ -27,6 +27,10 @@ Last updated: 2026-08-22
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-03/>
 - Live Module 3 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-03/guide.html>
+- Live Module 4:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-04/>
+- Live Module 4 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-04/guide.html>
 
 ## Completed
 
@@ -57,6 +61,18 @@ Last updated: 2026-08-22
 - The live library, Module 3 reader, Module 3 guide, cover, and final illustration
   were verified with HTTP 200 on August 22, 2026 after publication commit
   `8935c8d`.
+- Detailed Module 3 feedback has been incorporated. Comprehension, the sound
+  sequence, patient pause, contextual verb timing, illustrations, pronunciation
+  support, cumulative rhythm, and enjoyment all remained strong. The adult's
+  conservative count of roughly 50 unfamiliar surface forms is now treated as a
+  ceiling rather than a target.
+- Module 4, *Dorothy at ang Saranggolang Dilaw*, has been published with a
+  256-word child reader, adult guide, six discussion questions, and seven
+  optimized illustrations. It deliberately tightens lexical novelty while
+  preserving causal choices, contextual morphology, and the four-day routine.
+- The live library, Module 4 reader, Module 4 guide, cover, and final illustration
+  were verified with HTTP 200 on August 27, 2026 after publication commit
+  `f8faacb`.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -70,14 +86,14 @@ Last updated: 2026-08-22
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 3. Do not describe a Roblox experience as fully approved until
+Filipino Module 4. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 3 observations are listed in its guide: whether RJ understands why
-the waterfall is rejected and why the friends wait quietly; can retell the sound
-sequence; connects `aawit`/`umawit`, `makikinig`/`nakinig`, and
-`nakalimutan`/`naalala`; benefits from the expanded pronunciation key; and
-sustains attention and enjoyment through the same four-day rhythm.
+Useful Module 4 observations are listed in its guide: the unfamiliar-word count
+using the same method as Module 3; whether RJ understands both rejected locations
+and the successful hill; connects `gagawa`/`gumawa` and `lilipad`/`lumipad`;
+retells the kite's movement; benefits from the pronunciation key; and sustains
+attention and enjoyment through the same four-day rhythm.
 
 ## Known non-blocking details
 
