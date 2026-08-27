@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-08-22
+Last updated: 2026-08-27
 
 ## Project family
 
@@ -72,8 +72,11 @@ The project is a static GitHub Pages library:
 - Module 2 adult guide: `filipino/module-02/guide.html`
 - Module 3 child reader: `filipino/module-03/index.html`
 - Module 3 adult guide: `filipino/module-03/guide.html`
+- Module 4 child reader: `filipino/module-04/index.html`
+- Module 4 adult guide: `filipino/module-04/guide.html`
 - Illustrations: `filipino/assets/module-00/`, `filipino/assets/module-01/`,
-  `filipino/assets/module-02/`, and `filipino/assets/module-03/`
+  `filipino/assets/module-02/`, `filipino/assets/module-03/`, and
+  `filipino/assets/module-04/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -206,7 +209,7 @@ The user's report again confirmed the calibration:
   future construction art should make intended spatial relationships immediately
   unambiguous.
 
-## Module 3: current module
+## Module 3: observed result
 
 Title: *Dorothy at ang Munting Awit*
 
@@ -222,10 +225,52 @@ Title: *Dorothy at ang Munting Awit*
 - The adult pronunciation support is retained and expanded in response to the
   successful use of the Module 2 key and the nephew's fluent recordings
 
-Module 3 deliberately changes the sensory domain while preserving the established
-length, sentence load, causal structure, new-word target, and four-day routine.
-Its illustrations make each source of sound, the overwhelming waterfall, the
-patient pause, and the joyful solution visually clear.
+The user's report confirmed strong comprehension and enjoyment while adding an
+important vocabulary calibration:
+
+- RJ explained why the waterfall was rejected and retold the leaves, river, and
+  Tik-Tok sound sequence.
+- She inferred the timing of `aawit`/`umawit` and `makikinig`/`nakinig` from
+  context. Without a formal lesson, she and the adult noticed that the story's
+  `-um-` forms often referred to completed events and doubled early syllables to
+  events that had not happened yet. This is valuable pattern recognition but not
+  yet a general grammar rule.
+- `nakalimutan`/`naalala` was understandable, though not clearly predictable.
+- The reason for patient silence was obvious from context and ordinary good
+  manners even though the story did not explicitly state it.
+- Every sound idea was clear from the illustrations. RJ especially liked the
+  first lantern-hanging picture and continued to love all the art.
+- The expanded pronunciation key was definitely useful with the fluent recording.
+- The four-day cumulative rhythm remained right and enjoyment stayed very high.
+- Using a deliberately conservative method that counts different inflections as
+  different words, the adult counted roughly 50 unfamiliar forms. The story was
+  manageable, but future modules should not exceed that load and should preferably
+  tighten it.
+
+## Module 4: current module
+
+Title: *Dorothy at ang Saranggolang Dilaw*
+
+- 12 pages
+- 256 running Filipino words
+- 7 illustrations
+- Six discussion questions
+- Kite-making and safe-location plot: make a yellow kite; reject low branches
+  beneath the trees; reject dangerously strong wind beside the river; wait; then
+  choose an open hill with gentle wind
+- Contextual transfer includes `gagawa`/`gumawa`, `lilipad`/`lumipad`, familiar
+  `inilagay`, and visible changes such as `lumakas`/`humina`
+- Only 34 unique surface forms are absent from both the TSV and Modules 0–3, and
+  many of those are ordinary grammatical words or transparent members of familiar
+  families; the genuinely new conceptual cluster is much smaller
+- The adult guide explicitly treats RJ's morphology observation as an excellent
+  hypothesis while noting that Filipino verb aspect cannot be reduced to
+  “`-um-` means past” or “reduplication means future”
+
+Module 4 preserves the successful four-day routine and causal choice structure
+while deliberately tightening lexical novelty. Its illustrations make the kite's
+construction, each location's physical problem, and the successful flight
+immediately legible.
 
 ## Creative continuity
 

@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-08-22
+Last updated: 2026-08-27
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -212,3 +212,34 @@ be evident at first glance.
 **Why:** RJ thoughtfully noticed an apparent ambiguity in Module 2's branch
 orientation. The resulting discussion was useful, but instructional art should
 not depend on repairing an unintended spatial reading.
+
+## D-023 — Treat 50 unfamiliar surface forms as a ceiling
+
+**Decision:** Track the adult's conservative unfamiliar-word count alongside the
+project's word-family estimate. Do not exceed Module 3's roughly 50 unfamiliar
+surface forms; prefer a lower count while keeping stories natural.
+
+**Why:** Module 3 remained manageable and enjoyable, but its vocabulary felt
+noticeably denser. Different counting methods answer different questions: word
+families estimate conceptual load, while the adult's form-by-form count better
+captures what may look new on the page.
+
+## D-024 — Welcome morphology hypotheses without hardening them into rules
+
+**Decision:** Continue giving RJ contextual contrasts such as
+`gagawa`/`gumawa` and `lilipad`/`lumipad`. Acknowledge her observation about
+`-um-` and reduplication, but keep the fuller aspect explanation in the adult
+guide and avoid presenting either clue as a universal tense rule.
+
+**Why:** Her observation is strong evidence that contextual grammar learning is
+working. Filipino verb forms depend on aspect, affixes, focus, and context, so an
+early useful pattern should remain a revisable hypothesis.
+
+## D-025 — Use a kite story to tighten novelty while preserving reasoning
+
+**Decision:** Module 4 reuses familiar building, location, weather, waiting, and
+safety language around one small kite-specific vocabulary cluster.
+
+**Why:** The story can lower surface novelty without becoming repetitive. Its
+tree, river, and hill choices sustain the causal reasoning RJ consistently enjoys,
+and the kite's movement makes paired verb forms visually concrete.
