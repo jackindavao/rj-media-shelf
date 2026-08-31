@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-08-27
+Last updated: 2026-08-31
 
 ## Project family
 
@@ -74,9 +74,10 @@ The project is a static GitHub Pages library:
 - Module 3 adult guide: `filipino/module-03/guide.html`
 - Module 4 child reader: `filipino/module-04/index.html`
 - Module 4 adult guide: `filipino/module-04/guide.html`
-- Illustrations: `filipino/assets/module-00/`, `filipino/assets/module-01/`,
-  `filipino/assets/module-02/`, `filipino/assets/module-03/`, and
-  `filipino/assets/module-04/`
+- Module 5 child reader: `filipino/module-05/index.html`
+- Module 5 adult guide: `filipino/module-05/guide.html`
+- Illustrations: `filipino/assets/module-00/` through
+  `filipino/assets/module-05/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -247,7 +248,7 @@ important vocabulary calibration:
   manageable, but future modules should not exceed that load and should preferably
   tighten it.
 
-## Module 4: current module
+## Module 4: observed result
 
 Title: *Dorothy at ang Saranggolang Dilaw*
 
@@ -267,15 +268,59 @@ Title: *Dorothy at ang Saranggolang Dilaw*
   hypothesis while noting that Filipino verb aspect cannot be reduced to
   “`-um-` means past” or “reduplication means future”
 
-Module 4 preserves the successful four-day routine and causal choice structure
-while deliberately tightening lexical novelty. Its illustrations make the kite's
-construction, each location's physical problem, and the successful flight
-immediately legible.
+The user's report confirmed that the tighter lexical calibration worked:
+
+- RJ identified the kite's paper, sticks, string, and tail and explained both
+  rejected locations.
+- She explained why the hill worked in English. She can form simple Filipino
+  phrases spontaneously but not yet full sentences; this is a production-stage
+  observation, not a comprehension problem.
+- She connected `gagawa`/`gumawa` and `lilipad`/`lumipad`, understood
+  `lumakas`/`humina` and `umangat`/`bumaba`/`tumaas`, and easily retold the kite's
+  movement.
+- The adult counted about 30 unfamiliar surface forms. Module 4 felt a little
+  easier than Module 3 but not too repetitive, confirming that roughly 30 is a
+  productive current target.
+- The pronunciation key remained very useful. The Filipino-speaking nephew heard
+  RJ read and judged her pronunciation mostly right and entirely understandable.
+- The four-day cumulative rhythm continued to hold attention and enjoyment
+  remained very high.
+- The illustration above page 10 was the favorite. RJ accurately noticed that,
+  despite the prose, the bird was not actually clapping and Tik-Tok was not
+  actually dancing. Future illustrated actions named in the text must be literal,
+  not merely suggested by a generally joyful pose.
+
+## Module 5: current module
+
+Title: *Dorothy at si Ozma sa Landas ng mga Ilaw*
+
+- 12 pages
+- 257 running Filipino words
+- 7 illustrations
+- Six discussion questions
+- Princess Ozma asks the friends to help evening visitors find the palace garden;
+  wind defeats paper arrows, darkness defeats low white stones, and a tested line
+  of high bright lanterns succeeds after Ozma corrects one dark gap
+- 34 unique surface forms are absent from both the TSV and Modules 0–4, the same
+  programmatic level that corresponded to roughly 30 unfamiliar forms in Module 4
+- Contextual transfer includes `darating`/`dumating`, familiar construction and
+  location language, and visible result states such as `nakaturo`, `dumilim`, and
+  `maliwanag na`
+- The adult guide introduces optional natural sentence recasting from RJ's correct
+  Filipino phrases while continuing to accept English explanations fully
+- Page 9 literally shows Dorothy, Ozma, Tik-Tok, and the bird clapping for Toto;
+  page 12 literally shows the bird singing and Tik-Tok dancing
+
+Ozma's original recurring design is a gracious young ruler slightly taller than
+Dorothy, with long dark wavy hair, a narrow gold circlet with one emerald, an
+emerald-and-ivory dress with restrained gold-leaf embroidery, and green slippers.
+She is an active collaborator rather than a ceremonial guest.
 
 ## Creative continuity
 
 The stories take place in L. Frank Baum's literary Oz world and currently reuse
-Dorothy, Toto, Tik-Tok, and a small yellow bird with a red hat. Stories and images
+Dorothy, Toto, Tik-Tok, and a small yellow bird with a red hat. Princess Ozma
+joins them in Module 5 with the original design recorded above. Stories and images
 are original and avoid film-specific likenesses. Each guide includes a production
 note to that effect.
 

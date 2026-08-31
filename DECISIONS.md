@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-08-27
+Last updated: 2026-08-31
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -243,3 +243,45 @@ safety language around one small kite-specific vocabulary cluster.
 **Why:** The story can lower surface novelty without becoming repetitive. Its
 tree, river, and hill choices sustain the causal reasoning RJ consistently enjoys,
 and the kite's movement makes paired verb forms visually concrete.
+
+## D-026 — Target roughly 30 unfamiliar surface forms for now
+
+**Decision:** Use Module 4's adult-observed count of about 30 unfamiliar forms as
+the working target for Module 5, while retaining the broader 50-form ceiling.
+
+**Why:** Module 4 felt a little easier than Module 3 but remained interesting,
+clear, and highly enjoyable. This is better evidence than raising the load merely
+because RJ successfully managed the denser story.
+
+## D-027 — Separate comprehension from spontaneous Filipino production
+
+**Decision:** Continue accepting full English explanations and short Filipino
+phrases as strong evidence of comprehension. The adult may naturally recast a
+correct phrase as one complete Filipino sentence once, without requiring
+repetition or turning the story into oral drill.
+
+**Why:** RJ can explain complex causal reasoning in English and produce meaningful
+Filipino phrases, while full spontaneous sentences are still emerging. Modeling
+can expose useful syntax without misclassifying an expressive-language stage as a
+reading failure.
+
+## D-028 — Introduce Ozma as an active collaborator
+
+**Decision:** Princess Ozma enters in Module 5 with an original literary-inspired
+design and a substantive problem-solving role. Preserve her established dark
+wavy hair, emerald circlet, emerald-and-ivory dress, gold-leaf embroidery, and
+green slippers in any future appearance.
+
+**Why:** RJ explicitly requested Ozma. Making her define, test, and repair the
+solution gives the requested princess genuine agency and keeps her integrated
+with the story's reasoning rather than using her as decoration.
+
+## D-029 — Depict every named illustrated action literally
+
+**Decision:** If prose adjacent to an illustration says that a character claps,
+sings, dances, points, pulls, or performs another visible action, the final image
+must unmistakably show that exact action.
+
+**Why:** RJ noticed that Module 4's page-10 image did not literally show the bird
+clapping or Tik-Tok dancing. Her close reading is valuable evidence that general
+emotional agreement is not enough when pictures carry instructional meaning.

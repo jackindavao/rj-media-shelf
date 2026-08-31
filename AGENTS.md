@@ -30,7 +30,10 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
 - The recurring visual designs are: Dorothy with brown braided pigtails, blue
   bows, white puff-sleeve blouse, blue skirt, and silver shoes; Toto as a small
   shaggy black terrier; Tik-Tok as a short, round, friendly copper clockwork man
-  with a wind-up key; and a tiny yellow bird wearing a red floppy hat.
+  with a wind-up key; a tiny yellow bird wearing a red floppy hat; and Princess
+  Ozma as a gracious young ruler with long dark wavy hair, a narrow gold circlet
+  with one emerald, an emerald-and-ivory dress with restrained gold-leaf
+  embroidery, and green slippers.
 - Use original watercolor-and-colored-pencil storybook illustrations. Avoid
   film-specific likenesses, text embedded in images, watermarks, duplicate
   characters, and unexplained visual discontinuities.
