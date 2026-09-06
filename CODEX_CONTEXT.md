@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-08-31
+Last updated: 2026-09-06
 
 ## Project family
 
@@ -76,8 +76,10 @@ The project is a static GitHub Pages library:
 - Module 4 adult guide: `filipino/module-04/guide.html`
 - Module 5 child reader: `filipino/module-05/index.html`
 - Module 5 adult guide: `filipino/module-05/guide.html`
+- Module 6 child reader: `filipino/module-06/index.html`
+- Module 6 adult guide: `filipino/module-06/guide.html`
 - Illustrations: `filipino/assets/module-00/` through
-  `filipino/assets/module-05/`
+  `filipino/assets/module-06/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -290,7 +292,7 @@ The user's report confirmed that the tighter lexical calibration worked:
   actually dancing. Future illustrated actions named in the text must be literal,
   not merely suggested by a generally joyful pose.
 
-## Module 5: current module
+## Module 5: observed result
 
 Title: *Dorothy at si Ozma sa Landas ng mga Ilaw*
 
@@ -316,13 +318,63 @@ Dorothy, with long dark wavy hair, a narrow gold circlet with one emerald, an
 emerald-and-ivory dress with restrained gold-leaf embroidery, and green slippers.
 She is an active collaborator rather than a ceremonial guest.
 
+The user's report confirmed that Module 5 met its goals:
+
+- RJ appreciated Ozma's inclusion and understood her active role, both failed
+  markers, the need for high bright lanterns, Toto's test, and Ozma's correction.
+- She connected `darating` and `dumating`, understanding that the former event
+  had yet to happen and the latter had happened. Her useful “anything with
+  `ating`” hypothesis should be refined gently toward the shared base `dating`,
+  since unrelated `ating` also means “our.”
+- She retold the procedural sequence in English. English remains full evidence of
+  comprehension.
+- The adult counted 34 unfamiliar surface forms, confirming that the current
+  roughly 30–34 band is right.
+- The optional recast examples were useful, but spontaneous adult recasting is
+  not workable: the adult reader does not speak Filipino, and the fluent adult in
+  the home does not reliably supply elementary Filipino forms on demand.
+- Future guides should therefore provide exact short Filipino answers and small
+  complete models that can be used verbatim, without requiring either adult to
+  improvise.
+- Text and art agreed well. RJ questioned how a bird could clap; future prose
+  should name only characters physically suited to a visible action rather than
+  forcing a magical explanation unnecessarily.
+- Pronunciation support, the four-day rhythm, and enjoyment all remained strong.
+  The final celebration was the favorite because it showed “their happy faces and
+  their happy success.”
+
+## Module 6: current module
+
+Title: *Dorothy at si Polychrome sa Munting Bahaghari*
+
+- 12 pages
+- 264 running Filipino words
+- 7 illustrations
+- Six discussion questions, each with a two-to-five-word Filipino answer model
+- Polychrome arrives after rain and helps the friends make a small natural rainbow:
+  drops beneath a shaded tree lack sunlight, bucket drops in sunlight are too
+  large and fall too quickly, and fine airborne water succeeds when the Sun is
+  behind the viewers
+- 32 unique surface forms are absent from the TSV and Modules 0–5, closely matching
+  the programmatic novelty level that yielded practical counts of 30–34
+- The guide replaces improvised recasting with an exact answer bank offering both
+  the shortest useful phrase and a short complete sentence
+- The story also tests viewpoint: Dorothy moves, loses the colors, returns to the
+  correct place, and sees them again
+
+Polychrome's original recurring design is a slender fairy-like girl about
+Dorothy's height, with long pearly silver-blonde hair carrying a soft pastel
+sheen, a flowing layered translucent dress in rainbow colors, pale slippers, and
+no crown. She is a knowledgeable collaborator whose explanations connect each
+attempt to its visible result.
+
 ## Creative continuity
 
 The stories take place in L. Frank Baum's literary Oz world and currently reuse
 Dorothy, Toto, Tik-Tok, and a small yellow bird with a red hat. Princess Ozma
-joins them in Module 5 with the original design recorded above. Stories and images
-are original and avoid film-specific likenesses. Each guide includes a production
-note to that effect.
+joined them in Module 5 and Polychrome in Module 6, with the original designs
+recorded above. Stories and images are original and avoid film-specific
+likenesses. Each guide includes a production note to that effect.
 
 The visual style is lush, warm, detailed watercolor and colored pencil on
 textured paper in 3:2 landscape format. Later modules use approved earlier art as

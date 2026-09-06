@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-08-31
+Last updated: 2026-09-06
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -285,3 +285,43 @@ must unmistakably show that exact action.
 **Why:** RJ noticed that Module 4's page-10 image did not literally show the bird
 clapping or Tik-Tok dancing. Her close reading is valuable evidence that general
 emotional agreement is not enough when pictures carry instructional meaning.
+
+## D-030 — Supply exact short answers instead of improvised recasts
+
+**Decision:** Beginning with Module 6, pair every discussion question with a
+reliable two-to-five-word Filipino answer and, where useful, one short complete
+sentence. The adult may offer or read these verbatim but need not generate a new
+recast from RJ's spontaneous language.
+
+**Why:** Module 5's examples helped, but neither available adult can reliably
+produce elementary Filipino recasts on demand. Correct stored models preserve
+the benefit without asking the adult reader to guess at unfamiliar morphology.
+
+## D-031 — Refine morphology hypotheses around the actual base
+
+**Decision:** Affirm RJ's recognition that `darating` and `dumating` concern
+arrival, while identifying `dating` as their shared base. Do not teach the letter
+sequence `ating` as a general signal because it also occurs in unrelated words.
+
+**Why:** Contextual pattern finding is working exactly as intended. A small,
+adult-guide-only refinement keeps a productive hypothesis flexible and accurate.
+
+## D-032 — Introduce Polychrome through observable rainbow conditions
+
+**Decision:** Polychrome enters Module 6 as an active guide in a compare-and-test
+story about sunlight, fine airborne water, and viewing position. The rainbow is a
+real optical result within Oz rather than an unexplained spell.
+
+**Why:** RJ requested the Daughter of the Rainbow. A visible light-and-water
+problem gives her knowledge and agency, supports causal retelling, and adds a
+small accurate science idea without raising the reading level.
+
+## D-033 — Do not require impossible animal actions for group prose
+
+**Decision:** When a group action would be awkward for one member of the cast,
+name the characters who perform it. In Module 6, Dorothy and Tik-Tok clap while
+the bird watches rather than requiring the bird to clap magically.
+
+**Why:** RJ reasonably questioned how the bird could clap. Oz may be magical, but
+instructional text and art are clearer when ordinary physical actions remain
+internally coherent.
