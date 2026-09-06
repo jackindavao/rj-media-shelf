@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-08-27
+Last updated: 2026-09-06
 
 ## Restart point
 
@@ -31,6 +31,10 @@ Last updated: 2026-08-27
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-04/>
 - Live Module 4 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-04/guide.html>
+- Live Module 5:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-05/>
+- Live Module 5 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-05/guide.html>
 
 ## Completed
 
@@ -73,6 +77,24 @@ Last updated: 2026-08-27
 - The live library, Module 4 reader, Module 4 guide, cover, and final illustration
   were verified with HTTP 200 on August 27, 2026 after publication commit
   `f8faacb`.
+- Detailed Module 4 feedback has been incorporated. RJ understood the kite parts,
+  both rejected locations, the successful hill, the movement sequence, and the
+  paired verb forms in context. The adult counted about 30 unfamiliar surface
+  forms; this felt a little easier than Module 3 and is now the working target.
+  The pronunciation key and fluent recording remain useful, the four-day rhythm
+  still works, and enjoyment remains very high. RJ also caught a text-art mismatch
+  in which named clapping and dancing were not literally depicted; future images
+  must show every visible action named in adjacent prose.
+- Module 5, *Dorothy at si Ozma sa Landas ng mga Ilaw*, has been published with a
+  257-word child reader, adult guide, six discussion questions, and seven optimized
+  illustrations. Ozma is an active problem-solver in a sequence where paper arrows
+  and low stones fail before a tested lantern path succeeds.
+- Module 5 targets roughly 30 unfamiliar surface forms, includes optional natural
+  full-sentence recasting for RJ's correct Filipino phrases, and literally depicts
+  the clapping, singing, and dancing named in the prose.
+- The live library, Module 5 reader, Module 5 guide, cover, and final illustration
+  were verified with HTTP 200 on September 6, 2026 after publication commit
+  `4d9d68f`.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -86,14 +108,16 @@ Last updated: 2026-08-27
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 4. Do not describe a Roblox experience as fully approved until
+Filipino Module 5. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 4 observations are listed in its guide: the unfamiliar-word count
-using the same method as Module 3; whether RJ understands both rejected locations
-and the successful hill; connects `gagawa`/`gumawa` and `lilipad`/`lumipad`;
-retells the kite's movement; benefits from the pronunciation key; and sustains
-attention and enjoyment through the same four-day rhythm.
+Useful Module 5 observations are listed in its guide: whether RJ enjoys Ozma and
+understands her active role; why the arrows and stones fail; why the lanterns must
+be high and bright; whether `darating`/`dumating` transfers in context; whether she
+can retell Toto's test and Ozma's correction; how optional sentence recasting
+feels; whether unfamiliar forms remain near 30; whether every picture agrees with
+the prose; and whether pronunciation support, attention, and enjoyment remain
+strong.
 
 ## Known non-blocking details
 
