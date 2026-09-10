@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-09-06
+Last updated: 2026-09-10
 
 ## Restart point
 
@@ -35,6 +35,14 @@ Last updated: 2026-09-06
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-05/>
 - Live Module 5 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-05/guide.html>
+- Live Module 6:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-06/>
+- Live Module 6 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-06/guide.html>
+- Live Module 7:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-07/>
+- Live Module 7 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-07/guide.html>
 
 ## Completed
 
@@ -95,6 +103,25 @@ Last updated: 2026-09-06
 - The live library, Module 5 reader, Module 5 guide, cover, and final illustration
   were verified with HTTP 200 on September 6, 2026 after publication commit
   `4d9d68f`.
+- Module 6, *Dorothy at si Polychrome sa Munting Bahaghari*, was published with a
+  264-word child reader, adult guide, six short-answer questions, and seven
+  optimized illustrations after publication commit `72269cd`.
+- Detailed Module 6 feedback has been incorporated. RJ loved Polychrome and drew
+  her, understood the two failed attempts and all three rainbow conditions, used
+  some short Filipino answers voluntarily, and continued to thrive with the
+  pronunciation support and four-day rhythm. The adult's practical count of
+  roughly 38 unfamiliar forms remains an upper observation, not a new target.
+- Module 7, *Dorothy at si Polychrome sa Larawan para kay Ozma*, has been
+  published with a 260-word child reader, adult guide, six discussion questions,
+  and seven optimized illustrations. Its paint-mixing plot connects directly to
+  RJ's drawing, keeps Polychrome with the group, and deliberately reduces lexical
+  novelty to 27 forms absent from the TSV headword column and Modules 0–6.
+- Module 7's guide turns the useful short-answer bank into a self-checking path:
+  each answer has an exact evidence page and a printed either/or prompt, so the
+  adult never needs to improvise Filipino or diagnose grammar.
+- The live library, Module 7 reader, Module 7 guide, cover, and final illustration
+  were verified with HTTP 200 on September 10, 2026 after publication commit
+  `f5dd82a`.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -108,16 +135,16 @@ Last updated: 2026-09-06
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 5. Do not describe a Roblox experience as fully approved until
+Filipino Module 7. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 5 observations are listed in its guide: whether RJ enjoys Ozma and
-understands her active role; why the arrows and stones fail; why the lanterns must
-be high and bright; whether `darating`/`dumating` transfers in context; whether she
-can retell Toto's test and Ozma's correction; how optional sentence recasting
-feels; whether unfamiliar forms remain near 30; whether every picture agrees with
-the prose; and whether pronunciation support, attention, and enjoyment remain
-strong.
+Useful Module 7 observations are listed in its guide: whether RJ enjoys having
+Polychrome remain and connects the story to her own drawing; recall of the three
+paint mixtures; transfer of `hahaluin`/`hinalo` and
+`nanatili`/`mananatili`; whether the page-evidence and either/or prompts let the
+adult handle unexpected answers confidently; voluntary Filipino answers;
+practical unfamiliar-word count; text-art agreement; pronunciation; rhythm; and
+enjoyment.
 
 ## Known non-blocking details
 
