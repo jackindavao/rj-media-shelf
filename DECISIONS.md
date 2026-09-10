@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-09-06
+Last updated: 2026-09-10
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -325,3 +325,38 @@ the bird watches rather than requiring the bird to clap magically.
 **Why:** RJ reasonably questioned how the bird could clap. Oz may be magical, but
 instructional text and art are clearer when ordinary physical actions remain
 internally coherent.
+
+## D-034 — Turn answer support into a self-checking evidence path
+
+**Decision:** Beginning with Module 7, pair every short Filipino answer with its
+exact story page and a neutral either/or prompt. If an answer differs in meaning,
+the adult rereads that page, offers the printed choice, reads the short answer
+once, and moves on without improvising a grammar explanation.
+
+**Why:** The Module 6 short-answer bank was very useful, but the non-Filipino-
+speaking adult still needs a reliable way to respond when an answer differs.
+Returning to visible evidence supports comprehension while removing the need to
+diagnose grammar or invent a correction.
+
+## D-035 — Let Polychrome remain and connect the story to RJ's art
+
+**Decision:** Polychrome stays with the group in Module 7 and leads a practical
+paint-mixing story prompted by RJ's own colored drawing of her. Dorothy, Tik-Tok,
+and Polychrome each make or use a color, and the finished picture becomes a gift
+for Ozma.
+
+**Why:** RJ loved Polychrome, drew her, and noticed that she had not left. Carrying
+that relationship forward honors close reading and turns the child's creative
+response into the next story problem rather than treating the requested
+character as a one-module cameo.
+
+## D-036 — Hold lexical novelty below a successful upper count
+
+**Decision:** Treat the adult's roughly 38 unfamiliar Module 6 forms as a
+manageable upper observation, not a new target. Module 7 deliberately uses 27
+unique surface forms absent from the TSV headword column and Modules 0–6 while
+preserving the established 260-word scale.
+
+**Why:** Comprehension and enjoyment remained strong, but there is no reader
+evidence that a higher vocabulary load would improve learning. Repeated causal
+frames and familiar morphology remain more valuable than continual escalation.

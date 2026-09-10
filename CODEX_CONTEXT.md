@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-09-06
+Last updated: 2026-09-10
 
 ## Project family
 
@@ -78,8 +78,10 @@ The project is a static GitHub Pages library:
 - Module 5 adult guide: `filipino/module-05/guide.html`
 - Module 6 child reader: `filipino/module-06/index.html`
 - Module 6 adult guide: `filipino/module-06/guide.html`
+- Module 7 child reader: `filipino/module-07/index.html`
+- Module 7 adult guide: `filipino/module-07/guide.html`
 - Illustrations: `filipino/assets/module-00/` through
-  `filipino/assets/module-06/`
+  `filipino/assets/module-07/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -343,7 +345,7 @@ The user's report confirmed that Module 5 met its goals:
   The final celebration was the favorite because it showed “their happy faces and
   their happy success.”
 
-## Module 6: current module
+## Module 6: observed result
 
 Title: *Dorothy at si Polychrome sa Munting Bahaghari*
 
@@ -367,6 +369,39 @@ Dorothy's height, with long pearly silver-blonde hair carrying a soft pastel
 sheen, a flowing layered translucent dress in rainbow colors, pale slippers, and
 no crown. She is a knowledgeable collaborator whose explanations connect each
 attempt to its visible result.
+
+The user's report confirmed that Module 6 worked:
+
+- RJ loved Polychrome and made her own colored drawing based on the illustrations.
+- She understood both failed attempts, all three successful conditions, the
+  water-size contrast, and Dorothy's move-away-and-return test.
+- The short answer models were very helpful, and she sometimes chose or produced
+  a short Filipino answer voluntarily.
+- The adult counted about 38 unfamiliar forms, possibly including earlier forms.
+  This remained manageable but should not prompt a higher target.
+- The remaining question difficulty is adult confidence when an answer differs.
+  Future guides should attach an evidence page and printed either/or prompt to
+  each answer so correction never depends on improvised Filipino.
+- Every pictured action and spatial relationship agreed with the prose.
+- The nephew reports that RJ's pronunciation is doing fine. The four-day rhythm
+  and enjoyment remain strong.
+
+## Module 7: current module
+
+Title: *Dorothy at si Polychrome sa Larawan para kay Ozma*
+
+- 12 pages
+- 260 running Filipino words
+- 7 illustrations
+- Six short-answer questions with exact evidence pages and neutral either/or
+  rereading prompts
+- Dorothy, Tik-Tok, and Polychrome mix red, yellow, and blue paint into orange,
+  green, and violet, then finish a garden picture for Ozma
+- 27 unique surface forms are absent from the TSV headword column and Modules
+  0–6, below the preceding module's programmatic novelty count
+- Contextual transfer includes `hahaluin`/`hinalo`,
+  `makakagawa`/`nakagawa`, and `nanatili`/`mananatili`
+- Polychrome explicitly remains with the friends at both the beginning and end
 
 ## Creative continuity
 
