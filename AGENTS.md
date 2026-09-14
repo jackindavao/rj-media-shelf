@@ -36,6 +36,9 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
   embroidery, and green slippers; and Polychrome as a slender fairy-like girl
   about Dorothy's height, with long pearly silver-blonde hair carrying a pastel
   sheen, a flowing layered translucent rainbow dress, pale slippers, and no crown.
+- Professor Wogglebug's recurring design is a tall, friendly, upright beetle-like
+  scholar with two legs, four hands, two antennae, gentle spectacles, a brilliant
+  patchwork formal coat in red, yellow, blue, and green, and a small satchel.
 - Use original watercolor-and-colored-pencil storybook illustrations. Avoid
   film-specific likenesses, text embedded in images, watermarks, duplicate
   characters, and unexplained visual discontinuities.

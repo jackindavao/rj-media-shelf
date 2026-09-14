@@ -40,6 +40,8 @@ button, .button { font: inherit; }
 .site-header-inner,
 .library,
 .guide,
+.guide-header,
+.guide-main,
 .reader-intro,
 .question-page {
   width: min(1040px, calc(100% - 32px));
@@ -176,11 +178,12 @@ h1, h2, h3 { line-height: 1.15; }
 .questions li { margin: 14px 0; padding-left: .25em; font-size: 22px; }
 
 .guide { padding: 46px 0 80px; }
-.guide-header { padding-bottom: 28px; border-bottom: 2px solid var(--green); }
+.guide-header { padding-top: 36px; padding-bottom: 28px; border-bottom: 2px solid var(--green); }
 .guide-header h1 { margin: 4px 0 10px; color: var(--green-dark); font-size: 48px; }
-.guide h2 { margin-top: 48px; color: var(--green-dark); font-size: 31px; }
-.guide h3 { margin-top: 30px; color: var(--red); font-size: 23px; }
-.guide p, .guide li { max-width: 850px; }
+.guide-main { padding-bottom: 80px; }
+.guide h2, .guide-main h2 { margin-top: 48px; color: var(--green-dark); font-size: 31px; }
+.guide h3, .guide-main h3 { margin-top: 30px; color: var(--red); font-size: 23px; }
+.guide p, .guide li, .guide-main p, .guide-main li { max-width: 850px; }
 .guide-callout { margin: 24px 0; padding: 18px 22px; border-left: 6px solid var(--yellow); background: #fff9df; }
 
 .session-table, .vocab-table, .translation-table, .answers-table {
@@ -210,7 +213,7 @@ table tr:nth-child(even) td { background: #f6f3e9; }
 @media print {
   body { background: white; color: black; font-size: 12pt; }
   .site-header, .reader-bar, .actions, .footer, .preview { display: none !important; }
-  .story, .guide, .question-page { width: 100%; margin: 0; }
+  .story, .guide, .guide-main, .question-page { width: 100%; margin: 0; }
   .story-page { min-height: 92vh; margin: 0; border: 0; border-radius: 0; box-shadow: none; break-after: page; }
   .story-page img { max-height: 52vh; object-fit: contain; }
   .page-copy { padding: 28px; }

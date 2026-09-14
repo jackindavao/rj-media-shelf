@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-09-10
+Last updated: 2026-09-14
 
 ## Project family
 
@@ -80,8 +80,10 @@ The project is a static GitHub Pages library:
 - Module 6 adult guide: `filipino/module-06/guide.html`
 - Module 7 child reader: `filipino/module-07/index.html`
 - Module 7 adult guide: `filipino/module-07/guide.html`
+- Module 8 child reader: `filipino/module-08/index.html`
+- Module 8 adult guide: `filipino/module-08/guide.html`
 - Illustrations: `filipino/assets/module-00/` through
-  `filipino/assets/module-07/`
+  `filipino/assets/module-08/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -386,7 +388,7 @@ The user's report confirmed that Module 6 worked:
 - The nephew reports that RJ's pronunciation is doing fine. The four-day rhythm
   and enjoyment remain strong.
 
-## Module 7: current module
+## Module 7: observed result
 
 Title: *Dorothy at si Polychrome sa Larawan para kay Ozma*
 
@@ -402,6 +404,61 @@ Title: *Dorothy at si Polychrome sa Larawan para kay Ozma*
 - Contextual transfer includes `hahaluin`/`hinalo`,
   `makakagawa`/`nakagawa`, and `nanatili`/`mananatili`
 - Polychrome explicitly remains with the friends at both the beginning and end
+
+The user's report confirmed that Module 7 worked extremely well:
+
+- RJ strongly enjoyed Polychrome staying and connected the painting story with
+  her own drawing.
+- She easily remembered all three mixtures and retold who made each new color and
+  painted each part.
+- She appeared to connect `hahaluin`/`hinalo` and
+  `nanatili`/`mananatili`; the family also enjoyed the sound resemblance between
+  `hahaluin` and “Halloween.”
+- The evidence pages and either/or prompts gave the adult confidence, and RJ
+  voluntarily used some short Filipino answers.
+- The practical unfamiliar-form count was about 29, including transparent new
+  inflections of familiar words. This remains the right level.
+- RJ noticed many changing details among the paint illustrations. The user values
+  these discrepancies as invitations to read critically and does not want every
+  harmless inconsistency eliminated. Essential plot and science evidence must
+  still remain clear.
+- Pronunciation support, the four-day rhythm, and enjoyment remained strong. The
+  final palace picture was the favorite.
+- The successful page routine is now: RJ reads one page in Filipino, then the
+  adult asks a question about that page. RJ often answers simply in Filipino and
+  always can answer well in English.
+- Because the adult does not speak Filipino, every future guide should supply
+  three or four natural Filipino questions and model answers for each page. These
+  should be varied options across rereadings, not a required quiz battery.
+- The user strongly endorses embedding real knowledge—such as rainbow conditions
+  and color mixing—when it strengthens rather than interrupts fantasy and
+  language learning.
+- RJ requested Professor Wogglebug for a future appearance.
+
+## Module 8: current module
+
+Title: *Dorothy at si Propesor Wogglebug at ang Susing Bakal*
+
+- 12 pages
+- 255 running Filipino words
+- 7 illustrations
+- Six end-of-story questions plus 36 natural page questions—three per page—with
+  exact model answers
+- Professor Wogglebug arrives with a locked gift for Ozma, loses its tiny iron
+  key in the grass, and helps the friends find it by testing a magnet
+- The comparison among wood, stone, iron, and Tik-Tok's copper hand teaches that
+  magnets attract certain metals rather than all metals
+- 22 unique surface forms are absent from the TSV headword column and Modules
+  0–7; the genuinely new conceptual cluster remains compact
+- Contextual transfer centers on `dumidikit`/`dumikit`, with familiar searching,
+  location, testing, and result frames
+
+Professor Wogglebug's original recurring design is a tall, friendly, upright
+beetle-like scholar with two legs, four hands, two antennae, gentle spectacles,
+and a brilliant patchwork formal coat in red, yellow, blue, and green. He carries
+a small satchel and bows politely. This preserves Baum's broad literary identity
+as a highly magnified, thoroughly educated, brightly dressed insect while making
+the particular design original to this series.
 
 ## Creative continuity
 

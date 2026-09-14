@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-09-10
+Last updated: 2026-09-14
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -360,3 +360,51 @@ preserving the established 260-word scale.
 **Why:** Comprehension and enjoyment remained strong, but there is no reader
 evidence that a higher vocabulary load would improve learning. Repeated causal
 frames and familiar morphology remain more valuable than continual escalation.
+
+## D-037 — Supply three page questions for every story page
+
+**Decision:** Beginning with Module 8, each adult guide supplies three natural,
+carefully checked Filipino questions and exact model answers for each of the 12
+pages. The adult normally chooses one after a page and rotates among the others
+on later rereadings; they are options, not a 36-item quiz.
+
+**Why:** The family has developed a productive read-one-page, discuss-one-page
+routine. RJ often answers in simple Filipino, but the adult cannot reliably
+improvise grammatical Filipino questions. A printed bank permits frequent oral
+interaction without exposing either reader to guessed constructions.
+
+## D-038 — Use harmless art variation for critical reading
+
+**Decision:** Continue to require illustrations to preserve facts essential to
+the plot, causal sequence, safety, and embedded science. Do not require exact
+continuity in every secondary count or decorative detail when a discrepancy can
+prompt a productive comparison between prose and picture. Guides may invite the
+neutral question, “Does the picture say exactly the same thing as the words?”
+
+**Why:** RJ noticed changing bowl, jar, and painting details in Module 7. The user
+explicitly values this as practice in critical reading and does not want harmless
+differences treated automatically as defects. Misleading instructional evidence
+remains unacceptable; secondary variation can be useful.
+
+## D-039 — Continue embedding real knowledge inside fantasy plots
+
+**Decision:** Favor small, observable ideas from science, art, engineering,
+nature, or other real knowledge when they create the story problem and solution
+without raising the language level. Keep the knowledge accurate, visible, and
+subordinate to character and adventure.
+
+**Why:** The rainbow conditions and paint mixing increased interest and causal
+reasoning while strengthening rather than interrupting language learning. The
+family strongly endorses this direction.
+
+## D-040 — Introduce Professor Wogglebug through magnetic testing
+
+**Decision:** Module 8 introduces Professor Wogglebug as a brightly dressed,
+four-handed insect scholar who helps find a lost iron key. Wood, stone, an iron
+spoon, and Tik-Tok's copper hand establish that magnets attract certain metals,
+not every metal.
+
+**Why:** RJ requested the character, and Tik-Tok's established copper body makes
+the common misconception “all metal sticks to magnets” into a memorable story
+test. The professor earns his place by guiding evidence rather than merely
+delivering a lecture.
