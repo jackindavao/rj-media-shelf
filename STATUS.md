@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-09-10
+Last updated: 2026-09-14
 
 ## Restart point
 
@@ -43,6 +43,10 @@ Last updated: 2026-09-10
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-07/>
 - Live Module 7 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-07/guide.html>
+- Live Module 8:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-08/>
+- Live Module 8 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-08/guide.html>
 
 ## Completed
 
@@ -122,6 +126,22 @@ Last updated: 2026-09-10
 - The live library, Module 7 reader, Module 7 guide, cover, and final illustration
   were verified with HTTP 200 on September 10, 2026 after publication commit
   `f5dd82a`.
+- Detailed Module 7 feedback has been incorporated. RJ remembered all three paint
+  mixtures, transferred the paired forms in context, used Filipino answers
+  voluntarily, and strongly enjoyed Polychrome's continued presence. The adult's
+  practical unfamiliar-form count was about 29.
+- Module 8, *Dorothy at si Propesor Wogglebug at ang Susing Bakal*, has been
+  published with a 255-word child reader, six end questions, 36 page-level
+  Filipino questions and model answers, and seven optimized illustrations.
+- Wogglebug's lost-key problem embeds a careful comparison of wood, stone, iron,
+  and copper. The story explicitly counters the misconception that every metal is
+  attracted to a magnet, while keeping the new conceptual vocabulary compact.
+- The reader feedback now distinguishes essential visual accuracy from harmless
+  secondary art differences that invite critical reading. The latter may remain;
+  plot, safety, causal, and scientific evidence must stay unambiguous.
+- The live library, Module 8 reader, Module 8 guide, cover, and final illustration
+  were verified on September 14, 2026 after publication commit `4761734`. The
+  shared guide layout was also corrected and visually checked at tablet width.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -135,16 +155,15 @@ Last updated: 2026-09-10
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 7. Do not describe a Roblox experience as fully approved until
+Filipino Module 8. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 7 observations are listed in its guide: whether RJ enjoys having
-Polychrome remain and connects the story to her own drawing; recall of the three
-paint mixtures; transfer of `hahaluin`/`hinalo` and
-`nanatili`/`mananatili`; whether the page-evidence and either/or prompts let the
-adult handle unexpected answers confidently; voluntary Filipino answers;
-practical unfamiliar-word count; text-art agreement; pronunciation; rhythm; and
-enjoyment.
+Useful Module 8 observations are listed in its guide: response to Professor
+Wogglebug; understanding of why the key is hard to find and how the magnet helps;
+sorting the wood, stone, iron, and copper tests; the “not every metal” distinction;
+transfer of `dumidikit`/`dumikit`; use and naturalness of the three page questions;
+Filipino answers; productive versus confusing picture differences; practical
+unfamiliar-word count; pronunciation; rhythm; and enjoyment.
 
 ## Known non-blocking details
 
