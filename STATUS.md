@@ -7,6 +7,7 @@ Last updated: 2026-09-22
 - Branch: `main`
 - Remote: `origin` → `https://github.com/jackindavao/rj-media-shelf.git`
 - Shelf expansion publication commit: `077b012`
+- Module 9 publication commit: `9a5a57e`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -166,6 +167,9 @@ Last updated: 2026-09-22
 - Local verification confirmed 12 pages, 265 words, seven illustrations, six end
   questions, 48 page questions, valid local references, HTTP 200 responses, and
   sound narrow-width layouts for the library, reader, and guide.
+- The live library, Module 9 reader, Module 9 guide, cover, and final illustration
+  were verified with HTTP 200 on September 22, 2026 after publication commit
+  `9a5a57e`.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
