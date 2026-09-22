@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-09-14
+Last updated: 2026-09-22
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -408,3 +408,36 @@ not every metal.
 the common misconception “all metal sticks to magnets” into a memorable story
 test. The professor earns his place by guiding evidence rather than merely
 delivering a lecture.
+
+## D-041 — Expand to four optional questions per page
+
+**Decision:** Beginning with Module 9, provide four natural Filipino questions
+and exact model answers for each story page. The adult chooses one at a time and
+rotates among them on later readings.
+
+**Why:** Module 8's three questions per page were highly useful and increased
+Filipino answers. The user requested one more choice for variety, not a larger
+quiz burden.
+
+## D-042 — Preserve meaning checks while gradually lengthening the span
+
+**Decision:** Continue accepting an English paraphrase after a Filipino line as
+strong evidence that the words produced a mental scene. On familiar pages only,
+occasionally read two or three lines or a whole page before the paraphrase, and
+sometimes use pointing, acting, prediction, or retelling instead.
+
+**Why:** The family's alternating line-and-meaning routine directly guards
+against pronunciation without comprehension. Gradually delaying the check builds
+sustained comprehension without removing a method that is working.
+
+## D-043 — Return Wogglebug through a sound-and-vibration experiment
+
+**Decision:** Module 9 compares a loose string, a taut string touching a branch,
+and a taut unobstructed string in a two-cup telephone. The visible causal sequence
+teaches that the cup and string vibrate, while preserving the calibrated reading
+level and Wogglebug's active experimental role.
+
+**Why:** RJ understood and enjoyed Wogglebug's magnetic testing and anticipated
+another experiment. A string telephone offers accurate, observable knowledge,
+reuses familiar sound and `dikit` language, and supports another clear
+test-revise-succeed plot.

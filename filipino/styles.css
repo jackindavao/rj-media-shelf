@@ -193,6 +193,26 @@ h1, h2, h3 { line-height: 1.15; }
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
 }
+.guide-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--paper);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+.table-wrap { max-width: 100%; overflow-x: auto; }
+.answer-grid, .translation-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+.answer-card, .translation-grid article {
+  padding: 18px 20px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+.answer-card h3, .translation-grid h3 { margin-top: 0; }
 table th, table td { padding: 11px 12px; border: 1px solid var(--line); text-align: left; vertical-align: top; }
 table th { background: var(--green-dark); color: white; }
 table tr:nth-child(even) td { background: #f6f3e9; }
@@ -207,6 +227,8 @@ table tr:nth-child(even) td { background: #f6f3e9; }
   .preview-grid { grid-template-columns: repeat(2, 1fr); }
   .reader-bar { font-size: 13px; }
   .story-text { font-size: 26px; }
+  .guide-header h1 { font-size: 38px; }
+  .answer-grid, .translation-grid { grid-template-columns: 1fr; }
   .session-table, .vocab-table, .translation-table, .answers-table { display: block; overflow-x: auto; }
 }
 

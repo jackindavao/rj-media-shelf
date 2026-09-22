@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-09-14
+Last updated: 2026-09-22
 
 ## Project family
 
@@ -82,8 +82,10 @@ The project is a static GitHub Pages library:
 - Module 7 adult guide: `filipino/module-07/guide.html`
 - Module 8 child reader: `filipino/module-08/index.html`
 - Module 8 adult guide: `filipino/module-08/guide.html`
+- Module 9 child reader: `filipino/module-09/index.html`
+- Module 9 adult guide: `filipino/module-09/guide.html`
 - Illustrations: `filipino/assets/module-00/` through
-  `filipino/assets/module-08/`
+  `filipino/assets/module-09/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -435,7 +437,7 @@ The user's report confirmed that Module 7 worked extremely well:
   language learning.
 - RJ requested Professor Wogglebug for a future appearance.
 
-## Module 8: current module
+## Module 8: observed result
 
 Title: *Dorothy at si Propesor Wogglebug at ang Susing Bakal*
 
@@ -459,6 +461,50 @@ and a brilliant patchwork formal coat in red, yellow, blue, and green. He carrie
 a small satchel and bows politely. This preserves Baum's broad literary identity
 as a highly magnified, thoroughly educated, brightly dressed insect while making
 the particular design original to this series.
+
+The user's report confirmed that Module 8 worked extremely well:
+
+- RJ liked Wogglebug and his practical role; the gentler, less pompous treatment
+  suited her.
+- She understood why the key was difficult to find, why a magnet helped, all four
+  material tests, and the important distinction that magnets do not attract every
+  metal. This connected well with her current Grade 3 work on metals.
+- She connected `dumidikit` with `dumikit` and also brought in `pandikit`.
+- The practical unfamiliar-form count was 28, again in the productive range.
+- Three page questions were very useful and encouraged more Filipino answers.
+  Four choices per page would provide welcome variety on cumulative rereadings.
+- The adult and RJ now alternate Filipino lines and then paraphrase each line's
+  meaning in English. The explicit purpose is to confirm a mental picture rather
+  than mere accurate pronunciation; exact translation is not required.
+- Each session also includes the current cumulative pages and one complete older
+  module. This remains enjoyable and creates substantial fluent rereading.
+- Harmless illustration differences remain useful for critical reading. RJ
+  immediately noticed Wogglebug's varying limb count; no science fact was
+  obscured.
+- Pronunciation support, the four-day rhythm, and enjoyment remained strong. She
+  resisted selecting one favorite picture because she liked them all.
+
+## Module 9: current module
+
+Title: *Dorothy at si Propesor Wogglebug at ang Munting Telepono*
+
+- 12 pages
+- 265 running Filipino words
+- 7 illustrations
+- Six end-of-story questions plus 48 natural page questions—four per page—with
+  exact model answers
+- Wogglebug returns with two paper cups and string. Loose string fails, taut string
+  touching a branch carries only a broken message, and taut unobstructed string
+  carries a clear invitation to Ozma through an open gate.
+- The science sequence accurately shows the cup bottom vibrating and a taut,
+  freely vibrating string carrying that motion to the second cup.
+- 30 unique surface forms are absent from both the TSV headword column and
+  Modules 0–8, matching the established practical novelty band.
+- Contextual transfer includes `nakadikit`/`dumikit`/`dumidikit`, familiar
+  `iniunat`, and the visible relationship between `nayanig` and `panginginig`.
+- The guide explicitly validates line-by-line Filipino-to-English paraphrase as
+  a comprehension check, while suggesting that familiar pages sometimes expand
+  the meaning span to two or three lines or a whole page before retelling.
 
 ## Creative continuity
 

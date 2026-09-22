@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-09-14
+Last updated: 2026-09-22
 
 ## Restart point
 
@@ -47,6 +47,10 @@ Last updated: 2026-09-14
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-08/>
 - Live Module 8 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-08/guide.html>
+- Live Module 9:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-09/>
+- Live Module 9 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-09/guide.html>
 
 ## Completed
 
@@ -142,6 +146,26 @@ Last updated: 2026-09-14
 - The live library, Module 8 reader, Module 8 guide, cover, and final illustration
   were verified on September 14, 2026 after publication commit `4761734`. The
   shared guide layout was also corrected and visually checked at tablet width.
+- Detailed Module 8 feedback has been incorporated. RJ understood all four
+  material tests and the “not every metal” distinction, transferred the `dikit`
+  family, used more Filipino answers with page-tied questions, and counted 28
+  unfamiliar forms. Pronunciation support, cumulative reading, and enjoyment
+  remained strong.
+- Module 9, *Dorothy at si Propesor Wogglebug at ang Munting Telepono*, has been
+  created with a 265-word child reader, adult guide, six end questions, 48
+  page-level Filipino questions and model answers, and seven optimized
+  illustrations.
+- Its cup-telephone experiment compares loose string, taut string touching a
+  branch, and taut unobstructed string. The final condition carries a clear
+  invitation to Ozma through an open gate. The science note is grounded in the
+  Exploratorium and Science World explanations of sound vibration.
+- The guide validates the family's alternating Filipino-line/English-meaning
+  routine and suggests gently expanding the meaning span on familiar pages. The
+  module has 30 programmatically new surface forms beyond the TSV and Modules
+  0–8.
+- Local verification confirmed 12 pages, 265 words, seven illustrations, six end
+  questions, 48 page questions, valid local references, HTTP 200 responses, and
+  sound narrow-width layouts for the library, reader, and guide.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -155,15 +179,16 @@ Last updated: 2026-09-14
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 8. Do not describe a Roblox experience as fully approved until
+Filipino Module 9. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 8 observations are listed in its guide: response to Professor
-Wogglebug; understanding of why the key is hard to find and how the magnet helps;
-sorting the wood, stone, iron, and copper tests; the “not every metal” distinction;
-transfer of `dumidikit`/`dumikit`; use and naturalness of the three page questions;
-Filipino answers; productive versus confusing picture differences; practical
-unfamiliar-word count; pronunciation; rhythm; and enjoyment.
+Useful Module 9 observations are listed in its guide: understanding of the loose,
+branch-contact, and unobstructed-string tests; grasp of the vibration sequence;
+transfer within the `dikit` family; practical use and naturalness of four page
+questions; Filipino answers; response to a slightly delayed meaning check on
+familiar pages; whether the complete older-module reread remains enjoyable;
+practical unfamiliar-word count; text-art agreement; pronunciation; rhythm; and
+enjoyment.
 
 ## Known non-blocking details
 
