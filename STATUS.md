@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-09-22
+Last updated: 2026-09-27
 
 ## Restart point
 
@@ -153,7 +153,7 @@ Last updated: 2026-09-22
   unfamiliar forms. Pronunciation support, cumulative reading, and enjoyment
   remained strong.
 - Module 9, *Dorothy at si Propesor Wogglebug at ang Munting Telepono*, has been
-  created with a 265-word child reader, adult guide, six end questions, 48
+  created with a 266-word child reader, adult guide, six end questions, 48
   page-level Filipino questions and model answers, and seven optimized
   illustrations.
 - Its cup-telephone experiment compares loose string, taut string touching a
@@ -162,14 +162,24 @@ Last updated: 2026-09-22
   Exploratorium and Science World explanations of sound vibration.
 - The guide validates the family's alternating Filipino-line/English-meaning
   routine and suggests gently expanding the meaning span on familiar pages. The
-  module has 30 programmatically new surface forms beyond the TSV and Modules
+  module has 28 programmatically new surface forms beyond the TSV and Modules
   0–8.
-- Local verification confirmed 12 pages, 265 words, seven illustrations, six end
+- Local verification confirmed 12 pages, 266 words, seven illustrations, six end
   questions, 48 page questions, valid local references, HTTP 200 responses, and
   sound narrow-width layouts for the library, reader, and guide.
 - The live library, Module 9 reader, Module 9 guide, cover, and final illustration
   were verified with HTTP 200 on September 22, 2026 after publication commit
   `9a5a57e`.
+- Detailed Module 9 feedback has been incorporated. RJ understood both failed
+  tests, both successful conditions, and the vibration sequence. The story and
+  guide now use `sumasayad`/`sumayad` for a string brushing a branch, reserving
+  `dikit` for sticking or attachment. Four page questions, short Filipino
+  answers, delayed meaning checks, and rotating rereads within a thirty-minute
+  session remain the working approach.
+- Module 10, *Dorothy at si Propesor Wogglebug sa Dula ng mga Anino*, has been
+  created with a 265-word child reader, adult guide, six end questions, 48 page
+  questions, and seven optimized illustrations. Its light-and-shadow experiment
+  has 27 programmatically new surface forms and culminates in a play for Ozma.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -183,16 +193,15 @@ Last updated: 2026-09-22
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 9. Do not describe a Roblox experience as fully approved until
+Filipino Module 10. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 9 observations are listed in its guide: understanding of the loose,
-branch-contact, and unobstructed-string tests; grasp of the vibration sequence;
-transfer within the `dikit` family; practical use and naturalness of four page
-questions; Filipino answers; response to a slightly delayed meaning check on
-familiar pages; whether the complete older-module reread remains enjoyable;
-practical unfamiliar-word count; text-art agreement; pronunciation; rhythm; and
-enjoyment.
+Useful Module 10 observations are listed in its guide: understanding of the
+failed position, correct light-object-screen order, and size change; transfer of
+the paired forms; retelling Toto and the four-hand tree; short Filipino answers;
+delayed meaning checks and the thirty-minute limit; the `dikit`/`sayad`
+distinction; practical unfamiliar-word count; visual science clarity;
+pronunciation; rhythm; and enjoyment.
 
 ## Known non-blocking details
 

@@ -441,3 +441,35 @@ level and Wogglebug's active experimental role.
 another experiment. A string telephone offers accurate, observable knowledge,
 reuses familiar sound and `dikit` language, and supports another clear
 test-revise-succeed plot.
+
+## D-044 — Distinguish brushing contact from sticking
+
+**Decision:** Use the `dikit` family for sticking, adhering, or close attachment,
+as in a key sticking to a magnet. Use the `sayad` family when an object merely
+brushes or touches against another object. Module 9 has been corrected from
+`nakadikit`/`dumidikit` to `sumasayad`/`sumayad` for the string and branch.
+
+**Why:** The user's semantic objection was accurate. Preserving this distinction
+prevents a productive word-family inference from becoming an overgeneralization.
+
+## D-045 — Protect the thirty-minute session ceiling
+
+**Decision:** Prioritize the current module's three new pages and cumulative
+reread. Rotate older stories as time and interest permit; a complete older-module
+reread is useful but never mandatory. On familiar text, a meaning check may cover
+two or three lines, followed by one targeted detail question if needed.
+
+**Why:** RJ prefers the longer meaning span, and attention remains strong within
+roughly thirty minutes. Vocabulary retention is better served by pleasant,
+rotating rereading than by extending a session to complete a quota.
+
+## D-046 — Continue Wogglebug with light and shadow
+
+**Decision:** Module 10 uses a lantern, paper bird, and white cloth to establish
+that an object between light and screen produces a shadow, and that bringing the
+object closer to the lantern enlarges the shadow. Toto and Wogglebug turn the
+test into a shadow play for Ozma.
+
+**Why:** The plot fulfills the promised next experiment, embeds accurate visible
+knowledge, supports paired motion and result forms, and ends in purposeful play
+rather than a lecture.

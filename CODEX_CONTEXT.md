@@ -484,12 +484,12 @@ The user's report confirmed that Module 8 worked extremely well:
 - Pronunciation support, the four-day rhythm, and enjoyment remained strong. She
   resisted selecting one favorite picture because she liked them all.
 
-## Module 9: current module
+## Module 9: observed result
 
 Title: *Dorothy at si Propesor Wogglebug at ang Munting Telepono*
 
 - 12 pages
-- 265 running Filipino words
+- 266 running Filipino words after the contact-word correction
 - 7 illustrations
 - Six end-of-story questions plus 48 natural page questions—four per page—with
   exact model answers
@@ -498,13 +498,53 @@ Title: *Dorothy at si Propesor Wogglebug at ang Munting Telepono*
   carries a clear invitation to Ozma through an open gate.
 - The science sequence accurately shows the cup bottom vibrating and a taut,
   freely vibrating string carrying that motion to the second cup.
-- 30 unique surface forms are absent from both the TSV headword column and
-  Modules 0–8, matching the established practical novelty band.
-- Contextual transfer includes `nakadikit`/`dumikit`/`dumidikit`, familiar
-  `iniunat`, and the visible relationship between `nayanig` and `panginginig`.
+- 28 unique surface forms are absent from both the TSV and Modules 0–8 after the
+  contact-word correction.
+- Contextual transfer includes familiar `iniunat` and the visible relationship
+  between `nayanig` and `panginginig`.
 - The guide explicitly validates line-by-line Filipino-to-English paraphrase as
   a comprehension check, while suggesting that familiar pages sometimes expand
   the meaning span to two or three lines or a whole page before retelling.
+
+The user's report confirmed that Module 9 worked very well:
+
+- RJ understood both failed string tests, both successful conditions, the cup-to-
+  string vibration sequence, and Polychrome's route through the gate.
+- The `dikit` family did not transfer naturally because “sticking” did not fit a
+  string merely touching a branch. This was an accurate objection. The story now
+  uses `sumasayad`/`sumayad`; `dikit` remains correct for magnetic sticking.
+- Four questions per page were highly useful. RJ often tries short Filipino
+  answers, while English remains consistently complete; full spontaneous
+  Filipino sentences are not yet expected.
+- On familiar pages she prefers a meaning check after two or three lines. One
+  targeted page question can recover a detail without returning to constant
+  interruption.
+- Sessions remain near thirty minutes. Older-module rereading is helpful for
+  retention but may be partial or rotated rather than extending the session.
+- The adult counted 42 unfamiliar forms, including familiar and transparent
+  items. It remained manageable but does not justify increasing the level.
+- Harmless visual variation still prompts humor and critical reading; essential
+  science and spatial facts remained clear. Stress cues, four-day rhythm, and
+  enjoyment remained strong, and RJ again chose all illustrations as favorites.
+
+## Module 10: current module
+
+Title: *Dorothy at si Propesor Wogglebug sa Dula ng mga Anino*
+
+- 12 pages and exactly 265 running Filipino words
+- 7 original 1200×800 illustrations
+- Six end questions plus 48 natural page questions with exact short answers
+- Wogglebug brings a lantern, white cloth, and paper bird. A bird beside the
+  lantern produces no shadow; between light and cloth it does. Moving it toward
+  the lantern enlarges the shadow, and moving it away reduces the shadow.
+- Toto's large silhouette and Wogglebug's four-hand tree turn the experiment into
+  a performance for Ozma.
+- 27 unique surface forms are absent from the TSV and Modules 0–9.
+- Contextual morphology centers on `ilalapit`/`inilapit`, `inilayo`,
+  `lumaki`/`lumiit`, and `lumitaw`/`lumilitaw`.
+- The guide explicitly protects the roughly thirty-minute ceiling, treats older
+  stories as a rotating reread library, and uses one targeted question after a
+  two- or three-line meaning check to recover lost detail.
 
 ## Creative continuity
 
