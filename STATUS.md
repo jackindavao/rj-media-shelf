@@ -9,6 +9,7 @@ Last updated: 2026-10-02
 - Shelf expansion publication commit: `077b012`
 - Module 9 publication commit: `9a5a57e`
 - Module 10 publication commit: `26466db`
+- Module 11 publication commit: `9532383`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -57,6 +58,10 @@ Last updated: 2026-10-02
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-10/>
 - Live Module 10 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-10/guide.html>
+- Live Module 11:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-11/>
+- Live Module 11 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-11/guide.html>
 
 ## Completed
 
@@ -200,6 +205,9 @@ Last updated: 2026-10-02
   optimized illustrations. Its clay-boat sequence has 29 programmatically new
   surface forms and connects shape, floating, increasing cargo, overload, and
   redesign.
+- The live library, Module 11 reader, Module 11 guide, and representative
+  overloaded-boat illustration were verified with HTTP 200 on October 2, 2026
+  after publication commit `9532383`.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
