@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-09-22
+Last updated: 2026-10-02
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -473,3 +473,35 @@ test into a shadow play for Ozma.
 **Why:** The plot fulfills the promised next experiment, embeds accurate visible
 knowledge, supports paired motion and result forms, and ends in purposeful play
 rather than a lecture.
+
+## D-047 — Interpret the practical count as novelty plus retention
+
+**Decision:** Continue recording the adult's practical unfamiliar-word count even
+when it includes forms from earlier modules that are not yet securely learned.
+Compare it with the programmatic first-appearance count rather than treating the
+two numbers as contradictory.
+
+**Why:** Module 10's practical count of 34 included older unsettled words. That is
+useful retention evidence and remains within the successful band; it does not
+justify increasing or sharply reducing the level by itself.
+
+## D-048 — Use easy question families as a bridge
+
+**Decision:** Preserve four varied questions per page, but ensure that each page
+offers at least one accessible `sino`, `saan/nasaan`, count, choice, or concrete
+`ano` question when the text permits. Let quick Filipino success precede an
+optional causal or sequence question.
+
+**Why:** RJ answers these concrete patterns immediately in Filipino and comes
+close on harder questions. The ladder supports production without weakening the
+reasoning that she already handles well in English.
+
+## D-049 — Teach buoyancy through a clay-boat redesign
+
+**Decision:** Module 11 keeps the amount of clay constant while changing its
+shape from a solid ball to a broad hollow boat, then adds cargo until water enters
+over the rim. A wider, higher-sided redesign carries a flower to Ozma.
+
+**Why:** The sequence makes shape, displacement, load, waterline, overload, and
+revision visible without requiring abstract terminology in the child story. It
+also gives Toto another active, physically coherent role.

@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-09-27
+Last updated: 2026-10-02
 
 ## Restart point
 
@@ -188,6 +188,18 @@ Last updated: 2026-09-27
 - The live library, Module 10 reader, Module 10 guide, cover, and final
   illustration were verified with HTTP 200 on September 27, 2026 after
   publication commit `26466db`.
+- Detailed Module 10 feedback has been incorporated. RJ understood and explained
+  both shadow rules, transferred the paired forms, and now understands the
+  corrected `dikit`/`sayad` distinction. Easy question families elicit immediate
+  Filipino, while harder ones produce useful attempts. Delayed meaning checks,
+  the thirty-minute ceiling, rotating rereads, pronunciation support, and
+  enjoyment all remain successful. The practical unfamiliar count was 34,
+  including older forms not yet secure.
+- Module 11, *Dorothy at ang Bangkang Luwad*, has been created with a 265-word
+  child reader, adult guide, six end questions, 48 page questions, and seven
+  optimized illustrations. Its clay-boat sequence has 29 programmatically new
+  surface forms and connects shape, floating, increasing cargo, overload, and
+  redesign.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -201,15 +213,15 @@ Last updated: 2026-09-27
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 10. Do not describe a Roblox experience as fully approved until
+Filipino Module 11. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 10 observations are listed in its guide: understanding of the
-failed position, correct light-object-screen order, and size change; transfer of
-the paired forms; retelling Toto and the four-hand tree; short Filipino answers;
-delayed meaning checks and the thirty-minute limit; the `dikit`/`sayad`
-distinction; practical unfamiliar-word count; visual science clarity;
-pronunciation; rhythm; and enjoyment.
+Useful Module 11 observations are listed in its guide: understanding of same
+material/different shape, increasing cargo, water entering, overload, and
+redesign; transfer of the float and sink forms; response to easy and harder
+Filipino questions; delayed meaning checks; the practical unfamiliar-word count
+including older unsettled forms; visual science clarity and productive picture
+differences; pronunciation; rhythm; and enjoyment.
 
 ## Known non-blocking details
 

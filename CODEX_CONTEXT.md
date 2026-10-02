@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-09-22
+Last updated: 2026-10-02
 
 ## Project family
 
@@ -84,8 +84,12 @@ The project is a static GitHub Pages library:
 - Module 8 adult guide: `filipino/module-08/guide.html`
 - Module 9 child reader: `filipino/module-09/index.html`
 - Module 9 adult guide: `filipino/module-09/guide.html`
+- Module 10 child reader: `filipino/module-10/index.html`
+- Module 10 adult guide: `filipino/module-10/guide.html`
+- Module 11 child reader: `filipino/module-11/index.html`
+- Module 11 adult guide: `filipino/module-11/guide.html`
 - Illustrations: `filipino/assets/module-00/` through
-  `filipino/assets/module-09/`
+  `filipino/assets/module-11/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -527,7 +531,7 @@ The user's report confirmed that Module 9 worked very well:
   science and spatial facts remained clear. Stress cues, four-day rhythm, and
   enjoyment remained strong, and RJ again chose all illustrations as favorites.
 
-## Module 10: current module
+## Module 10: observed result
 
 Title: *Dorothy at si Propesor Wogglebug sa Dula ng mga Anino*
 
@@ -545,6 +549,49 @@ Title: *Dorothy at si Propesor Wogglebug sa Dula ng mga Anino*
 - The guide explicitly protects the roughly thirty-minute ceiling, treats older
   stories as a rotating reread library, and uses one targeted question after a
   two- or three-line meaning check to recover lost detail.
+
+The user's report confirmed that Module 10 worked extremely well:
+
+- RJ understood the failed shadow position, correct lantern-object-cloth order,
+  shadow-size changes, Toto's interruption, and Wogglebug's four-hand tree.
+- She explained both shadow rules in both English and Filipino and connected
+  `ilalapit`/`inilapit` and `lumaki`/`lumiit` in context.
+- The corrected `dikit`/`sayad` distinction is now clear.
+- She attempts the page questions in Filipino. `Sino`, `nasaan/saan`, and easier
+  concrete `ano ang` questions produce immediate answers; on harder questions she
+  often comes close. Future banks should use easy patterns as a launch point, not
+  remove the harder reasoning questions.
+- Two- or three-line meaning checks plus one targeted question continue to work.
+  The thirty-minute ceiling and rotating older stories remain appropriate.
+- The practical unfamiliar count was 34, explicitly including older words not yet
+  solidly learned. This measures retention as well as novelty and remains in the
+  established successful band.
+- RJ enjoys identifying harmless text-art differences. The illustrations remain
+  valuable for teaching critical thought as well as reading; essential science
+  relationships were clear.
+- Pronunciation support, the four-day rhythm, and enjoyment remained strong. She
+  especially enjoyed Toto's return, and the shadow-play illustration before page
+  11 was her favorite.
+
+## Module 11: current module
+
+Title: *Dorothy at ang Bangkang Luwad*
+
+- 12 pages and exactly 265 running Filipino words
+- 7 original 1200×800 illustrations
+- Six end questions plus 48 natural page questions with exact short answers
+- The same lump of clay sinks as a solid ball, floats when reshaped into a broad
+  hollow boat, rides lower with added stones, and sinks when the third stone lets
+  water enter over the rim.
+- The friends redesign the boat with greater width and higher sides, limit the
+  load, and use it to carry a yellow flower to Ozma while Toto runs around the
+  pond.
+- 29 unique surface forms are absent from the TSV and Modules 0–10.
+- Contextual morphology centers on `lulutang`/`lumutang`/`lumulutang` and
+  `lulubog`/`lumubog`, with visible contrasts in `mas mababa`, `mas malapad`, and
+  `mas mataas`.
+- The guide uses quick `sino`, `saan`, and concrete `ano` questions as successful
+  Filipino launch points before optional causal or sequence questions.
 
 ## Creative continuity
 
