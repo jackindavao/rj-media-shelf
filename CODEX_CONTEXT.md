@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-10-02
+Last updated: 2026-10-07
 
 ## Project family
 
@@ -88,8 +88,10 @@ The project is a static GitHub Pages library:
 - Module 10 adult guide: `filipino/module-10/guide.html`
 - Module 11 child reader: `filipino/module-11/index.html`
 - Module 11 adult guide: `filipino/module-11/guide.html`
+- Module 12 child reader: `filipino/module-12/index.html`
+- Module 12 adult guide: `filipino/module-12/guide.html`
 - Illustrations: `filipino/assets/module-00/` through
-  `filipino/assets/module-11/`
+  `filipino/assets/module-12/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -573,7 +575,7 @@ The user's report confirmed that Module 10 worked extremely well:
   especially enjoyed Toto's return, and the shadow-play illustration before page
   11 was her favorite.
 
-## Module 11: current module
+## Module 11: observed result
 
 Title: *Dorothy at ang Bangkang Luwad*
 
@@ -593,13 +595,65 @@ Title: *Dorothy at ang Bangkang Luwad*
 - The guide uses quick `sino`, `saan`, and concrete `ano` questions as successful
   Filipino launch points before optional causal or sequence questions.
 
+The user's report confirmed that Module 11 worked extremely well:
+
+- RJ explained why the same clay sank as a ball and floated as a hollow boat,
+  retold all three shaping actions, and understood the changing load, waterline,
+  overload, incoming water, and redesign.
+- She connected `lulutang`/`lumutang`/`lumulutang` and
+  `lulubog`/`lumubog` in context.
+- The practical unfamiliar count was about 45, again including earlier words not
+  yet secure. Comprehension and enjoyment remained high, so the response is to
+  tighten first appearances without changing the successful story scale.
+- `Sino` questions are usually easiest. Static-position `saan/nasaan` questions
+  are also easy, while questions combining an action, object, and location are
+  more demanding. Concrete `ano` questions with one subject are easier than
+  those carrying both action and object. This is productive language-development
+  evidence, not a comprehension deficit.
+- An easier question sometimes helps with a harder causal question. Two- or
+  three-line meaning checks remain appropriate even though they do not verify
+  every word; cumulative rereading appears to fill the gaps.
+- Essential science was exceptionally clear in the art. RJ still enjoys finding
+  harmless changes, especially Wogglebug's variable number of arms and apparent
+  height.
+- Pronunciation support, four-day rhythm, thirty-minute sessions, and enjoyment
+  remain strong. The family has missed only one or two days since Module 0. The
+  illustration after page 4 was the favorite.
+- RJ misses Polychrome and the yellow bird. She also named Tin Woodman and
+  Button-Bright as characters she likes.
+
+## Module 12: current module
+
+Title: *Dorothy at ang Tubig na Umakyat*
+
+- 12 pages and exactly 261 running Filipino words
+- 7 original 1200×800 illustrations
+- Six end questions plus 48 natural page questions with exact short answers
+- Polychrome and the yellow bird return immediately. Tin Woodman makes his first
+  appearance with three drooping white flowers and an active role in the test.
+- Equal amounts of clear, red, and blue water create a controlled comparison.
+  Nothing changes after a few minutes; afternoon observations reveal colored
+  streaks inside two stems and matching color at two flowers' petal edges, while
+  the clear-water flower remains white.
+- 23 unique surface forms are absent from the TSV and Modules 0–11, deliberately
+  below Module 11's programmatic count after the practical count rose to about 45.
+- Contextual morphology centers on `aakyat`/`umakyat`/`umaakyat`.
+- The page-question bank distinguishes static location from action-location
+  questions and uses `sino` and concrete `ano` questions as the easiest entry
+  points without removing harder reasoning.
+- Tin Woodman's original recurring design is a friendly human-height woodsman
+  built entirely from articulated brushed-silver plates, with neat rivets,
+  cylindrical limbs, a small funnel-shaped cap, kind eyes, a gentle smile, and a
+  heart-shaped embossed chest panel.
+
 ## Creative continuity
 
 The stories take place in L. Frank Baum's literary Oz world and currently reuse
 Dorothy, Toto, Tik-Tok, and a small yellow bird with a red hat. Princess Ozma
-joined them in Module 5 and Polychrome in Module 6, with the original designs
-recorded above. Stories and images are original and avoid film-specific
-likenesses. Each guide includes a production note to that effect.
+joined them in Module 5, Polychrome in Module 6, Professor Wogglebug in Module 8,
+and Tin Woodman in Module 12, with original recurring designs recorded above.
+Stories and images are original and avoid film-specific likenesses. Each guide
+includes a production note to that effect.
 
 The visual style is lush, warm, detailed watercolor and colored pencil on
 textured paper in 3:2 landscape format. Later modules use approved earlier art as

@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-10-02
+Last updated: 2026-10-07
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -505,3 +505,38 @@ over the rim. A wider, higher-sided redesign carries a flower to Ozma.
 **Why:** The sequence makes shape, displacement, load, waterline, overload, and
 revision visible without requiring abstract terminology in the child story. It
 also gives Toto another active, physically coherent role.
+
+## D-050 — Tighten first appearances after a higher practical count
+
+**Decision:** Keep the successful 12-page, roughly 260-word story scale, but hold
+Module 12 to 23 programmatically new surface forms after Module 11 produced a
+practical count of about 45, including older unsettled words.
+
+**Why:** Full comprehension, transfer, rhythm, and enjoyment show that the format
+remains right. The higher practical count is a reason to strengthen recurrence
+and consolidation, not to disrupt a reading habit that has continued almost
+daily since Module 0.
+
+## D-051 — Distinguish static location from action-location questions
+
+**Decision:** Continue using `sino` as the most reliable Filipino entry point and
+offer static `nasaan` and concrete one-subject `ano` questions early. Retain
+action-location, transitive, sequence, and cause questions as optional harder
+steps rather than treating all question forms as equally easy.
+
+**Why:** RJ readily answers who and simple position questions but is less certain
+when a question requires her to hold an action, object, and location together.
+That difference reflects sentence-production load, not failure to understand the
+story's locations or events.
+
+## D-052 — Return favorite characters through visible plant-water science
+
+**Decision:** Module 12 brings back Polychrome and the yellow bird and introduces
+Tin Woodman through a three-flower colored-water comparison. Equal clear, red,
+and blue water, an initial unchanged observation, later stem streaks, and an
+unchanged clear-water flower make the inference visible.
+
+**Why:** RJ explicitly missed Polychrome and the bird and named Tin Woodman as a
+character she likes. Water moving through flower stems supplies each character a
+practical role, embeds accurate knowledge, rewards patient observation, and
+supports `aakyat`/`umakyat`/`umaakyat` without raising the language level.

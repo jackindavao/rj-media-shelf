@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-10-02
+Last updated: 2026-10-07
 
 ## Restart point
 
@@ -208,6 +208,18 @@ Last updated: 2026-10-02
 - The live library, Module 11 reader, Module 11 guide, and representative
   overloaded-boat illustration were verified with HTTP 200 on October 2, 2026
   after publication commit `9532383`.
+- Detailed Module 11 feedback has been incorporated. RJ understood the complete
+  buoyancy sequence and transferred both float and sink form families. The
+  practical unfamiliar count was about 45, including older unsettled words.
+  `Sino`, static-location, and simple concrete `ano` questions are the easiest
+  Filipino entry points; action-location and fuller transitive questions remain
+  useful harder steps. Delayed meaning checks, rereading, pronunciation support,
+  rhythm, and enjoyment all remain successful.
+- Module 12, *Dorothy at ang Tubig na Umakyat*, has been created with a 261-word
+  child reader, adult guide, six end questions, 48 page questions, and seven
+  optimized illustrations. Its three-flower comparison has 23 programmatically
+  new surface forms, returns Polychrome and the yellow bird, and introduces Tin
+  Woodman through a visible plant-water experiment.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -221,15 +233,16 @@ Last updated: 2026-10-02
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 11. Do not describe a Roblox experience as fully approved until
+Filipino Module 12. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 11 observations are listed in its guide: understanding of same
-material/different shape, increasing cargo, water entering, overload, and
-redesign; transfer of the float and sink forms; response to easy and harder
-Filipino questions; delayed meaning checks; the practical unfamiliar-word count
-including older unsettled forms; visual science clarity and productive picture
-differences; pronunciation; rhythm; and enjoyment.
+Useful Module 12 observations are listed in its guide: response to Polychrome,
+the yellow bird, and Tin Woodman; understanding of equal water, the unchanged
+first observation, waiting, colored stem routes, petal outcomes, and the
+clear-water comparison; transfer of the three `akyat` forms; response to the
+question ladder and delayed meaning checks; the practical unfamiliar-word count;
+visual science clarity and productive discrepancies; pronunciation; rhythm; and
+enjoyment.
 
 ## Known non-blocking details
 
