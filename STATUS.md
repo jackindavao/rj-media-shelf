@@ -10,6 +10,7 @@ Last updated: 2026-10-07
 - Module 9 publication commit: `9a5a57e`
 - Module 10 publication commit: `26466db`
 - Module 11 publication commit: `9532383`
+- Module 12 publication commit: `b7afd1d`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -62,6 +63,10 @@ Last updated: 2026-10-07
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-11/>
 - Live Module 11 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-11/guide.html>
+- Live Module 12:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-12/>
+- Live Module 12 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-12/guide.html>
 
 ## Completed
 
@@ -220,6 +225,9 @@ Last updated: 2026-10-07
   optimized illustrations. Its three-flower comparison has 23 programmatically
   new surface forms, returns Polychrome and the yellow bird, and introduces Tin
   Woodman through a visible plant-water experiment.
+- The live library, Module 12 reader, Module 12 guide, and representative
+  colored-petals illustration were verified with HTTP 200 on October 7, 2026
+  after publication commit `b7afd1d`.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
