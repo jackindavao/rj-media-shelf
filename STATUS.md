@@ -11,6 +11,7 @@ Last updated: 2026-10-12
 - Module 10 publication commit: `26466db`
 - Module 11 publication commit: `9532383`
 - Module 12 publication commit: `b7afd1d`
+- Module 13 publication commit: `83fe896`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -243,6 +244,9 @@ Last updated: 2026-10-12
   programmatically new story forms; the Filipino question bank adds 13 more.
   Button-Bright actively aligns the map, identifies east, leads the group, and
   repeats the check at a second fork.
+- The live library, Module 13 reader, Module 13 guide, and representative
+  map-alignment illustration were verified with HTTP 200 on October 12, 2026
+  after publication commit `83fe896`.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
