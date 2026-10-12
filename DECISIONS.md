@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-10-07
+Last updated: 2026-10-12
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -540,3 +540,48 @@ unchanged clear-water flower make the inference visible.
 character she likes. Water moving through flower stems supplies each character a
 practical role, embeds accurate knowledge, rewards patient observation, and
 supports `aakyat`/`umakyat`/`umaakyat` without raising the language level.
+
+## D-053 — Count the Filipino question bank in lexical calibration
+
+**Decision:** Continue reporting story-only first appearances, and also report how
+many additional first-appearance surface forms occur in the 48 Filipino page
+questions and model answers.
+
+**Why:** The adult's practical Module 12 count of 35 explicitly included the page
+questions because the family reads and discusses them. Story-only counts still
+help control prose, but the combined package better represents RJ's actual
+language exposure.
+
+## D-054 — Integrate stress cues with vocabulary
+
+**Decision:** Beginning with Module 13, combine the former pronunciation key and
+vocabulary-and-patterns sections into one table. Write the Filipino entry with
+the stressed syllable capitalized and keep the meaning and contextual note beside
+it. Continue treating a fluent recording as the best model.
+
+**Why:** The same important words were being duplicated in two sections. The
+adult suggested the integrated format, which preserves every useful cue while
+reducing lookup and repetition.
+
+## D-055 — Use random-page cards after sequential learning
+
+**Decision:** Endorse drawing cards numbered 1–12 to review an older familiar
+module out of order, reading the selected page and answering one or two printed
+page questions. Learn every new story in narrative order first, and allow a peek
+at neighboring pages when context is genuinely missing.
+
+**Why:** RJ finds the card method more enjoyable than another linear reread. It
+requires retrieval of the page's mental scene without relying on the preceding
+page, while the printed questions protect the non-Filipino-speaking adult from
+having to improvise unfamiliar forms.
+
+## D-056 — Introduce Button-Bright through map-and-compass navigation
+
+**Decision:** Module 13 introduces Button-Bright at four similar garden paths. A
+flat compass identifies north; Button-Bright aligns the map, identifies east,
+leads the group, and checks again at a second fork before reaching the palace.
+
+**Why:** RJ requested Button-Bright. Navigation provides a small accurate science
+idea, clear spatial evidence, and an active role that fits his literary tendency
+to get lost without making him helpless. The repeated check supports
+`liliko`/`lumiko` and `umiikot`/`umikot` at the established level.

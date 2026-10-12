@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-10-07
+Last updated: 2026-10-12
 
 ## Restart point
 
@@ -67,6 +67,10 @@ Last updated: 2026-10-07
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-12/>
 - Live Module 12 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-12/guide.html>
+- Live Module 13:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-13/>
+- Live Module 13 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-13/guide.html>
 
 ## Completed
 
@@ -228,6 +232,17 @@ Last updated: 2026-10-07
 - The live library, Module 12 reader, Module 12 guide, and representative
   colored-petals illustration were verified with HTTP 200 on October 7, 2026
   after publication commit `b7afd1d`.
+- Detailed Module 12 feedback has been incorporated. RJ understood the complete
+  colored-water comparison and answered most page questions in Filipino. The
+  practical count of 35 includes question-bank vocabulary. Future guides now
+  report that added load, merge stress cues into vocabulary, and support random
+  numbered-card review for already familiar modules.
+- Module 13, *Dorothy at si Button-Bright sa Apat na Landas*, has been created
+  with a 265-word child reader, adult guide, six end questions, 48 page questions,
+  and seven optimized illustrations. Its map-and-compass sequence has 15
+  programmatically new story forms; the Filipino question bank adds 13 more.
+  Button-Bright actively aligns the map, identifies east, leads the group, and
+  repeats the check at a second fork.
 - Video Edition 1 has been preserved under `videos/edition-01/`.
 - A complete 25-selection Video Edition 2 has been built at the site root with
   strong anatomy, Filipino-hero, melodic-song, nature, making, and story groups.
@@ -241,15 +256,15 @@ Last updated: 2026-10-07
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
 family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 12. Do not describe a Roblox experience as fully approved until
+Filipino Module 13. Do not describe a Roblox experience as fully approved until
 the adult-child current-version play-test has been completed.
 
-Useful Module 12 observations are listed in its guide: response to Polychrome,
-the yellow bird, and Tin Woodman; understanding of equal water, the unchanged
-first observation, waiting, colored stem routes, petal outcomes, and the
-clear-water comparison; transfer of the three `akyat` forms; response to the
-question ladder and delayed meaning checks; the practical unfamiliar-word count;
-visual science clarity and productive discrepancies; pronunciation; rhythm; and
+Useful Module 13 observations are listed in its guide: response to Button-Bright
+and the returning bird; understanding of the four-path problem, flat compass,
+north alignment, eastward choice, second check, and map/compass distinction;
+transfer of the turn and rotate forms; Filipino answers; the practical unfamiliar
+count including questions; combined vocabulary-and-stress support; random-card
+review; text-art science clarity and productive discrepancies; rhythm; and
 enjoyment.
 
 ## Known non-blocking details

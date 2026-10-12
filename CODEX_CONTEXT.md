@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-10-07
+Last updated: 2026-10-12
 
 ## Project family
 
@@ -622,7 +622,7 @@ The user's report confirmed that Module 11 worked extremely well:
 - RJ misses Polychrome and the yellow bird. She also named Tin Woodman and
   Button-Bright as characters she likes.
 
-## Module 12: current module
+## Module 12: observed result
 
 Title: *Dorothy at ang Tubig na Umakyat*
 
@@ -646,12 +646,70 @@ Title: *Dorothy at ang Tubig na Umakyat*
   cylindrical limbs, a small funnel-shaped cap, kind eyes, a gentle smile, and a
   heart-shaped embossed chest panel.
 
+The user's report confirmed that Module 12 worked extremely well:
+
+- RJ warmly welcomed Polychrome, the yellow bird, and Tin Woodman. The original
+  yellow bird is now explicitly documented as a project-created recurring friend,
+  not a claimed Baum character.
+- She understood the descriptive reason drooping flowers needed water, the equal
+  clear/red/blue setup, the need to wait, the three final petal outcomes, the
+  colored route through the stems, and the clear-water flower's value as evidence.
+  No abstract Grade 3 explanation such as osmotic pressure is needed.
+- She connected `aakyat`, `umakyat`, and `umaakyat` in context, though
+  productive control is not assumed.
+- `Sino` and static `nasaan` questions remained easiest. The page questions
+  were especially successful: she answered most in Filipino, sometimes by
+  quoting the relevant phrase, and appeared more confident approaching harder
+  questions after an easy one.
+- The family's first encounter with a page still includes translating every word.
+  On rereading, two- or three-line meaning checks remain preferable to line-by-line
+  interruption, with an occasional word check as needed.
+- The practical unfamiliar count was 35 and explicitly included vocabulary from
+  the Filipino page questions. Future calibration therefore counts story-only
+  first appearances and the added question-bank forms separately.
+- The adult suggested combining stress cues with the vocabulary-and-patterns
+  table. Future guides should use one integrated table rather than duplicate the
+  same words in a separate pronunciation key.
+- Random review with cards numbered 1–12 has made older-module reading more fun:
+  RJ draws a page, reads it out of sequence, and answers one or two printed
+  questions. Use this only after a story is familiar in order.
+- Science, art, rhythm, pronunciation support, and enjoyment remained strong.
+  The final palace scene with Ozma, the flowers, and the bird on Tin Woodman's
+  shoulder was the favorite. Harmless visual discrepancies continue to reward
+  close reading.
+
+## Module 13: current module
+
+Title: *Dorothy at si Button-Bright sa Apat na Landas*
+
+- 12 pages and exactly 265 running Filipino words
+- 7 original 1200×800 illustrations
+- Six end questions plus 48 natural page questions with exact short answers
+- Button-Bright joins as a cheerful young traveler lost among four similar paths.
+  Dorothy demonstrates a flat compass; Button-Bright actively orients the map,
+  identifies east, leads the group, and repeats the check at a second fork.
+- The navigation sequence keeps the science visible: the red needle settles
+  toward magnetic north, the map's north arrow is aligned with it, east lies to
+  the right on the oriented map, and a second check prevents a guessed turn.
+- 15 unique story surface forms are absent from the TSV and Modules 0–12. The
+  page-question bank and model answers add 13 first-appearance forms, for 28
+  across the Filipino reading-and-question package.
+- Contextual morphology centers on `liliko`/`lumiko` and
+  `umiikot`/familiar `umikot`.
+- The guide merges pronunciation cues into the vocabulary table and explicitly
+  validates the family's random-card review for already familiar modules.
+- Button-Bright's recurring design is a cheerful young boy slightly shorter than
+  Dorothy, with tousled sandy-blond hair, a cream sailor blouse with navy collar
+  and cuffs and bright brass buttons, navy knee-length shorts, cream socks,
+  brown boots, and a small round navy sailor cap.
+
 ## Creative continuity
 
 The stories take place in L. Frank Baum's literary Oz world and currently reuse
 Dorothy, Toto, Tik-Tok, and a small yellow bird with a red hat. Princess Ozma
 joined them in Module 5, Polychrome in Module 6, Professor Wogglebug in Module 8,
-and Tin Woodman in Module 12, with original recurring designs recorded above.
+Tin Woodman in Module 12, and Button-Bright in Module 13, with original
+recurring designs recorded above.
 Stories and images are original and avoid film-specific likenesses. Each guide
 includes a production note to that effect.
 
