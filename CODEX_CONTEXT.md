@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-10-12
+Last updated: 2026-10-17
 
 ## Project family
 
@@ -702,6 +702,37 @@ Title: *Dorothy at si Button-Bright sa Apat na Landas*
   Dorothy, with tousled sandy-blond hair, a cream sailor blouse with navy collar
   and cuffs and bright brass buttons, navy knee-length shorts, cream socks,
   brown boots, and a small round navy sailor cap.
+
+## Private textbook-guide experiment
+
+The first textbook comparison is complete and remains private. The user placed
+photographs of the two-page Grade 3 story *Ang Nawawalang Tupa* under
+`../TagaDog/Sources/nawawalang tupa story/`. The folder contains `page1.jpg`,
+`page2.jpg`, and the completed `study-guide.md`; it is Dropbox-backed but
+intentionally untracked and is not part of the public MediaDog site.
+
+The guide uses the original 415-row TSV plus all Filipino story and question
+material in Modules 0–13—14 modules counting Module 0—as the prior-exposure
+baseline. It carefully calls this “previously encountered,” not “mastered.” A
+programmatic surface-form comparison supplies candidates, followed by manual
+review of morphology, word families, idioms, and contextual meanings.
+
+The resulting private guide contains:
+
+- 35 rows of genuinely new roots, concepts, idioms, or meanings;
+- 14 rows of new forms or meanings from familiar word families;
+- a faithful transcription aligned with eight short English translation chunks;
+- adult notes on reduplicative patterns, `ipinapastol`/`ipinastol`, and
+  `tupa`/`kawan`;
+- a warning that the final religious explanation is substantially more abstract
+  than the visible narrative; and
+- restrained notes on the printed `Kailangan mahanap ko ito` and `nahanap rin
+  kita`, without asking RJ to interrupt the story to correct her textbook.
+
+This is a successful reusable workflow for future textbook selections: retain
+private source images in TagaDog, compare against the cumulative exposure corpus,
+separate new concepts from familiar-family forms, translate in short aligned
+chunks, and keep publication opt-in rather than automatic.
 
 ## Creative continuity
 

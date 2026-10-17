@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-10-12
+Last updated: 2026-10-17
 
 ## Restart point
 
@@ -256,6 +256,20 @@ Last updated: 2026-10-12
   and existing Filipino library were verified live with HTTP 200 on August 19,
   2026 after publication commit `077b012`.
 
+## Private textbook-guide experiment
+
+- Source folder: `../TagaDog/Sources/nawawalang tupa story/`
+- Private guide: `study-guide.md`
+- Inputs: `page1.jpg` and `page2.jpg`
+- Baseline: `sample_vocab.tsv` plus Modules 0–13, including Filipino page
+  questions and answers where present
+- Output: 35 new-root/concept rows, 14 familiar-family form/meaning rows, and
+  eight aligned translation chunks
+- Publication state: intentionally untracked in TagaDog and not published on
+  GitHub Pages
+- The unrelated pre-existing untracked `../TagaDog/staging/` directory has not
+  been inspected, modified, staged, or committed.
+
 ## Immediate next step
 
 The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
@@ -279,5 +293,8 @@ enjoyment.
   `safe.directory` option.
 - PowerShell can display correct UTF-8 punctuation as mojibake when encoding is not
   specified. The published HTML files themselves are UTF-8 and render correctly.
+- Dropbox-backed repository paths are reparse points. If `apply_patch` rejects
+  them for that reason, use a narrowly targeted UTF-8 write, then reread the file
+  and check for mojibake; never broaden the write to unrelated files.
 - Git writes to `.git` can require sandbox escalation in Codex even though normal
   workspace files are writable.

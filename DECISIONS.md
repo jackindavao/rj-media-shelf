@@ -585,3 +585,17 @@ leads the group, and checks again at a second fork before reaching the palace.
 idea, clear spatial evidence, and an active role that fits his literary tendency
 to get lost without making him helpless. The repeated check supports
 `liliko`/`lumiko` and `umiikot`/`umikot` at the established level.
+
+## D-057 — Keep textbook analyses private and compare by exposure
+
+**Decision:** Store experimental textbook scans and family study guides under
+`../TagaDog/Sources/` rather than publishing them automatically. Compare each
+selection against the TSV and all previously completed Filipino story and
+question material. Report genuinely new roots/concepts separately from new
+forms or meanings of familiar families, and call the baseline “previously
+encountered” rather than “known” or “mastered.”
+
+**Why:** The private guide is useful without reproducing textbook material on the
+public site. Exact-token subtraction alone misclassifies Filipino morphology,
+while a two-stage programmatic and manual review gives the adult a practical
+list without overstating RJ's retention.

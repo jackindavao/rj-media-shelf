@@ -56,6 +56,21 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
   inspection is necessary, use a per-command safe-directory option instead of
   changing global Git configuration without authorization.
 
+## Private textbook study guides
+
+- Keep photographed textbook source pages and experimental family study guides
+  under `../TagaDog/Sources/`; do not publish them through MediaDog unless the
+  user explicitly asks.
+- For vocabulary comparisons, use `../TagaDog/Sources/sample_vocab.tsv` plus
+  all Filipino story and question material in the already completed modules.
+  Describe omitted items as “previously encountered,” not necessarily mastered.
+- Separate genuinely new roots, concepts, idioms, or meanings from new forms of
+  familiar word families. Exact surface-form subtraction is only a candidate
+  pass; review Filipino morphology and context manually.
+- Transcribe the photographed text faithfully and translate it in short aligned
+  chunks. If textbook wording is awkward or nonstandard, preserve the printed
+  wording and add a restrained adult note rather than silently rewriting it.
+
 ## Video and Roblox shelves
 
 - The root `index.html` is the current 25-item video shelf. Preserve each retired
