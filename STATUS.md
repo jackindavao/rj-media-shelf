@@ -12,6 +12,7 @@ Last updated: 2026-10-17
 - Module 11 publication commit: `9532383`
 - Module 12 publication commit: `b7afd1d`
 - Module 13 publication commit: `83fe896`
+- Module 14 publication commit: `64c7eeb`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -72,6 +73,10 @@ Last updated: 2026-10-17
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-13/>
 - Live Module 13 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-13/guide.html>
+- Live Module 14:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-14/>
+- Live Module 14 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-14/guide.html>
 
 ## Completed
 
@@ -265,7 +270,11 @@ Last updated: 2026-10-17
   265-word child reader, adult guide, six end questions, 48 page questions, and
   seven optimized illustrations. Its controlled comparisons teach melting and
   insulation while `matutunaw`/`natutunaw`/`natunaw` bridge contextual learning
-  to RJ's school terminology. Publication verification is pending.
+  to RJ's school terminology.
+- The live library, Module 14 reader, Module 14 guide, cover, and final
+  illustration were verified with HTTP 200 on October 17, 2026 after
+  publication commit `64c7eeb`.
+
 ## Private textbook-guide experiment
 
 - Source folder: `../TagaDog/Sources/nawawalang tupa story/`
@@ -282,8 +291,8 @@ Last updated: 2026-10-17
 
 ## Immediate next step
 
-The immediate work is to verify and publish Module 14, then await (a) RJ's Module
-14 observations, (b) her response to Video Edition 2, and (c) the family's actual
+The next substantive inputs are (a) RJ's Module 14 observations, (b) her
+response to Video Edition 2, and (c) the family's actual
 first-visit Roblox checks. Do not describe a Roblox experience as fully approved
 until the adult-child current-version play-test has been completed.
 
