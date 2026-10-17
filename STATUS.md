@@ -256,6 +256,16 @@ Last updated: 2026-10-17
   and existing Filipino library were verified live with HTTP 200 on August 19,
   2026 after publication commit `077b012`.
 
+- Detailed Module 13 feedback has been incorporated. RJ understood the complete
+  navigation sequence and usually answered page questions in Filipino. The
+  practical unfamiliar count was about 25. The combined stress table and the
+  value-and-suit random review game work well. Essential visual evidence must no
+  longer be contradicted or prematurely revealed by a background detail.
+- Module 14, *Dorothy at ang Tatlong Piraso ng Yelo*, has been assembled with a
+  265-word child reader, adult guide, six end questions, 48 page questions, and
+  seven optimized illustrations. Its controlled comparisons teach melting and
+  insulation while `matutunaw`/`natutunaw`/`natunaw` bridge contextual learning
+  to RJ's school terminology. Publication verification is pending.
 ## Private textbook-guide experiment
 
 - Source folder: `../TagaDog/Sources/nawawalang tupa story/`
@@ -272,18 +282,16 @@ Last updated: 2026-10-17
 
 ## Immediate next step
 
-The next substantive inputs are (a) RJ's response to Video Edition 2, (b) the
-family's actual first-visit Roblox checks, and (c) RJ's observations after reading
-Filipino Module 13. Do not describe a Roblox experience as fully approved until
-the adult-child current-version play-test has been completed.
+The immediate work is to verify and publish Module 14, then await (a) RJ's Module
+14 observations, (b) her response to Video Edition 2, and (c) the family's actual
+first-visit Roblox checks. Do not describe a Roblox experience as fully approved
+until the adult-child current-version play-test has been completed.
 
-Useful Module 13 observations are listed in its guide: response to Button-Bright
-and the returning bird; understanding of the four-path problem, flat compass,
-north alignment, eastward choice, second check, and map/compass distinction;
-transfer of the turn and rotate forms; Filipino answers; the practical unfamiliar
-count including questions; combined vocabulary-and-stress support; random-card
-review; text-art science clarity and productive discrepancies; rhythm; and
-enjoyment.
+Useful Module 14 observations are listed in its guide: understanding of both
+controlled comparisons and the three results; understanding of insulation;
+transfer of `matutunaw`/`natutunaw`/`natunaw`; response to the school labels;
+Filipino answers; practical unfamiliar count including questions; combined stress
+support; the four-suit review game; text-art science clarity; rhythm; and enjoyment.
 
 ## Known non-blocking details
 

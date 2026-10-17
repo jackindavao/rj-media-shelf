@@ -599,3 +599,32 @@ encountered” rather than “known” or “mastered.”
 public site. Exact-token subtraction alone misclassifies Filipino morphology,
 while a two-stage programmatic and manual review gives the adult a practical
 list without overstating RJ's retention.
+## D-058 — Bridge school aspect labels through a visible event sequence
+
+**Decision:** Module 14 uses `matutunaw`, `natutunaw`, and `natunaw` around one
+visible melting event. The adult guide maps them to both the current DepEd terms
+`kontemplatibo`, `imperpektibo`, and `perpektibo` and the textbook's traditional
+`panghinaharap`, `pangkasalukuyan`, and `pangnagdaan`, while the child reader
+remains a story rather than a terminology exercise.
+
+**Why:** RJ's school work may create confusion if time labels are treated as
+mechanical English tenses. A predicted, unfolding, and completed change supplies
+a sound anchor without detaching morphology from meaning.
+
+## D-059 — Essential visual evidence outranks amusing discrepancy
+
+**Decision:** Continue allowing harmless illustration differences that invite
+close reading, but do not let backgrounds reveal a solution or let art contradict
+a necessary causal, spatial, or experimental condition.
+
+**Why:** RJ correctly observed that a visible palace dissolved Button-Bright's
+navigation problem. Her close reading is valuable; the premise must survive it.
+
+## D-060 — Formalize the four-suit random review
+
+**Decision:** Map hearts to question 1, diamonds to question 2, clubs to question
+3, and spades to question 4. Ace through queen select pages 1–12; a king is a
+wild choice.
+
+**Why:** The game increases enjoyment, context retrieval, and Filipino production
+while the printed question bank prevents unreliable adult improvisation.

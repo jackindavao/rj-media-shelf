@@ -90,8 +90,12 @@ The project is a static GitHub Pages library:
 - Module 11 adult guide: `filipino/module-11/guide.html`
 - Module 12 child reader: `filipino/module-12/index.html`
 - Module 12 adult guide: `filipino/module-12/guide.html`
+- Module 13 child reader: `filipino/module-13/index.html`
+- Module 13 adult guide: `filipino/module-13/guide.html`
+- Module 14 child reader: `filipino/module-14/index.html`
+- Module 14 adult guide: `filipino/module-14/guide.html`
 - Illustrations: `filipino/assets/module-00/` through
-  `filipino/assets/module-12/`
+  `filipino/assets/module-14/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -703,6 +707,47 @@ Title: *Dorothy at si Button-Bright sa Apat na Landas*
   and cuffs and bright brass buttons, navy knee-length shorts, cream socks,
   brown boots, and a small round navy sailor cap.
 
+## Module 13: observed result
+
+The user's report confirms that Module 13 remained well calibrated:
+
+- RJ welcomed Button-Bright and the returning yellow bird and understood the full
+  map-and-compass sequence, including map alignment, east, and checking again.
+- `liliko`/`lumiko` and `umiikot`/`umikot` are becoming clearer but remain a work
+  in progress. Her Grade 3 textbook now teaches verb aspect with the traditional
+  headings `pangnagdaan`, `pangkasalukuyan`, and `panghinaharap`. Connect those
+  labels to visible story events without implying that one affix always equals
+  one English tense.
+- The practical unfamiliar count, including questions, was about 25. She usually
+  answers page questions in Filipino, often by selecting a page phrase; the end
+  questions remain harder.
+- The combined vocabulary-and-stress table works better than separate sections.
+- Review now uses an ordinary deck: value selects the page and suit selects one
+  of four questions. This adds a successful game element.
+- RJ correctly objected that the palace visible in several backgrounds weakened
+  the lost-path problem. Productive discrepancies may invite close reading, but
+  art must not reveal the answer or contradict a necessary plot/science condition.
+- The first illustration was her favorite. Rhythm, pronunciation support, and
+  enjoyment remain strong.
+
+## Module 14: current module
+
+Title: *Dorothy at ang Tatlong Piraso ng Yelo*
+
+- 12 pages, exactly 265 running Filipino words, 7 illustrations, 6 end questions,
+  and 48 page questions.
+- Three equal pieces compare uncovered ice in sun with uncovered ice in shade,
+  then uncovered and cloth-wrapped ice side by side in the same shade. The cloth
+  slows heat entering; it does not create cold.
+- The visible sequence supports `matutunaw` (predicted), `natutunaw` (in
+  progress), and `natunaw` (complete). The adult guide maps these gently to both
+  DepEd's `kontemplatibo/imperpektibo/perpektibo` labels and the textbook's
+  traditional future/present/past-like headings.
+- There are 30 programmatically new story surface forms; the Filipino page-
+  question bank adds 10. Many are transparent forms from familiar families.
+- The four-suit review key is hearts/question 1, diamonds/question 2,
+  clubs/question 3, spades/question 4; ace–queen select pages 1–12 and kings are
+  wild cards.
 ## Private textbook-guide experiment
 
 The first textbook comparison is complete and remains private. The user placed
