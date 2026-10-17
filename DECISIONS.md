@@ -628,3 +628,14 @@ wild choice.
 
 **Why:** The game increases enjoyment, context retrieval, and Filipino production
 while the printed question bank prevents unreliable adult improvisation.
+
+## D-061 — Separate exam-content evidence from exam-format evidence
+
+**Decision:** Use the assigned Grade 3 Aralin 5 pages as the authority for what RJ
+must learn. Use the returned Grade 2 exam only to select familiar practice
+formats such as spelling, true/false, matching, and multiple choice. Add causal
+short answers because they are prominent in the Grade 3 lesson itself.
+
+**Why:** The old exam is useful evidence about school conventions but cannot
+reliably predict the scope, depth, or wording of an unreturned Grade 3 exam.
+Separating those roles produces relevant practice without false precision.

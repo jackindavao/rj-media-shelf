@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-10-17
+Last updated: 2026-10-18
 
 ## Restart point
 
@@ -289,11 +289,23 @@ Last updated: 2026-10-17
 - The unrelated pre-existing untracked `../TagaDog/staging/` directory has not
   been inspected, modified, staged, or committed.
 
+## Private Makabansa exam preparation
+
+- A private Grade 3 Aralin 5 study pack has been created under
+  `../TagaDog/Sources/Makabansa exam prep 20261022/`.
+- It includes an English parent guide, regional place/product/festival tables,
+  vocabulary, oral prompts, a four-day plan, a 40-item Filipino practice test,
+  and a separate answer key.
+- It is intentionally untracked in TagaDog and not published on GitHub Pages.
+- No further source is required for Aralin 5. If the exam covers additional
+  lessons, obtain the teacher's coverage notice or those textbook pages.
+
 ## Immediate next step
 
-The next substantive inputs are (a) RJ's Module 14 observations, (b) her
-response to Video Edition 2, and (c) the family's actual
-first-visit Roblox checks. Do not describe a Roblox experience as fully approved
+The immediate family task is RJ's Makabansa exam preparation through October 21.
+Other substantive inputs remain (a) RJ's Module 14 observations, (b) her
+response to Video Edition 2, and (c) the family's actual first-visit Roblox checks. Do not describe a Roblox
+experience as fully approved
 until the adult-child current-version play-test has been completed.
 
 Useful Module 14 observations are listed in its guide: understanding of both

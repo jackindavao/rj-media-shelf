@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-10-17
+Last updated: 2026-10-18
 
 ## Project family
 
@@ -778,6 +778,25 @@ This is a successful reusable workflow for future textbook selections: retain
 private source images in TagaDog, compare against the cumulative exposure corpus,
 separate new concepts from familiar-family forms, translate in short aligned
 chunks, and keep publication opt-in rather than automatic.
+
+## Private Makabansa exam-prep pack
+
+- Source folder: `../TagaDog/Sources/Makabansa exam prep 20261022/`
+- Assigned content: ten photographed Aralin 5 spreads/pages covering textbook
+  pages 86–105, *Ang Ugnayan ng Kapaligiran at Kultura sa Aking Komunidad*.
+- Format reference: three photographs of a prior Grade 2 Makabansa exam. Use it
+  only as evidence for familiar formats—spelling, true/false, matching, and
+  selected response—not as evidence of Grade 3 scope or difficulty.
+- Private outputs: `README.md`, `parent-study-guide.md`, `practice-test.md`, and
+  `answer-key.md`; do not publish them through MediaDog unless explicitly asked.
+- The pack organizes the lesson around environment → livelihood → product/food →
+  festival/culture; includes English summaries, bilingual regional reference
+  tables, vocabulary, oral prompts, an October 18–21 plan, and a 40-item Filipino
+  practice test with separate explanatory key.
+- The textbook is internally inconsistent about Leyte coastal barangays: the
+  narrative says 138 and a later exercise says 255. Preserve the discrepancy in
+  adult notes and emphasize the intended inference—coastal environment supports
+  fishing and marine products—rather than requiring either disputed number.
 
 ## Creative continuity
 
