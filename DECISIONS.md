@@ -639,3 +639,42 @@ short answers because they are prominent in the Grade 3 lesson itself.
 **Why:** The old exam is useful evidence about school conventions but cannot
 reliably predict the scope, depth, or wording of an unreturned Grade 3 exam.
 Separating those roles produces relevant practice without false precision.
+
+
+## D-062 — Make story comprehension primary and translation selective
+
+**Decision:** Beginning with Module 15, read a meaningful chunk without
+line-by-line interruption. Use an English retell, pointing, or one printed
+Filipino question as an occasional gist check. Translate an exact sentence only
+when it is interesting, when a word blocks the plot, or when the reader's mental
+picture differs from the text.
+
+**Why:** Module 14 showed that intensive checking can consume half the session
+without advancing the main reading goal. RJ already demonstrates comprehension
+through detailed retelling, prediction, contextual morphology, and critical
+comparison with art. More fluent, enjoyable reading now has greater expected
+value than proving every line.
+
+## D-063 — Treat questions, cards, and the four-day rhythm as optional supports
+
+**Decision:** Keep four correct Filipino questions per page so the adult never
+has to improvise, but label the bank as a menu rather than an assignment. The
+card game is offered only while it feels playful. Three new pages and four days
+remain useful defaults, not completion rules; the family may read four to six
+pages when a story is flowing or pause for school demands.
+
+**Why:** The supports solved real earlier problems, but a successful scaffold
+should not become a source of testing pressure. Module 14's science questions
+also showed that question difficulty can accidentally exceed both the story and
+the reader's background knowledge.
+
+## D-064 — Return Module 15 to a concrete narrative problem
+
+**Decision:** Module 15 uses Polychrome's three windblown picture-book pages, a
+three-location search, and a three-picture Toto-and-ball sequence. It contains no
+science concept that must be explained before the story can be understood.
+
+**Why:** Science plots have enriched vocabulary, but Module 14 crossed the point
+where scientific reasoning and Filipino reading could be cleanly separated. A
+plain narrative tests the revised meaning-first routine while preserving
+sequencing, inference, familiar characters, and enjoyment.

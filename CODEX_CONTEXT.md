@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-10-18
+Last updated: 2026-10-26
 
 ## Project family
 
@@ -730,7 +730,7 @@ The user's report confirms that Module 13 remained well calibrated:
 - The first illustration was her favorite. Rhythm, pronunciation support, and
   enjoyment remain strong.
 
-## Module 14: current module
+## Module 14: module specification
 
 Title: *Dorothy at ang Tatlong Piraso ng Yelo*
 
@@ -748,6 +748,47 @@ Title: *Dorothy at ang Tatlong Piraso ng Yelo*
 - The four-suit review key is hearts/question 1, diamonds/question 2,
   clubs/question 3, spades/question 4; ace–queen select pages 1–12 and kings are
   wild cards.
+
+## Module 14: observed result
+
+The user's report adds a necessary limit to the otherwise successful Module 14:
+
+- RJ understood the visible sequence and the sun-versus-shade comparison, but the
+  insulation/control-variable reasoning was only superficial and required a long
+  English discussion of heat.
+- The end questions exceeded the science knowledge and, in places, the Filipino
+  sentence complexity needed for the main reading goal. They remained useful to
+  the adult but were not useful as required child questions.
+- She understood all three `tunaw` forms from context without needing to name or
+  analyze the morphology. School grammar labels did not improve comprehension.
+- The practical unfamiliar count including questions was about 30. Filipino
+  answers, combined stress support, art, and enjoyment remained strong.
+- The fixed four-suit game remained workable, but its value is conditional on
+  feeling like play rather than an assessment.
+- The four-day rhythm is no longer a requirement. School exams and the natural
+  flow of a story may justify fewer or more new pages on a given day.
+
+## Module 15: current module
+
+Title: *Dorothy at ang Tatlong Nawawalang Pahina*
+
+- 12 pages, exactly 259 running Filipino words, 7 illustrations, 6 optional end
+  questions, and 48 optional page questions.
+- Polychrome's three picture-book pages blow away. The friends retrieve them from
+  beneath a bench, a rose branch, and beside the pond, then order three visible
+  Toto-and-blue-ball events and finish the book for Ozma.
+- The module deliberately contains no prerequisite science concept. Its inference
+  work is limited to concrete search locations and a child-accessible picture
+  sequence.
+- There are 31 programmatically new story surface forms beyond the TSV and
+  Modules 0–14; the Filipino page-question bank adds 9. Many are transparent
+  members of familiar families.
+- The guide changes the working routine from line-by-line translation to
+  meaning-first supported reading: uninterrupted chunks, brief gist checks,
+  selective clarification of load-bearing words, and occasional translation
+  samples.
+- The page-question bank remains to protect the non-Filipino-speaking adult from
+  improvising incorrect questions. It is explicitly a menu, not a checklist.
 ## Private textbook-guide experiment
 
 The first textbook comparison is complete and remains private. The user placed

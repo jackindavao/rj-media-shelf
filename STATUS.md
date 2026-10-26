@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-10-18
+Last updated: 2026-10-26
 
 ## Restart point
 
@@ -275,7 +275,24 @@ Last updated: 2026-10-18
   illustration were verified with HTTP 200 on October 17, 2026 after
   publication commit `64c7eeb`.
 
-## Private textbook-guide experiment
+
+- Detailed Module 14 feedback has been incorporated. RJ understood the visible
+  melting sequence, but the insulation and controlled-comparison questions
+  required more scientific background and more complex Filipino than the reading
+  goal justified. Exact line translation, end questions, the four-suit game, and
+  the four-day rhythm are now optional supports rather than completion rules.
+- Module 15, *Dorothy at ang Tatlong Nawawalang Pahina*, has been assembled with
+  a 259-word child reader, adult guide, six optional end questions, 48 optional
+  page questions, and seven optimized illustrations. Its ordinary search and
+  picture-sequencing plot tests a meaning-first routine without prerequisite
+  science.
+- Module 15 has 31 programmatically new story surface forms beyond the TSV and
+  prior stories; its Filipino page-question bank adds 9 more. The adult guide
+  recommends uninterrupted chunks, brief gist checks, clarification only when
+  meaning is blocked, and occasional translation samples.
+- Local verification confirmed 12 pages, 259 words, seven illustrations, six end
+  questions, 48 page questions, valid references, HTTP 200 responses, and sound
+  tablet-width layouts for the library, reader, and guide.## Private textbook-guide experiment
 
 - Source folder: `../TagaDog/Sources/nawawalang tupa story/`
 - Private guide: `study-guide.md`
@@ -302,18 +319,15 @@ Last updated: 2026-10-18
 
 ## Immediate next step
 
-The immediate family task is RJ's Makabansa exam preparation through October 21.
-Other substantive inputs remain (a) RJ's Module 14 observations, (b) her
-response to Video Edition 2, and (c) the family's actual first-visit Roblox checks. Do not describe a Roblox
-experience as fully approved
-until the adult-child current-version play-test has been completed.
+Publish Module 15 to GitHub Pages, record its publication commit, and verify the
+live library, reader, guide, and a representative image. After RJ reads it,
+calibrate Module 16 from her response to story-first reading, comfortable pages
+per session, selective gist and translation checks, optional Filipino questions,
+vocabulary load, pronunciation, art, and enjoyment.
 
-Useful Module 14 observations are listed in its guide: understanding of both
-controlled comparisons and the three results; understanding of insulation;
-transfer of `matutunaw`/`natutunaw`/`natunaw`; response to the school labels;
-Filipino answers; practical unfamiliar count including questions; combined stress
-support; the four-suit review game; text-art science clarity; rhythm; and enjoyment.
-
+Other substantive inputs remain RJ's response to Video Edition 2 and the
+family's actual first-visit Roblox checks. Do not describe a Roblox experience
+as fully approved until the adult-child current-version play-test is complete.
 ## Known non-blocking details
 
 - `sample_vocab.tsv` has 415 data rows and an undocumented first marker column.
