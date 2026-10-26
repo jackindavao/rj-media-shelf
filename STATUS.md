@@ -13,6 +13,7 @@ Last updated: 2026-10-26
 - Module 12 publication commit: `b7afd1d`
 - Module 13 publication commit: `83fe896`
 - Module 14 publication commit: `64c7eeb`
+- Module 15 publication commit: `e96ad10`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -77,6 +78,10 @@ Last updated: 2026-10-26
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-14/>
 - Live Module 14 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-14/guide.html>
+- Live Module 15:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-15/>
+- Live Module 15 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-15/guide.html>
 
 ## Completed
 
@@ -292,7 +297,12 @@ Last updated: 2026-10-26
   meaning is blocked, and occasional translation samples.
 - Local verification confirmed 12 pages, 259 words, seven illustrations, six end
   questions, 48 page questions, valid references, HTTP 200 responses, and sound
-  tablet-width layouts for the library, reader, and guide.## Private textbook-guide experiment
+  tablet-width layouts for the library, reader, and guide.
+- The live library, Module 15 reader, Module 15 guide, and cover illustration
+  were verified with HTTP 200 on October 26, 2026 after publication commit
+  `e96ad10`.
+
+## Private textbook-guide experiment
 
 - Source folder: `../TagaDog/Sources/nawawalang tupa story/`
 - Private guide: `study-guide.md`
@@ -319,15 +329,14 @@ Last updated: 2026-10-26
 
 ## Immediate next step
 
-Publish Module 15 to GitHub Pages, record its publication commit, and verify the
-live library, reader, guide, and a representative image. After RJ reads it,
-calibrate Module 16 from her response to story-first reading, comfortable pages
-per session, selective gist and translation checks, optional Filipino questions,
-vocabulary load, pronunciation, art, and enjoyment.
+After RJ reads Module 15, calibrate Module 16 from her response to story-first
+reading, comfortable pages per session, selective gist and translation checks,
+optional Filipino questions, vocabulary load, pronunciation, art, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience
 as fully approved until the adult-child current-version play-test is complete.
+
 ## Known non-blocking details
 
 - `sample_vocab.tsv` has 415 data rows and an undocumented first marker column.
