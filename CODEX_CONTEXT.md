@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-10-26
+Last updated: 2026-10-31
 
 ## Project family
 
@@ -789,6 +789,42 @@ Title: *Dorothy at ang Tatlong Nawawalang Pahina*
   samples.
 - The page-question bank remains to protect the non-Filipino-speaking adult from
   improvising incorrect questions. It is explicitly a menu, not a checklist.
+
+## Module 15: observed result
+
+- Uninterrupted reading worked exceptionally well. After three pages, RJ's
+  English retell was effectively a complete line-by-line translation, so routine
+  exact translation added no diagnostic information.
+- Three new pages remains RJ's own strong preference. She then chooses nine to
+  twelve older pages through the value-and-suit card game, usually answering one
+  printed question per page. Preserve this because it is voluntary and produces
+  substantial rereading.
+- A five-session module now fits naturally: four sessions of three new pages and
+  a fifth session for end questions, retelling, or favorite pages.
+- Contextual action forms were understood without morphological analysis.
+  Filipino page answers continue to improve; end questions remain harder.
+- The practical unfamiliar count was about 38 including older or duplicate
+  forms. Art, pronunciation support, rhythm, and enjoyment remained strong.
+
+## Module 16: current module
+
+Title: *Dorothy at ang Munting Parada*
+
+- 12 pages, exactly 265 running Filipino words, 7 illustrations, 6 optional end
+  questions, and 48 optional page questions.
+- Ozma plans a garden parade. Toto's rushing breaks the line; Tik-Tok's drumbeat
+  coordinates the group; Polychrome's ribbons catch on a branch; Dorothy helps
+  free them; and the friends complete the parade together.
+- The plot is concrete and social rather than scientific. Its main inferences
+  concern order, pace, rhythm, stopping, and cooperation.
+- There are 32 programmatically new story surface forms beyond the TSV and
+  Modules 0–15, including transparent forms of familiar roots.
+- The guide explicitly preserves RJ's three-page-plus-cards choice and treats a
+  fifth session as consolidation. Gist retelling is the default comprehension
+  check; exact translation is selective.
+- A private, ignored offline copy of the complete Filipino library is maintained
+  under `offline/RJ-Filipino-Reading-Library/` with a matching ZIP for copying to
+  an Android tablet. It excludes private textbook materials.
 ## Private textbook-guide experiment
 
 The first textbook comparison is complete and remains private. The user placed

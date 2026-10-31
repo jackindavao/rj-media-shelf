@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-10-12
+Last updated: 2026-10-31
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -678,3 +678,44 @@ science concept that must be explained before the story can be understood.
 where scientific reasoning and Filipino reading could be cleanly separated. A
 plain narrative tests the revised meaning-first routine while preserving
 sequencing, inference, familiar characters, and enjoyment.
+
+## D-065 — Trust a successful gist retell
+
+**Decision:** When RJ's retell after an uninterrupted three-page chunk preserves
+the events and important details, do not require line-by-line translation.
+Sample an exact line only to investigate a genuine ambiguity or mismatch.
+
+**Why:** Her first Module 15 chunk produced a nearly exact translation without
+prompting. Rechecking every line would consume reading time without producing
+new evidence of comprehension.
+
+## D-066 — Preserve the reader-chosen three-page and card rhythm
+
+**Decision:** Use three new pages on each of four story sessions because RJ
+actively chooses that amount, then allow nine to twelve older pages selected by
+card value and one question selected by suit. Add an optional fifth session for
+end questions, retelling, or favorite pages.
+
+**Why:** The routine is now reader-owned gamification rather than an adult quota.
+It produces attentive rereading, retrieval from partial context, and voluntary
+Filipino answers while keeping sessions near thirty minutes.
+
+## D-067 — Disclose AI assistance and keep an offline sharing copy
+
+**Decision:** Clearly state that the family reading project was created with
+OpenAI tools and human review. Maintain a complete ignored offline copy and ZIP
+for noncommercial demonstration to RJ's teacher and a few parents. Include only
+the public Filipino library, never private textbook photographs or study packs.
+
+**Why:** Current OpenAI terms permit sharing subject to human review and honest
+disclosure. An ignored copy avoids publishing duplicate files while allowing the
+entire library to work on an Android tablet without internet access.
+
+## D-068 — Use a concrete parade sequence for Module 16
+
+**Decision:** Module 16 uses a small garden parade with a failed fast attempt, a
+steady drumbeat, tangled ribbons, and a successful coordinated finish.
+
+**Why:** The sequence provides visible action, reusable verb families, and
+familiar characters without making background science a prerequisite for
+reading comprehension.

@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-10-26
+Last updated: 2026-10-31
 
 ## Restart point
 
@@ -14,6 +14,7 @@ Last updated: 2026-10-26
 - Module 13 publication commit: `83fe896`
 - Module 14 publication commit: `64c7eeb`
 - Module 15 publication commit: `e96ad10`
+- Module 16 publication commit: pending
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -329,9 +330,10 @@ Last updated: 2026-10-26
 
 ## Immediate next step
 
-After RJ reads Module 15, calibrate Module 16 from her response to story-first
-reading, comfortable pages per session, selective gist and translation checks,
-optional Filipino questions, vocabulary load, pronunciation, art, and enjoyment.
+Complete Module 16 verification, publish it, generate and verify the ignored
+offline tablet copy, and then calibrate Module 17 from RJ's response to the
+parade story, reader-chosen rhythm, card review, fifth-day questions, contextual
+forms, pronunciation, art, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience
