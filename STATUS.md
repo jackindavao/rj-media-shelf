@@ -14,7 +14,7 @@ Last updated: 2026-10-31
 - Module 13 publication commit: `83fe896`
 - Module 14 publication commit: `64c7eeb`
 - Module 15 publication commit: `e96ad10`
-- Module 16 publication commit: pending
+- Module 16 publication commit: `1f4d034`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -303,6 +303,26 @@ Last updated: 2026-10-31
   were verified with HTTP 200 on October 26, 2026 after publication commit
   `e96ad10`.
 
+- Detailed Module 15 feedback has been incorporated. Uninterrupted three-page
+  reading produced an almost exact English retell, so exact line translation is
+  now selective. RJ actively prefers three new pages followed by nine to twelve
+  card-selected familiar pages, and an optional fifth session now holds end
+  questions or retelling.
+- Module 16, *Dorothy at ang Munting Parada*, has been published with a 265-word
+  child reader, adult guide, six optional end questions, 48 optional page
+  questions, and seven optimized illustrations. It has 32 programmatically new
+  story surface forms beyond the TSV and prior modules.
+- Local verification confirmed 12 pages, 265 words, seven illustrations, six
+  end questions, 48 page questions, valid references, HTTP 200 responses, and
+  sound tablet-width layouts for the library, reader, and guide.
+- The complete offline library through Module 16 is available in the ignored
+  `offline/RJ-Filipino-Reading-Library/` folder and matching ZIP. All internal
+  references resolve, and the library was visually verified from a direct
+  `file:///` URL without a web server.
+- The live library, Module 16 reader, Module 16 guide, and cover illustration
+  were verified with HTTP 200 on October 31, 2026 after publication commit
+  `1f4d034`.
+
 ## Private textbook-guide experiment
 
 - Source folder: `../TagaDog/Sources/nawawalang tupa story/`
@@ -330,10 +350,9 @@ Last updated: 2026-10-31
 
 ## Immediate next step
 
-Complete Module 16 verification, publish it, generate and verify the ignored
-offline tablet copy, and then calibrate Module 17 from RJ's response to the
-parade story, reader-chosen rhythm, card review, fifth-day questions, contextual
-forms, pronunciation, art, and enjoyment.
+After RJ reads Module 16, calibrate Module 17 from her response to the parade
+story, reader-chosen rhythm, card review, fifth-day questions, contextual forms,
+pronunciation, art, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience
