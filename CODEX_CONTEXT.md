@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-10-31
+Last updated: 2026-11-05
 
 ## Project family
 
@@ -825,6 +825,41 @@ Title: *Dorothy at ang Munting Parada*
 - A private, ignored offline copy of the complete Filipino library is maintained
   under `offline/RJ-Filipino-Reading-Library/` with a matching ZIP for copying to
   an Android tablet. It excludes private textbook materials.
+
+## Module 16: observed result
+
+- Comprehension was complete: parade roles, the failed fast attempt, the
+  drumbeat, the ribbon problem, and the two-person solution were all understood.
+- The paired forms remained clear from context without a grammar lesson.
+  Uninterrupted three-page reading produced a detailed retell; one selective
+  translation check found only a minor verb misunderstanding.
+- RJ still actively chooses three new pages because she enjoys the card-and-suit
+  review. She now often reads fifteen to twenty total pages within thirty
+  minutes, and remembers enough context to move among old stories freely.
+- All page-question types now receive Filipino answers, although `sino` and
+  static `saan` are immediate while `ano ang ginawa` requires more construction.
+- The fifth session makes the end questions more approachable. The practical
+  unfamiliar count was about 38. Pronunciation, art, rhythm, and enjoyment
+  remained strong.
+- The offline copy prompted voluntary independent reading outside the regular
+  shared session. Protect this as untested pleasure reading.
+
+## Module 17: current module
+
+Title: *Dorothy at ang Tatlong Pahiwatig*
+
+- 12 pages, exactly 265 running Filipino words, 7 illustrations, 6 optional end
+  questions, and 48 card-compatible page questions.
+- Three clues lead Dorothy, Toto, Button-Bright, and the yellow bird from the
+  fountain to sparkling white stones, a hollow tree, a false woodpecker sound,
+  and Tin Woodman's workshop. The final gift is a garden book cart for Ozma.
+- The plot is narrative and concrete. It practices clue order, careful looking,
+  careful listening, and rejecting one plausible but incorrect answer.
+- There are 27 programmatically new story surface forms beyond the TSV and
+  Modules 0–16; the Filipino page-question bank adds 5 more.
+- The guide preserves the reader-chosen three-page opening, fifteen-to-twenty-page
+  voluntary session range, card review, fifth-day questions, and selective
+  translation. Independent tablet reading remains entirely free of testing.
 ## Private textbook-guide experiment
 
 The first textbook comparison is complete and remains private. The user placed

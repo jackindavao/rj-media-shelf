@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-10-31
+Last updated: 2026-11-05
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -719,3 +719,33 @@ steady drumbeat, tangled ribbons, and a successful coordinated finish.
 **Why:** The sequence provides visible action, reusable verb families, and
 familiar characters without making background science a prerequisite for
 reading comprehension.
+
+## D-069 — Protect independent tablet reading from assessment
+
+**Decision:** Treat RJ's voluntary use of the offline library as pleasure
+reading. Do not require translation, questions, a retell, or a reading log after
+an independent session.
+
+**Why:** Choosing to read outside the regular shared session is unusually strong
+evidence of intrinsic motivation. Turning it into another assessed activity
+would risk weakening the very behavior the project is trying to cultivate.
+
+## D-070 — Let voluntary volume rise without raising difficulty
+
+**Decision:** Accept fifteen to twenty total pages in a thirty-minute shared
+session when RJ chooses them, while keeping new-story difficulty and the
+three-new-page opening stable.
+
+**Why:** Increased rereading speed and stamina are evidence of fluency, not a
+reason to raise lexical or grammatical difficulty. The card game is supporting
+context retrieval across familiar stories.
+
+## D-071 — Use a three-clue narrative for Module 17
+
+**Decision:** Module 17 follows three envelopes through a fountain, two visually
+distinct paths, a hollow tree, a harmless false tapping sound, and a workshop,
+ending with a garden book cart.
+
+**Why:** The story provides concrete sequencing and one child-accessible
+inference without prerequisite science. The book-cart ending also affirms RJ's
+new independent reading without instructing or testing her.

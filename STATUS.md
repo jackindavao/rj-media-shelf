@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-10-31
+Last updated: 2026-11-05
 
 ## Restart point
 
@@ -15,6 +15,7 @@ Last updated: 2026-10-31
 - Module 14 publication commit: `64c7eeb`
 - Module 15 publication commit: `e96ad10`
 - Module 16 publication commit: `1f4d034`
+- Module 17 publication commit: pending
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -350,9 +351,10 @@ Last updated: 2026-10-31
 
 ## Immediate next step
 
-After RJ reads Module 16, calibrate Module 17 from her response to the parade
-story, reader-chosen rhythm, card review, fifth-day questions, contextual forms,
-pronunciation, art, and enjoyment.
+Complete Module 17 verification, refresh and verify the ignored offline tablet
+copy, publish the module, and then calibrate Module 18 from RJ's response to the
+three-clue search, contextual paired forms, voluntary page count, card review,
+fifth-day questions, independent reading, pronunciation, art, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience
