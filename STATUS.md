@@ -15,7 +15,7 @@ Last updated: 2026-11-05
 - Module 14 publication commit: `64c7eeb`
 - Module 15 publication commit: `e96ad10`
 - Module 16 publication commit: `1f4d034`
-- Module 17 publication commit: pending
+- Module 17 publication commit: `f4f52a1`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -84,6 +84,14 @@ Last updated: 2026-11-05
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-15/>
 - Live Module 15 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-15/guide.html>
+- Live Module 16:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-16/>
+- Live Module 16 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-16/guide.html>
+- Live Module 17:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-17/>
+- Live Module 17 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-17/guide.html>
 
 ## Completed
 
@@ -323,6 +331,26 @@ Last updated: 2026-11-05
 - The live library, Module 16 reader, Module 16 guide, and cover illustration
   were verified with HTTP 200 on October 31, 2026 after publication commit
   `1f4d034`.
+- Detailed Module 16 feedback has been incorporated. RJ retained full story
+  comprehension with uninterrupted three-page reading, voluntarily reads up to
+  fifteen or twenty total pages within the thirty-minute session, and continues
+  to enjoy card-selected review and an optional fifth question session. Her
+  independent use of the offline tablet library is now protected as voluntary,
+  untested pleasure reading.
+- Module 17, *Dorothy at ang Tatlong Pahiwatig*, has been published with a
+  265-word child reader, adult guide, six optional end questions, 48 optional
+  page questions, and seven optimized illustrations. Its concrete three-clue
+  search includes a useful false lead and ends with Tin Woodman's garden book
+  cart for Ozma.
+- Module 17 has 27 programmatically new story surface forms beyond the TSV and
+  prior modules; its Filipino page-question bank adds 5 more.
+- Local verification confirmed 12 pages, 265 words, seven illustrations, six
+  end questions, 48 page questions, valid filesystem references, HTTP 200
+  responses, and sound tablet-width layouts for the library, reader, and guide.
+- The complete ignored offline library and matching ZIP have been refreshed
+  through Module 17. The live library, reader, guide, and cover illustration
+  were verified with HTTP 200 on November 5, 2026 after publication commit
+  `f4f52a1`.
 
 ## Private textbook-guide experiment
 
@@ -351,10 +379,9 @@ Last updated: 2026-11-05
 
 ## Immediate next step
 
-Complete Module 17 verification, refresh and verify the ignored offline tablet
-copy, publish the module, and then calibrate Module 18 from RJ's response to the
-three-clue search, contextual paired forms, voluntary page count, card review,
-fifth-day questions, independent reading, pronunciation, art, and enjoyment.
+Calibrate Module 18 from RJ's response to the three-clue search, contextual
+paired forms, voluntary page count, card review, fifth-day questions,
+independent reading, pronunciation, art, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience
