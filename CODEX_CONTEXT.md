@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-11-05
+Last updated: 2026-11-08
 
 ## Project family
 
@@ -94,8 +94,16 @@ The project is a static GitHub Pages library:
 - Module 13 adult guide: `filipino/module-13/guide.html`
 - Module 14 child reader: `filipino/module-14/index.html`
 - Module 14 adult guide: `filipino/module-14/guide.html`
+- Module 15 child reader: `filipino/module-15/index.html`
+- Module 15 adult guide: `filipino/module-15/guide.html`
+- Module 16 child reader: `filipino/module-16/index.html`
+- Module 16 adult guide: `filipino/module-16/guide.html`
+- Module 17 child reader: `filipino/module-17/index.html`
+- Module 17 adult guide: `filipino/module-17/guide.html`
+- Module 18 child reader: `filipino/module-18/index.html`
+- Module 18 adult guide: `filipino/module-18/guide.html`
 - Illustrations: `filipino/assets/module-00/` through
-  `filipino/assets/module-14/`
+  `filipino/assets/module-18/`
 
 Live library: <https://jackindavao.github.io/rj-media-shelf/filipino/>
 
@@ -844,7 +852,7 @@ Title: *Dorothy at ang Munting Parada*
 - The offline copy prompted voluntary independent reading outside the regular
   shared session. Protect this as untested pleasure reading.
 
-## Module 17: current module
+## Module 17: observed result
 
 Title: *Dorothy at ang Tatlong Pahiwatig*
 
@@ -860,6 +868,42 @@ Title: *Dorothy at ang Tatlong Pahiwatig*
 - The guide preserves the reader-chosen three-page opening, fifteen-to-twenty-page
   voluntary session range, card review, fifth-day questions, and selective
   translation. Independent tablet reading remains entirely free of testing.
+- RJ enjoyed the story and understood the complete clue order, path choice, and
+  false lead. The paired forms remained clear in context, uninterrupted reading
+  still produced a detailed retell, and selective translation found no important
+  missing detail.
+- She continued to choose three new pages followed by card review and usually
+  reached fifteen to twenty total pages in thirty minutes, sometimes including a
+  useful real-world detour such as watching what a woodpecker does. The end
+  questions were easy enough that no fifth session was needed.
+- Filipino answers now rarely require English. The practical unfamiliar count
+  was about 32. Independent reading continued voluntarily both offline and online.
+- The first end question's causative `ipinahanap` was grammatical but obscured
+  who instructed and who searched. It has been rewritten with both roles explicit,
+  and future question banks should avoid similarly unnecessary agent ambiguity.
+- RJ requested mathematics, science, and cat books in the garden cart, a red bird
+  in a yellow hat as a friend for the yellow bird in the red hat, and Ozma's pink
+  kitten. All three requests structure Module 18.
+
+## Module 18: current module
+
+Title: *Dorothy at ang Apat na Uri ng Aklat*
+
+- 12 pages, exactly 265 running Filipino words, 7 illustrations, 6 optional end
+  questions, and 48 card-compatible page questions.
+- Tin Woodman's garden cart gains story, mathematics, science, and cat books.
+  Button-Bright makes four picture markers; easy examples establish the system;
+  then a cat-covered counting book requires the friends to inspect its contents
+  and revise the kitten's first placement.
+- The tiny red bird in a yellow floppy hat and Ozma's fluffy pink kitten appear
+  for the first time and both perform useful story actions.
+- There are 29 programmatically new story surface forms beyond the TSV and
+  Modules 0–17; the Filipino page-question bank adds 6 more.
+- The guide preserves uninterrupted chunks, selective translation, reader-chosen
+  card review, optional fifth-day questions, and untested independent reading.
+- The final art uses four visibly marked cart sections and mechanically aligned
+  wheels. The opening cart is empty; the ending cart is visibly full and sorted.
+
 ## Private textbook-guide experiment
 
 The first textbook comparison is complete and remains private. The user placed
@@ -916,14 +960,15 @@ The stories take place in L. Frank Baum's literary Oz world and currently reuse
 Dorothy, Toto, Tik-Tok, and a small yellow bird with a red hat. Princess Ozma
 joined them in Module 5, Polychrome in Module 6, Professor Wogglebug in Module 8,
 Tin Woodman in Module 12, and Button-Bright in Module 13, with original
-recurring designs recorded above.
+recurring designs recorded above. A tiny red bird in a yellow floppy hat and
+Ozma's fluffy pink kitten join in Module 18.
 Stories and images are original and avoid film-specific likenesses. Each guide
 includes a production note to that effect.
 
 The visual style is lush, warm, detailed watercolor and colored pencil on
 textured paper in 3:2 landscape format. Later modules use approved earlier art as
 identity/style references during generation. Final web assets are resized to
-1200×800 JPEG at quality 88, generally around 350–430 KB per image.
+1200×800 JPEG, generally around 350–550 KB per image.
 
 The illustrations are not decorative extras: they must clearly communicate plot,
 actions, spatial relationships, emotional tone, and the meaning of new words.

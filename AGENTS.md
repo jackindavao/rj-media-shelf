@@ -43,6 +43,12 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
 - Professor Wogglebug's recurring design is a tall, friendly, upright beetle-like
   scholar with two legs, four hands, two antennae, gentle spectacles, a brilliant
   patchwork formal coat in red, yellow, blue, and green, and a small satchel.
+- The yellow bird's recurring friend is a tiny warm-red bird of the same scale,
+  wearing a yellow floppy hat. Keep the reciprocal colors unmistakable: yellow
+  bird/red hat and red bird/yellow hat.
+- Ozma's recurring kitten is small and unmistakably feline, with fluffy rose-pink
+  fur, slightly deeper pink ears and nose, bright green eyes, four normal paws,
+  and one tail.
 - Use original watercolor-and-colored-pencil storybook illustrations. Avoid
   film-specific likenesses, text embedded in images, watermarks, duplicate
   characters, and unexplained visual discontinuities.

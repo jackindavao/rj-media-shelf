@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-11-05
+Last updated: 2026-11-08
 
 ## Restart point
 
@@ -16,6 +16,7 @@ Last updated: 2026-11-05
 - Module 15 publication commit: `e96ad10`
 - Module 16 publication commit: `1f4d034`
 - Module 17 publication commit: `f4f52a1`
+- Module 18 publication commit: pending
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -351,6 +352,28 @@ Last updated: 2026-11-05
   through Module 17. The live library, reader, guide, and cover illustration
   were verified with HTTP 200 on November 5, 2026 after publication commit
   `f4f52a1`.
+- Detailed Module 17 feedback has been incorporated. RJ understood the full clue
+  sequence and false lead, continued to choose three new pages plus card review,
+  usually read fifteen to twenty total pages, answered in Filipino, and did not
+  need a fifth session. The practical unfamiliar count was about 32, and
+  independent reading continued both offline and online.
+- Module 17's first end question has been revised from the grammatical but opaque
+  causative `Ano ang ipinahanap ni Tin Woodman?` to a question that explicitly
+  names both Tin Woodman's instruction and the friends as searchers.
+- Module 18, *Dorothy at ang Apat na Uri ng Aklat*, has been assembled with a
+  265-word child reader, adult guide, six optional end questions, 48 optional
+  page questions, and seven optimized illustrations. It sorts story,
+  mathematics, science, and cat books and introduces the requested red bird and
+  pink kitten as active helpers.
+- Module 18 has 29 programmatically new story surface forms beyond the TSV and
+  prior modules; its Filipino page-question bank adds 6 more.
+- Local verification confirmed 12 pages, 265 words, seven illustrations, six
+  end questions, 48 page questions, 12 aligned translations, valid references,
+  HTTP 200 responses, and sound tablet-width layouts for the library, reader,
+  and guide.
+- The ignored offline library and matching 53.4 MB ZIP have been refreshed
+  through Module 18. All internal references resolve, and the updated library
+  was visually verified from a direct `file:///` URL without a web server.
 
 ## Private textbook-guide experiment
 
@@ -379,9 +402,11 @@ Last updated: 2026-11-05
 
 ## Immediate next step
 
-Calibrate Module 18 from RJ's response to the three-clue search, contextual
-paired forms, voluntary page count, card review, fifth-day questions,
-independent reading, pronunciation, art, and enjoyment.
+Complete Module 18 verification, refresh the ignored offline tablet copy,
+publish the module, and then calibrate Module 19 from RJ's response to the new
+bird and kitten, four book categories, misleading cover, explicit-agent
+questions, contextual forms, voluntary reading, pronunciation, art, and
+enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience

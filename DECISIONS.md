@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-11-05
+Last updated: 2026-11-08
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -749,3 +749,26 @@ ending with a garden book cart.
 **Why:** The story provides concrete sequencing and one child-accessible
 inference without prerequisite science. The book-cart ending also affirms RJ's
 new independent reading without instructing or testing her.
+
+## D-072 — Prefer explicit agents in learner-facing questions
+
+**Decision:** When a correct causative or object-focus construction would omit
+or blur who gives an instruction and who performs it, prefer a slightly longer
+question that names both roles. Module 17's `Ano ang ipinahanap ni Tin Woodman?`
+is revised to `Ano ang sinabi ni Tin Woodman na dapat hanapin ng mga kaibigan?`
+
+**Why:** The original question was grammatical, but RJ and the adult reasonably
+read Tin Woodman as the searcher. At this stage a question should reveal story
+comprehension rather than make the learner resolve an avoidable voice ambiguity.
+
+## D-073 — Let RJ's library and character requests drive Module 18
+
+**Decision:** Module 18 sorts story, mathematics, science, and cat books into
+four picture-marked cart sections. A cat-covered counting book supplies the
+single correction: inspect the contents rather than classify by the cover alone.
+Introduce the requested red bird in a yellow floppy hat and Ozma's pink kitten as
+active helpers.
+
+**Why:** The plot honors RJ's direct editorial suggestions, gives both new
+characters meaningful actions, and provides a concrete classification problem
+without raising the reading level or requiring background science.
