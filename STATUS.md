@@ -16,7 +16,7 @@ Last updated: 2026-11-08
 - Module 15 publication commit: `e96ad10`
 - Module 16 publication commit: `1f4d034`
 - Module 17 publication commit: `f4f52a1`
-- Module 18 publication commit: pending
+- Module 18 publication commit: `8ae7dbf`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -93,6 +93,10 @@ Last updated: 2026-11-08
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-17/>
 - Live Module 17 guide:
   <https://jackindavao.github.io/rj-media-shelf/filipino/module-17/guide.html>
+- Live Module 18:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-18/>
+- Live Module 18 guide:
+  <https://jackindavao.github.io/rj-media-shelf/filipino/module-18/guide.html>
 
 ## Completed
 
@@ -360,7 +364,7 @@ Last updated: 2026-11-08
 - Module 17's first end question has been revised from the grammatical but opaque
   causative `Ano ang ipinahanap ni Tin Woodman?` to a question that explicitly
   names both Tin Woodman's instruction and the friends as searchers.
-- Module 18, *Dorothy at ang Apat na Uri ng Aklat*, has been assembled with a
+- Module 18, *Dorothy at ang Apat na Uri ng Aklat*, has been published with a
   265-word child reader, adult guide, six optional end questions, 48 optional
   page questions, and seven optimized illustrations. It sorts story,
   mathematics, science, and cat books and introduces the requested red bird and
@@ -374,6 +378,9 @@ Last updated: 2026-11-08
 - The ignored offline library and matching 53.4 MB ZIP have been refreshed
   through Module 18. All internal references resolve, and the updated library
   was visually verified from a direct `file:///` URL without a web server.
+- The live library, Module 18 reader, Module 18 guide, cover illustration, and
+  revised Module 17 question were verified with HTTP 200 on November 8, 2026
+  after publication commit `8ae7dbf`.
 
 ## Private textbook-guide experiment
 
@@ -402,11 +409,9 @@ Last updated: 2026-11-08
 
 ## Immediate next step
 
-Complete Module 18 verification, refresh the ignored offline tablet copy,
-publish the module, and then calibrate Module 19 from RJ's response to the new
-bird and kitten, four book categories, misleading cover, explicit-agent
-questions, contextual forms, voluntary reading, pronunciation, art, and
-enjoyment.
+Calibrate Module 19 from RJ's response to the new bird and kitten, four book
+categories, misleading cover, explicit-agent questions, contextual forms,
+voluntary reading, pronunciation, art, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience
