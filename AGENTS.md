@@ -33,7 +33,9 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
   with a wind-up key; a tiny yellow bird wearing a red floppy hat; and Princess
   Ozma as a gracious young ruler with long dark wavy hair, a narrow gold circlet
   with one emerald, an emerald-and-ivory dress with restrained gold-leaf
-  embroidery, and green slippers; and Polychrome as a slender fairy-like girl
+  embroidery, and green slippers; Ozma may change dresses when the story calls
+  for it, but preserve her hair, emerald circlet, green slippers, emerald accent,
+  and gracious identity; and Polychrome as a slender fairy-like girl
   about Dorothy's height, with long pearly silver-blonde hair carrying a pastel
   sheen, a flowing layered translucent rainbow dress, pale slippers, and no crown.
 - Button-Bright's recurring design is a cheerful young boy slightly shorter than
@@ -43,6 +45,10 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
 - Professor Wogglebug's recurring design is a tall, friendly, upright beetle-like
   scholar with two legs, four hands, two antennae, gentle spectacles, a brilliant
   patchwork formal coat in red, yellow, blue, and green, and a small satchel.
+- Scarecrow's recurring design is a tall, gentle straw man with a soft tan cloth
+  face, friendly painted features, a floppy blue-green hat, patched moss-green
+  coat, warm brown trousers, and straw visible at the collar and cuffs. Keep the
+  design original and avoid film-specific details.
 - The yellow bird's recurring friend is a tiny warm-red bird of the same scale,
   wearing a yellow floppy hat. Keep the reciprocal colors unmistakable: yellow
   bird/red hat and red bird/yellow hat.

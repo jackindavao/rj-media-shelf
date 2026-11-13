@@ -14,9 +14,11 @@
 
 * { box-sizing: border-box; }
 
-html { scroll-behavior: smooth; }
+html { max-width: 100%; overflow-x: hidden; scroll-behavior: smooth; }
 
 body {
+  max-width: 100%;
+  overflow-x: hidden;
   margin: 0;
   color: var(--ink);
   background:
@@ -178,6 +180,14 @@ h1, h2, h3 { line-height: 1.15; }
 .questions li { margin: 14px 0; padding-left: .25em; font-size: 22px; }
 
 .guide { padding: 46px 0 80px; }
+.guide-hero {
+  width: min(1040px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 36px 0 28px;
+  border-bottom: 2px solid var(--green);
+}
+.guide-hero h1 { margin: 4px 0 10px; color: var(--green-dark); font-size: 48px; }
+.guide-section { min-width: 0; }
 .guide-header { padding-top: 36px; padding-bottom: 28px; border-bottom: 2px solid var(--green); }
 .guide-header h1 { margin: 4px 0 10px; color: var(--green-dark); font-size: 48px; }
 .guide-main { padding-bottom: 80px; }
@@ -200,6 +210,7 @@ h1, h2, h3 { line-height: 1.15; }
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
 }
+.table-scroll { max-width: 100%; overflow-x: auto; }
 .table-wrap { max-width: 100%; overflow-x: auto; }
 .answer-grid, .translation-grid {
   display: grid;
@@ -222,11 +233,25 @@ table tr:nth-child(even) td { background: #f6f3e9; }
 
 @media (max-width: 720px) {
   body { font-size: 17px; }
-  .module-card { grid-template-columns: 1fr; }
+  .site-header-inner,
+  .library,
+  .guide,
+  .guide-header,
+  .guide-main,
+  .guide-hero,
+  .reader-intro,
+  .question-page { width: calc(100vw - 32px); max-width: calc(100vw - 32px); }
+  .story { width: calc(100vw - 24px); max-width: calc(100vw - 24px); }
+  .module-card { width: 100%; min-width: 0; grid-template-columns: 1fr; }
   .module-card img { min-height: 0; aspect-ratio: 3 / 2; }
   .preview-grid { grid-template-columns: repeat(2, 1fr); }
-  .reader-bar { font-size: 13px; }
+  .reader-bar { gap: 6px; padding: 8px; font-size: 11px; }
+  .reader-bar > * { min-width: 0; }
+  .reader-bar span { text-align: center; line-height: 1.2; }
+  .library h2, .reader-intro h1, .guide-hero h1, .guide-main h2 { overflow-wrap: anywhere; }
+  .reader-intro h1 { font-size: 36px; }
   .story-text { font-size: 26px; }
+  .guide-hero h1 { overflow-wrap: anywhere; font-size: 36px; }
   .guide-header h1 { font-size: 38px; }
   .answer-grid, .translation-grid { grid-template-columns: 1fr; }
   .session-table, .vocab-table, .translation-table, .answers-table { display: block; overflow-x: auto; }

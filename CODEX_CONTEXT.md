@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-11-08
+Last updated: 2026-11-13
 
 ## Project family
 
@@ -903,6 +903,48 @@ Title: *Dorothy at ang Apat na Uri ng Aklat*
   card review, optional fifth-day questions, and untested independent reading.
 - The final art uses four visibly marked cart sections and mechanically aligned
   wheels. The opening cart is empty; the ending cart is visibly full and sorted.
+
+## Module 18: observed result
+
+- RJ enthusiastically accepted the red bird as the yellow bird's continuing
+  companion and welcomed the pink kitten. She understood all four categories,
+  the easy examples, the misleading cat cover, and the look-inside rule.
+- Uninterrupted three-page reading continued to produce a detailed retell.
+  Filipino answers are increasingly original, no fifth session was needed, and
+  voluntary independent reading continued.
+- The family now previews roughly ten new or rusty items before each three-page
+  group with the small VocDog flash-card app. This efficiently reduces lookup
+  interruptions. Preserve it as a two-to-four-minute recognition preview using
+  useful phrases as well as single words; do not require mastery before reading.
+- RJ typically chooses three new pages and roughly ten to twelve card-selected
+  familiar pages. The practical unfamiliar count was about 45 including older
+  unsettled forms.
+- The Module 18 page-5 marker text has been corrected from `mga bilang` to
+  `mga hugis` to match the existing mathematics-marker art. Secondary art
+  variation remains welcome, but core evidence named in prose should agree.
+- RJ requested that the red bird remain, observed that Ozma needed a new dress,
+  and confirmed that the full literary Oz cast and settings may be used freely.
+
+## Module 19: current module
+
+Title: *Dorothy at ang Paanyaya kay Scarecrow*
+
+- 12 pages, exactly 265 running Filipino words, 7 illustrations, 6 optional end
+  questions, and 48 card-compatible page questions.
+- Dorothy and the two birds deliver Ozma's invitation to Scarecrow in a cornfield.
+  The birds first hesitate, then approach after Dorothy's reassurance. A gust
+  carries the invitation away; a ribbon-only false clue fails; the birds' view
+  from above reveals the paper between the rows.
+- There are 22 programmatically new story surface forms beyond the TSV and
+  Modules 0–18. The question bank adds 17, many transparent forms.
+- The adult guide adds four optional three-page VocDog warm-up menus and makes
+  their purpose explicit: quick recognition that protects story flow, not
+  vocabulary mastery before reading.
+- Scarecrow's recurring original design is a gentle straw man with a soft tan
+  cloth face, friendly painted features, floppy blue-green hat, patched
+  moss-green coat, brown trousers, and straw at collar and cuffs.
+- Ozma wears a new sapphire-blue, ivory, and rose dress while retaining her dark
+  hair, emerald circlet, green slippers, and established identity.
 
 ## Private textbook-guide experiment
 

@@ -381,6 +381,26 @@ Last updated: 2026-11-08
 - The live library, Module 18 reader, Module 18 guide, cover illustration, and
   revised Module 17 question were verified with HTTP 200 on November 8, 2026
   after publication commit `8ae7dbf`.
+- Detailed Module 18 feedback has been incorporated. RJ understood the complete
+  classification sequence, continues uninterrupted three-page reading and card
+  review, answers increasingly in original Filipino, and reads independently.
+  A brief roughly ten-item VocDog preview now reduces lookup interruptions.
+- Module 19, *Dorothy at ang Paanyaya kay Scarecrow*, has been assembled with
+  exactly 265 running Filipino words, 12 pages, 7 optimized illustrations, 6 end
+  questions, 48 page questions, and four optional three-page vocabulary previews.
+  It introduces Scarecrow, preserves both bird friends, and gives Ozma a new
+  sapphire-blue, ivory, and rose dress.
+- Module 19 has 22 programmatically new story surface forms beyond the TSV and
+  earlier modules; its question bank adds 17 more, many transparent forms.
+- Module 18's mathematics marker has been corrected from `mga bilang` to
+  `mga hugis` so the story agrees with the existing illustration.
+- Local verification confirmed 12 pages, 265 words, 7 illustrations, 6 end
+  questions, 48 page questions, 12 aligned translations, 1200×800 web assets,
+  valid references, HTTP 200 responses, and clean narrow-width reader and guide
+  layouts. The shared guide CSS now contains the previously missing guide-hero
+  and scrollable-table rules.
+- The ignored offline library and matching ZIP have been refreshed through
+  Module 19. All internal bundle references resolve; the ZIP is about 56.9 MB.
 
 ## Private textbook-guide experiment
 
@@ -409,9 +429,10 @@ Last updated: 2026-11-08
 
 ## Immediate next step
 
-Calibrate Module 19 from RJ's response to the new bird and kitten, four book
-categories, misleading cover, explicit-agent questions, contextual forms,
-voluntary reading, pronunciation, art, and enjoyment.
+Finish Module 19 publication verification, refresh the ignored offline library,
+commit and push, then calibrate Module 20 from RJ's response to Scarecrow, the
+two birds' hesitation and viewpoint, the brief VocDog preview, contextual forms,
+questions, Ozma's new dress, art, pronunciation, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience

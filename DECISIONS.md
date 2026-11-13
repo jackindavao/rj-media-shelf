@@ -772,3 +772,27 @@ active helpers.
 **Why:** The plot honors RJ's direct editorial suggestions, gives both new
 characters meaningful actions, and provides a concrete classification problem
 without raising the reading level or requiring background science.
+
+## D-074 — Use a tiny vocabulary preview to protect story flow
+
+**Decision:** Permit a two-to-four-minute VocDog recognition preview before each
+three-page group, normally no more than about ten genuinely new or rusty items.
+Use multiword phrases when they carry the scene. Begin reading even if one item
+remains uncertain, and treat removal from the cycle as “ready for this page,” not
+“mastered.”
+
+**Why:** The family's experiment reduces lookup interruptions while preserving
+uninterrupted, meaning-first reading. It adds useful scaffolding without turning
+the session into vocabulary memorization.
+
+## D-075 — Introduce Scarecrow through the two birds' viewpoint
+
+**Decision:** Module 19 introduces Scarecrow in a cornfield. The birds' ordinary
+hesitation, his welcoming bow, a windblown invitation, a ribbon-only false clue,
+and the birds' view from above create the complete story. The red bird remains the
+yellow bird's companion, and Ozma receives a new dress without losing her stable
+identity cues.
+
+**Why:** The plot honors RJ's requested cast, adds one accessible real-world idea
+about scarecrows and viewpoint, and keeps the language problem concrete after a
+relatively high practical unfamiliar count in Module 18.
