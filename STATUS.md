@@ -401,6 +401,9 @@ Last updated: 2026-11-08
   and scrollable-table rules.
 - The ignored offline library and matching ZIP have been refreshed through
   Module 19. All internal bundle references resolve; the ZIP is about 56.9 MB.
+- The live library, Module 19 reader, Module 19 guide, and representative
+  overhead-search illustration were verified with HTTP 200 on November 13, 2026
+  after publication commit `466c68d`.
 
 ## Private textbook-guide experiment
 
@@ -429,10 +432,9 @@ Last updated: 2026-11-08
 
 ## Immediate next step
 
-Finish Module 19 publication verification, refresh the ignored offline library,
-commit and push, then calibrate Module 20 from RJ's response to Scarecrow, the
-two birds' hesitation and viewpoint, the brief VocDog preview, contextual forms,
-questions, Ozma's new dress, art, pronunciation, and enjoyment.
+Calibrate Module 20 from RJ's response to Scarecrow, the two birds' hesitation
+and viewpoint, the brief VocDog preview, contextual forms, questions, Ozma's new
+dress, art, pronunciation, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience
