@@ -985,6 +985,8 @@ Title: *Dorothy, Trot, at ang Parisukat na Buhol*
 - Captain Bill's recurring design is short, stout, bald on top, friendly, with a
   reddish chin-whisker fringe, navy sailor clothes, and exactly one wooden lower
   leg; the pipe is omitted.
+- Module 20 was published and verified live on November 20, 2026 in commit
+  `5b67c7d`.
 
 ## Private textbook-guide experiment
 

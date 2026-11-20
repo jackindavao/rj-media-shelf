@@ -18,6 +18,7 @@ Last updated: 2026-11-20
 - Module 17 publication commit: `f4f52a1`
 - Module 18 publication commit: `8ae7dbf`
 - Module 19 publication commit: `466c68d`
+- Module 20 publication commit: `5b67c7d`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -422,6 +423,9 @@ Last updated: 2026-11-20
 - The ignored offline library and matching 58.0 MiB ZIP have been refreshed
   through Module 20. Private textbook photographs and study guides remain outside
   the bundle.
+- The live library, Module 20 reader, Module 20 guide, representative knot-test
+  illustration, and revised Module 19 question were verified with HTTP 200 on
+  November 20, 2026 after publication commit `5b67c7d`.
 
 ## Private textbook-guide experiment
 
@@ -450,10 +454,9 @@ Last updated: 2026-11-20
 
 ## Immediate next step
 
-Finish local verification, refresh the offline library, publish Module 20, and
-verify the live reader and guide. After RJ reads it, calibrate Module 21 from her
-response to Trot, Captain Bill, Dorothy's new dress, the knot sequence and safety
-limit, the VocDog preview, question wording, art, pronunciation, and enjoyment.
+After RJ reads Module 20, calibrate Module 21 from her response to Trot, Captain
+Bill, Dorothy's new dress, the knot sequence and safety limit, the VocDog preview,
+question wording, art, pronunciation, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience
