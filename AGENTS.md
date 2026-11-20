@@ -42,6 +42,13 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
   Dorothy, with tousled sandy-blond hair, a cream sailor blouse with navy collar
   and cuffs and bright brass buttons, navy knee-length shorts, cream socks, brown
   boots, and a small round navy sailor cap.
+- Trot's recurring design is a cheerful girl about Dorothy's age, with
+  shoulder-length dark-auburn hair held by a sea-green ribbon, a sea-green
+  sailor-style dress with a cream collar, and sturdy brown shoes.
+- Captain Bill's recurring design is a short, stout, friendly elderly sailor,
+  bald on top with a scraggly reddish fringe of whisker beneath his chin, merry
+  blue eyes, a cream sailor shirt with a broad navy collar, a short navy peacoat,
+  wide trousers, and exactly one clearly wooden lower leg. Omit the pipe.
 - Professor Wogglebug's recurring design is a tall, friendly, upright beetle-like
   scholar with two legs, four hands, two antennae, gentle spectacles, a brilliant
   patchwork formal coat in red, yellow, blue, and green, and a small satchel.

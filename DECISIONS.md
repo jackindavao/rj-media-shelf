@@ -1,6 +1,6 @@
 # Project decisions
 
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.
@@ -796,3 +796,34 @@ identity cues.
 **Why:** The plot honors RJ's requested cast, adds one accessible real-world idea
 about scarecrows and viewpoint, and keeps the language problem concrete after a
 relatively high practical unfamiliar count in Module 18.
+
+## D-076 — Keep learner questions inside the story's evidence and vocabulary
+
+**Decision:** End questions should normally use words and distinctions already
+present in the story or its brief preview. If a new abstract question term is
+worth introducing, preview it deliberately. Revise Module 19's `nag-atubili`
+and `sapat` questions to concrete story-language questions.
+
+**Why:** Both original questions tested unfamiliar wording more than story
+comprehension. `Nag-atubili` also weakened the story's explicit evidence that the
+birds were afraid. Concrete wording lets RJ show what she understood in Filipino.
+
+## D-077 — Preserve VocDog as a brief reader-owned preview
+
+**Decision:** Continue the roughly ten-item, one-to-two-minute VocDog preview
+before each new three-page group because RJ now requests it herself. Include old
+but shaky items and use phrases only when the phrase supplies one useful picture.
+
+**Why:** The preview reduces lookup interruptions, gives RJ an enjoyable quick
+success, and supports uninterrupted reading without becoming vocabulary study.
+
+## D-078 — Introduce Trot and Captain Bill through a bounded making story
+
+**Decision:** Module 20 introduces Trot and Captain Bill at the original Lake of
+Lilies. Dorothy and Trot bind a light picnic blanket with a square knot after the
+first knot twists loose. The story states that the knot is not for tying or
+lifting a person.
+
+**Why:** The visible hand sequence suits the contextual reading method, honors
+RJ's cast request, gives Dorothy the requested new dress, and adds useful practical
+knowledge without requiring an abstract science explanation.

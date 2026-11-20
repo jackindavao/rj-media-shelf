@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-11-08
+Last updated: 2026-11-20
 
 ## Restart point
 
@@ -17,6 +17,7 @@ Last updated: 2026-11-08
 - Module 16 publication commit: `1f4d034`
 - Module 17 publication commit: `f4f52a1`
 - Module 18 publication commit: `8ae7dbf`
+- Module 19 publication commit: `466c68d`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -404,6 +405,23 @@ Last updated: 2026-11-08
 - The live library, Module 19 reader, Module 19 guide, and representative
   overhead-search illustration were verified with HTTP 200 on November 13, 2026
   after publication commit `466c68d`.
+- Detailed Module 19 feedback has been incorporated. RJ understood the full
+  search sequence, enjoyed Scarecrow and both birds, and again gave a nearly
+  line-by-line retell after uninterrupted reading. The VocDog preview is now a
+  reader-requested one-to-two-minute ritual. The two troublesome end questions
+  using `nag-atubili` and `sapat` have been rewritten in concrete story language.
+- Module 20, *Dorothy, Trot, at ang Parisukat na Buhol*, has been assembled with
+  exactly 265 running Filipino words, 12 pages, 7 optimized illustrations, 6 end
+  questions, 48 page questions, and four optional three-page VocDog previews.
+  It introduces Trot and Captain Bill, gives Dorothy a new violet dress, and uses
+  a picnic bundle to show the opposite-crossing sequence of a square knot.
+- Module 20 has 36 programmatically new story surface forms beyond the TSV and
+  prior modules; the page-question bank adds only 3 more. Most additional novelty
+  is concentrated in one visible cluster: bundle, rope, knot, boat, and picnic
+  actions. The knot is explicitly excluded from tying or lifting a person.
+- The ignored offline library and matching 58.0 MiB ZIP have been refreshed
+  through Module 20. Private textbook photographs and study guides remain outside
+  the bundle.
 
 ## Private textbook-guide experiment
 
@@ -432,9 +450,10 @@ Last updated: 2026-11-08
 
 ## Immediate next step
 
-Calibrate Module 20 from RJ's response to Scarecrow, the two birds' hesitation
-and viewpoint, the brief VocDog preview, contextual forms, questions, Ozma's new
-dress, art, pronunciation, and enjoyment.
+Finish local verification, refresh the offline library, publish Module 20, and
+verify the live reader and guide. After RJ reads it, calibrate Module 21 from her
+response to Trot, Captain Bill, Dorothy's new dress, the knot sequence and safety
+limit, the VocDog preview, question wording, art, pronunciation, and enjoyment.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience

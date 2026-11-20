@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-11-13
+Last updated: 2026-11-20
 
 ## Project family
 
@@ -925,7 +925,7 @@ Title: *Dorothy at ang Apat na Uri ng Aklat*
 - RJ requested that the red bird remain, observed that Ozma needed a new dress,
   and confirmed that the full literary Oz cast and settings may be used freely.
 
-## Module 19: current module
+## Module 19: observed result
 
 Title: *Dorothy at ang Paanyaya kay Scarecrow*
 
@@ -945,6 +945,46 @@ Title: *Dorothy at ang Paanyaya kay Scarecrow*
   moss-green coat, brown trousers, and straw at collar and cuffs.
 - Ozma wears a new sapphire-blue, ivory, and rose dress while retaining her dark
   hair, emerald circlet, green slippers, and established identity.
+- RJ enjoyed Scarecrow and the continuing bird pair, understood the entire
+  invitation search, and again produced a nearly line-by-line retell after an
+  uninterrupted three-page reading. Selective translation exposed no important
+  missed detail.
+- The VocDog preview is now demonstrably reader-owned: RJ asked for it when the
+  adult began without it. Keep it near ten new or rusty items and one or two
+  minutes, with phrases only when a phrase carries the picture.
+- The Module 19 end questions introduced two avoidable problems. `Nag-atubili`
+  did not match the story's explicit fear, and `sapat` was both unpreviewed and
+  under-specified. Both published questions have been rewritten with concrete
+  story language.
+- RJ connected `sa pagitan` with `gitna` by asking to reopen Module 4 and finding
+  the earlier sentence herself. Treat this as evidence that rereading is building
+  a network of meanings rather than isolated translations.
+- RJ requested Trot and Captain Bill, approved invented Oz places and supporting
+  characters, and asked for continued variety among ordinary adventures, making
+  stories, and small real-knowledge stories.
+
+## Module 20: current module
+
+Title: *Dorothy, Trot, at ang Parisukat na Buhol*
+
+- 12 pages, exactly 265 running Filipino words, 7 illustrations, 6 optional end
+  questions, and 48 card-compatible page questions.
+- Dorothy, wearing a new violet dress, meets Trot and Captain Bill at the original
+  Lake of Lilies. A picnic blanket opens, Trot's first same-direction knot twists
+  loose, and the girls make and test a flat square knot by reversing the second
+  crossing.
+- The knot is explicitly limited to a light bundle and excluded from tying or
+  lifting a person. It is a concrete making story, not a safety or load-bearing
+  knot lesson.
+- There are 36 programmatically new story surface forms beyond the TSV and
+  Modules 0–19, and the page-question bank adds only 3. Many are names,
+  transparent familiar-family forms, or inflections; the genuinely new lexical
+  cluster is concentrated around the picnic bundle, rope, knot, and boat trip.
+- Trot's recurring design is a same-age girl with shoulder-length dark-auburn
+  hair, sea-green ribbon, sea-green sailor dress, cream collar, and brown shoes.
+- Captain Bill's recurring design is short, stout, bald on top, friendly, with a
+  reddish chin-whisker fringe, navy sailor clothes, and exactly one wooden lower
+  leg; the pipe is omitted.
 
 ## Private textbook-guide experiment
 
