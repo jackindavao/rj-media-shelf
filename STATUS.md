@@ -19,6 +19,7 @@ Last updated: 2026-11-26
 - Module 18 publication commit: `8ae7dbf`
 - Module 19 publication commit: `466c68d`
 - Module 20 publication commit: `5b67c7d`
+- Module 21 publication commit: `4d2b780`
 - Current video shelf: <https://jackindavao.github.io/rj-media-shelf/>
 - Archived Video Edition 1:
   <https://jackindavao.github.io/rj-media-shelf/videos/edition-01/>
@@ -454,11 +455,12 @@ Last updated: 2026-11-26
 
 ## Immediate next step
 
-Module 21, *Dorothy at ang Munting Tunog sa Palasyo*, is assembled as a
+Module 21, *Dorothy at ang Munting Tunog sa Palasyo*, is live as a
 12-page, 265-word palace adventure with seven illustrations, six end questions,
-and 48 page questions. Local HTTP, references, and tablet layout were checked;
-the ignored offline folder and ZIP include Modules 0–21. Module 20's guide now distinguishes the story art
-from an actual knot diagram. After RJ reads Module 21, use her response to the
+and 48 page questions. Local HTTP, references, and tablet layout were checked.
+The live library, reader, guide, curtain illustration, and revised Module 20
+guide returned HTTP 200 on November 26, 2026. The ignored offline folder and
+ZIP include Modules 0–21. After RJ reads Module 21, use her response to the
 palace, ponytail, sound clues, and vocabulary load to calibrate Module 22.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
