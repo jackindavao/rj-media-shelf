@@ -1,6 +1,15 @@
 # Project decisions
 
-Last updated: 2026-11-20
+Last updated: 2026-11-26
+
+## Module 21 calibration
+
+After the knot story’s higher vocabulary load and ambiguous procedural art,
+return to an ordinary adventure with visible, separately checkable clues.
+If an essential procedure cannot be shown accurately, use a verified diagram
+or physical demonstration rather than treating generated art as instruction.
+Keep flexible one-to-three-page reading, optional review first, and short
+VocDog previews with phrases whenever useful.
 
 This is a lightweight decision log. Preserve these decisions until new reader
 evidence or an explicit user request justifies changing them.

@@ -1,6 +1,6 @@
 # Current project status
 
-Last updated: 2026-11-20
+Last updated: 2026-11-26
 
 ## Restart point
 
@@ -454,9 +454,12 @@ Last updated: 2026-11-20
 
 ## Immediate next step
 
-After RJ reads Module 20, calibrate Module 21 from her response to Trot, Captain
-Bill, Dorothy's new dress, the knot sequence and safety limit, the VocDog preview,
-question wording, art, pronunciation, and enjoyment.
+Module 21, *Dorothy at ang Munting Tunog sa Palasyo*, is assembled as a
+12-page, 265-word palace adventure with seven illustrations, six end questions,
+and 48 page questions. Local HTTP, references, and tablet layout were checked;
+the ignored offline folder and ZIP include Modules 0–21. Module 20's guide now distinguishes the story art
+from an actual knot diagram. After RJ reads Module 21, use her response to the
+palace, ponytail, sound clues, and vocabulary load to calibrate Module 22.
 
 Other substantive inputs remain RJ's response to Video Edition 2 and the
 family's actual first-visit Roblox checks. Do not describe a Roblox experience

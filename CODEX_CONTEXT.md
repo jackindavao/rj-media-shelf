@@ -1,6 +1,6 @@
 # RJ's Media Shelf project context
 
-Last updated: 2026-11-20
+Last updated: 2026-11-26
 
 ## Project family
 
@@ -987,6 +987,24 @@ Title: *Dorothy, Trot, at ang Parisukat na Buhol*
   leg; the pipe is omitted.
 - Module 20 was published and verified live on November 20, 2026 in commit
   `5b67c7d`.
+
+## Module 20 feedback and Module 21
+
+- RJ liked Trot, Captain Bill, Dorothy’s violet dress, and the bird pair. The
+  practical unfamiliar count was about 53, including rusty forms. The family
+  read the module twice. A cord demonstration succeeded where the prose and
+  illustrations did not: the rope paths in the pictures were not valid knot
+  diagrams. The guide now acknowledges this. Do not test procedural knowledge
+  from artwork that cannot show the procedure correctly.
+- Keep the short recognition preview near ten useful items. Phrase cards are
+  welcome whenever helpful, not only for phrases with a single visual referent.
+  RJ currently often prefers one page at a time and may choose current-module
+  card review first; about fifteen pages fit when conversations branch out.
+- Module 21 is an ordinary sound mystery inside Ozma’s palace: a silent harp,
+  a book room, a tail under a blue curtain, and a pink kitten rolling a golden
+  ball. Trot, Captain Bill, and both birds return. Dorothy keeps the violet
+  dress and uses a single brown ponytail tied with a blue ribbon. Save Glinda
+  as a welcome option for a later story.
 
 ## Private textbook-guide experiment
 

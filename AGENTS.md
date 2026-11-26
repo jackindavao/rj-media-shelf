@@ -65,6 +65,11 @@ These instructions apply to the entire repository. Read `CODEX_CONTEXT.md`,
 - Use original watercolor-and-colored-pencil storybook illustrations. Avoid
   film-specific likenesses, text embedded in images, watermarks, duplicate
   characters, and unexplained visual discontinuities.
+- Dorothy wears a single unbraided brown ponytail with a blue ribbon in Module
+  21 at RJ's request; keep her recognizable face and silver shoes.
+- Do not rely on generated illustrations as diagrams for precise procedures.
+  Verify essential visual clues against the finished art; use an accurate
+  diagram or recommend an adult demonstration when needed.
 - Keep the Filipino prose accurate, natural, and readable. Verify exact running
   word counts programmatically rather than estimating.
 - When displaying or reading HTML in PowerShell, specify UTF-8. Garbled terminal
